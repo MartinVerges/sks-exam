@@ -1,0 +1,481 @@
+{
+  "fragebogen": 2,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb02-q01",
+      "fragebogen": 2,
+      "number": 1,
+      "question": "Welche Themen (Grobgliederung) enthalten die Seehandbücher des BSH?",
+      "answer": "1. Schifffahrtsangelegenheiten, 2. Naturverhältnisse, 3. Küstenkunde und Segelanweisungen.",
+      "answer_html": "1. <strong>Schifffahrtsangelegenheiten</strong>,<br>2. <strong>Naturverhältnisse</strong>,<br>3. <strong>Küstenkunde</strong> und Segelanweisungen.",
+      "keywords": [
+        "Schifffahrtsangelegenheiten",
+        "Naturverhältnisse",
+        "Küstenkunde"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q02",
+      "fragebogen": 2,
+      "number": 2,
+      "question": "1. Was sind Richtfeuer (leading lights)? 2. Wann befindet man sich in einer Richtlinie eines Richtfeuers?",
+      "answer": "1. Feuer, die als Unter- und Oberfeuer in Deckpeilung als Richtlinie beispielsweise den Kurs im Fahrwasser, durch eine Hafeneinfahrt oder im freien Seeraum zwischen Untiefen bezeichnen. 2. Ein Schiff befindet sich in der Richtlinie, wenn Unter- und Oberfeuer senkrecht übereinander erscheinen.",
+      "answer_html": "1. Feuer, die als <strong>Unter- und Oberfeuer</strong> in <strong>Deckpeilung als Richtlinie</strong> beispielsweise den Kurs im Fahrwasser, durch eine Hafeneinfahrt oder im freien Seeraum zwischen Untiefen bezeichnen.<br>2. Ein Schiff befindet sich in der Richtlinie, wenn <strong>Unter- und Oberfeuer senkrecht</strong> übereinander erscheinen.",
+      "keywords": [
+        "Unter- und Oberfeuer",
+        "Deckpeilung als Richtlinie",
+        "Unter- und Oberfeuer senkrecht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q03",
+      "fragebogen": 2,
+      "number": 3,
+      "question": "Wie werden die Bekanntmachungen für Seefahrer (BfS) der Sportschifffahrt zur Kenntnis gebracht?",
+      "answer": "an den amtlichen Aushangstellen (z. B. bei Wasser- und Schifffahrtsämtern, Hafenverwaltungen, WSP-Dienststellen, Schleusen, Yachthäfen) für das Seegebiet, in dem die Aushangstelle liegt, und für die angrenzenden Reviere und Gebiete sowie im Internet unter www.elwis.de.",
+      "answer_html": "an den <strong>amtlichen Aushangstellen</strong> (z. B. bei Wasser- und Schifffahrtsämtern, Hafenverwaltungen, WSP-Dienststellen, Schleusen, Yachthäfen) für das Seegebiet, in dem die Aushangstelle liegt, und für die angrenzenden Reviere und Gebiete sowie im Internet unter <strong>www.elwis.de</strong>.",
+      "keywords": [
+        "amtlichen Aushangstellen",
+        "www.elwis.de"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q04",
+      "fragebogen": 2,
+      "number": 4,
+      "question": "Warum müssen Sie Ihre Position regelmäßig in die Seekarte eintragen?",
+      "answer": "Um Abweichungen von der Kurslinie frühzeitig und sicher zu erkennen und ggf. den Kurs zu berichtigen.",
+      "answer_html": "Um <strong>Abweichungen von der Kurslinie frühzeitig</strong> und sicher zu erkennen und ggf. den Kurs zu berichtigen.",
+      "keywords": [
+        "Abweichungen von der Kurslinie frühzeitig"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q05",
+      "fragebogen": 2,
+      "number": 5,
+      "question": "Was bedeutet das Ausliegen der folgenden Schifffahrtszeichen: weiße Fasstonne, Kugeltonne oder Stange mit einem – von oben gesehen – rechtwinkligen gelben Kreuz bzw. bei Stangen mit eine breiten gelben Band?",
+      "answer": "Fahrverbot für Maschinenfahrzeuge und Wassermotorräder auf wegen Badebetrieb gesperrten Wasserflächen.",
+      "answer_html": "<strong>Fahrverbot für Maschinenfahrzeuge und Wassermotorräder</strong> auf <strong>wegen Badebetrieb</strong> gesperrten Wasserflächen.",
+      "keywords": [
+        "Fahrverbot für Maschinenfahrzeuge und Wassermotorräder",
+        "wegen Badebetrieb"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q06",
+      "fragebogen": 2,
+      "number": 6,
+      "question": "In welchem Zusammenhang stehen Kartentiefe (KT), Wassertiefe (WT) und Höhe der Gezeit (H)?",
+      "answer": "WT – H = KT oder KT + H = WT (Lösung auch als Skizze möglich).",
+      "answer_html": "<strong>WT – H = KT</strong> oder <strong>KT + H = WT</strong> (Lösung auch als Skizze möglich).",
+      "keywords": [
+        "WT – H = KT",
+        "KT + H = WT"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q07",
+      "fragebogen": 2,
+      "number": 7,
+      "question": "Wie groß ist die typische und realistische Genauigkeit von Positionen, die mit GPS und DGPS ermittelt werden?",
+      "answer": "1. GPS: 10–20 m Wahrscheinlichkeit ca. 95 %. 2. DGPS: 1–10 m Wahrscheinlichkeit ca. 95 %.",
+      "answer_html": "1. <strong>GPS: 10–20 m</strong> Wahrscheinlichkeit <strong>ca. 95</strong> %.<br>2. <strong>DGPS: 1–10 m</strong> Wahrscheinlichkeit <strong>ca. 95</strong> %.",
+      "keywords": [
+        "GPS: 10–20 m",
+        "ca. 95",
+        "DGPS: 1–10 m"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q08",
+      "fragebogen": 2,
+      "number": 8,
+      "question": "Wie kann man mit Radar den eigenen Schiffsort bestimmen?",
+      "answer": "1. Peilung eines Objektes gibt eine Peilung als Standlinie. 2. Abstandsmessung mit dem VRM (Variable Range Marker) gibt einen Kreis als Standlinie.",
+      "answer_html": "1. <strong>Peilung</strong> eines Objektes gibt eine Peilung als Standlinie.<br>2. <strong>Abstandsmessung</strong> mit dem VRM (Variable Range Marker) gibt einen Kreis als Standlinie.",
+      "keywords": [
+        "Peilung",
+        "Abstandsmessung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q09",
+      "fragebogen": 2,
+      "number": 9,
+      "question": "Welche Reichweite hat ein AIS-Bordgerät und wovon ist sie abhängig?",
+      "answer": "Wie bei UKW (Handelsschiffe ca. 20 – 30 sm). Reichweite hängt von der Antennenhöhe ab.",
+      "answer_html": "Wie bei <strong>UKW</strong> (Handelsschiffe ca. <strong>20 – 30 sm</strong>). Reichweite hängt von der <strong>Antennenhöhe</strong> ab.",
+      "keywords": [
+        "UKW",
+        "20 – 30 sm",
+        "Antennenhöhe"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q10",
+      "fragebogen": 2,
+      "number": 10,
+      "question": "Nennen Sie mindestens 3 Beispiele für „manövrierbehinderte Fahrzeuge“.",
+      "answer": "1. Tonnenleger, Kabelleger, Rohrleger im Einsatz, 2. Bagger, Vermessungsfahrzeuge im Einsatz, 3. Versorger im Einsatz, 4. Flugzeugträger im Einsatz, 5. Minenräumfahrzeuge im Einsatz, 6. Schleppverbände, bei dem das schleppende Fahrzeug und sein Anhang erheblich behindert sind, vom Kurs abzuweichen.",
+      "answer_html": "1. <strong>Tonnenleger, Kabelleger, Rohrleger</strong> im Einsatz,<br>2. <strong>Bagger, Vermessungsfahrzeuge</strong> im Einsatz,<br>3. <strong>Versorger</strong> im Einsatz,<br>4. <strong>Flugzeugträger</strong> im Einsatz,<br>5. <strong>Minenräumfahrzeuge</strong> im Einsatz,<br>6. <strong>Schleppverbände</strong>, bei dem das schleppende Fahrzeug und sein Anhang erheblich behindert sind, vom Kurs abzuweichen.",
+      "keywords": [
+        "Tonnenleger, Kabelleger, Rohrleger",
+        "Bagger, Vermessungsfahrzeuge",
+        "Versorger",
+        "Flugzeugträger",
+        "Minenräumfahrzeuge",
+        "Schleppverbände"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q11",
+      "fragebogen": 2,
+      "number": 11,
+      "question": "Wie müssen sich Fahrzeuge ohne Radar bei verminderter Sicht verhalten, wenn sie voraus das Schallsignal eines anderen Fahrzeuges hören?",
+      "answer": "Jedes Fahrzeug, das anscheinend vorlicher als querab das Schallsignal eines anderen Fahrzeuges hört, muss seine Fahrt auf das für die Erhaltung der Steuerfähigkeit geringstmögliche Maß verringern. Erforderlichenfalls muss es jegliche Fahrt wegnehmen. Es muss in jedem Fall mit äußerster Vorsicht manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
+      "answer_html": "Jedes Fahrzeug, das anscheinend vorlicher als querab das Schallsignal eines anderen Fahrzeuges hört, muss <strong>seine Fahrt auf das für die Erhaltung der Steuerfähigkeit geringstmögliche Maß verringern</strong>. Erforderlichenfalls muss es <strong>jegliche Fahrt wegnehmen.</strong> Es muss in <strong>jedem Fall mit äußerster Vorsicht</strong> manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
+      "keywords": [
+        "seine Fahrt auf das für die Erhaltung der Steuerfähigkeit geringstmögliche Maß verringern",
+        "jegliche Fahrt wegnehmen",
+        "jedem Fall mit äußerster Vorsicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q12",
+      "fragebogen": 2,
+      "number": 12,
+      "question": "Sie segeln nachts mit raumem Wind und sehen nahezu achteraus ein Fahrzeug mit der Lichterführung rot-weiß-rot senkrecht übereinander, das näher kommt. Zusätzlich sehen Sie neben zwei weißen Topplichtern links ein grünes und rechts ein rotes Licht auf gleicher Höhe. 1. Was bedeuten diese Lichter? 2. Wer muss ausweichen? (Begründung!)",
+      "answer": "1. Man sieht ein manövrierbehindertes Fahrzeug mit FdW (Topplichter, Seitenlichter). 2. Es nähert sich im Hecklichtsektor und muss als Überholer ausweichen.",
+      "answer_html": "1. Man sieht ein <strong>manövrierbehindertes</strong> Fahrzeug <strong>mit FdW</strong> (Topplichter, Seitenlichter).<br>2. Es nähert sich im Hecklichtsektor und muss als <strong>Überholer ausweichen</strong>.",
+      "keywords": [
+        "manövrierbehindertes",
+        "mit FdW",
+        "Überholer ausweichen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q13",
+      "fragebogen": 2,
+      "number": 13,
+      "question": "Was sind Seeschifffahrtsstraßen im Sinne der SeeSchStrO?",
+      "answer": "Seeschifffahrtsstraßen im Sinne dieser Verordnung sind: 1. Wasserflächen zwischen der Küstenlinie bei mittlerem Hochwasser oder der seewärtigen Begrenzung der Binnenwasserstraßen und einer Linie von drei Seemeilen seewärts der Basislinie, 2. die durchgehend durch laterale Zeichen (Tonnen) begrenzten Wasserflächen der seewärtigen Teile der Fahrwasser im Küstenmeer, 3.Wasserflächen zwischen den Ufern bestimmter Binnenwasserstraßen.",
+      "answer_html": "Seeschifffahrtsstraßen im Sinne dieser Verordnung sind:<br>1. Wasserflächen zwischen der <strong>Küstenlinie bei mittlerem Hochwasser</strong> oder der seewärtigen Begrenzung der Binnenwasserstraßen und einer <strong>Linie von drei Seemeilen seewärts</strong> der Basislinie,<br>2. die <strong>durchgehend</strong> durch <strong>laterale Zeichen</strong> (Tonnen) begrenzten Wasserflächen der seewärtigen Teile der Fahrwasser im Küstenmeer, 3.Wasserflächen zwischen den Ufern <strong>bestimmter Binnenwasserstraßen</strong>.",
+      "keywords": [
+        "Küstenlinie bei mittlerem Hochwasser",
+        "Linie von drei Seemeilen seewärts",
+        "durchgehend",
+        "laterale Zeichen",
+        "bestimmter Binnenwasserstraßen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q14",
+      "fragebogen": 2,
+      "number": 14,
+      "question": "Sie sehen auf der Elbe bei Tage ein Fahrzeug mit schwarzen Signalkörpern, Ball - Rombus – Ball, dessen Bugwelle man klar erkennen kann. Um was für ein Fahrzeug handelt es sich? Was bedeuten die beiden schwarzen Bälle und die beiden schwarzen Rhomben senkrecht übereinander?",
+      "answer": "Entgegenkommendes manövrierbehindertes Fahrzeug von vorn mit FdW, das Unterwasserarbeiten ausführt (z. B. baggert). Passierseite an Bb. des Baggers (zwei schwarze Rhomben übereinander), Passierbehinderung an Stb. des Baggers (zwei schwarze Bälle übereinander).",
+      "answer_html": "Entgegenkommendes <strong>manövrierbehindertes</strong> Fahrzeug von vorn <strong>mit FdW</strong>, das Unterwasserarbeiten ausführt (z. B. baggert). <strong>Passierseite an Bb</strong>. des Baggers (<strong>zwei schwarze Rhomben</strong> übereinander), <strong>Passierbehinderung an Stb</strong>. des Baggers (<strong>zwei schwarze Bälle</strong> übereinander).",
+      "keywords": [
+        "manövrierbehindertes",
+        "mit FdW",
+        "Passierseite an Bb",
+        "zwei schwarze Rhomben",
+        "Passierbehinderung an Stb",
+        "zwei schwarze Bälle"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q15",
+      "fragebogen": 2,
+      "number": 15,
+      "question": "Was versteht man unter dem Begriff „Küstenmeer“?",
+      "answer": "Die seewärts der Küstenlinie bei mittlerem Hochwasser oder der Basislinie gelegenen Meeresgewässer bis zu einer Breite von 12 sm.",
+      "answer_html": "Die <strong>seewärts der Küstenlinie</strong> bei mittlerem Hochwasser oder der Basislinie gelegenen Meeresgewässer bis zu einer <strong>Breite von 12 sm</strong>.",
+      "keywords": [
+        "seewärts der Küstenlinie",
+        "Breite von 12 sm"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q16",
+      "fragebogen": 2,
+      "number": 16,
+      "question": "Was sind Seeämter und was sind ihre Aufgaben?",
+      "answer": "Seeämter sind bei den WSD Nord und Nordwest gebildete Untersuchungsausschüsse zur Untersuchung, ob gegen einen Beteiligten ein Fahrverbot ausgesprochen, oder ein Befähigungszeugnis bzw. ein amtlicher Führerschein der Sportschifffahrt entzogen werden muss.",
+      "answer_html": "Seeämter sind bei den WSD Nord und Nordwest gebildete <strong>Untersuchungsausschüsse</strong> zur Untersuchung, ob gegen einen Beteiligten ein <strong>Fahrverbot</strong> ausgesprochen, oder ein <strong>Befähigungszeugnis</strong> bzw. ein <strong>amtlicher Führerschein der Sportschifffahrt entzogen</strong> werden muss.",
+      "keywords": [
+        "Untersuchungsausschüsse",
+        "Fahrverbot",
+        "Befähigungszeugnis",
+        "amtlicher Führerschein der Sportschifffahrt entzogen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q17",
+      "fragebogen": 2,
+      "number": 17,
+      "question": "Welche amtlichen Veröffentlichungen enthalten Sendezeiten und Frequenzen für Seewetterberichte 1. für Europa, 2. Europa und weltweit?",
+      "answer": "1. Das „Handbuch Nautischer Funkdienst“ und der „Jachtfunkdienst“. 2. Die „Admiralty List of Radio Signals“.",
+      "answer_html": "1. Das „Handbuch <strong>Nautischer Funkdienst“</strong> und der <strong>„Jachtfunkdienst“</strong>.<br>2. Die <strong>„Admiralty List of Radio Signals“</strong>.",
+      "keywords": [
+        "Nautischer Funkdienst“",
+        "„Jachtfunkdienst“",
+        "„Admiralty List of Radio Signals“"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q18",
+      "fragebogen": 2,
+      "number": 18,
+      "question": "1. Welche Höhen unterscheidet man bei Wolken? 2. Welche Höhen haben sie etwa in den gemäßigten Breiten?",
+      "answer": "1. Tiefe, mittelhohe und hohe Wolken. 2. tiefe: 0 - 2 km, mittelhohe: 2 - 7 km hohe: 7 - 13 km.",
+      "answer_html": "1. <strong>Tiefe</strong>, <strong>mittelhohe</strong> und <strong>hohe</strong> Wolken.<br>2. tiefe: <strong>0 - 2 km</strong>, mittelhohe: <strong>2 - 7 km</strong> hohe: <strong>7 - 13 km</strong>.",
+      "keywords": [
+        "Tiefe",
+        "mittelhohe",
+        "hohe",
+        "0 - 2 km",
+        "2 - 7 km",
+        "7 - 13 km"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q19",
+      "fragebogen": 2,
+      "number": 19,
+      "question": "Wie verhält sich typischerweise der Luftdruck 1. vor, 2. während und 3. nach dem Durchzug einer Kaltfront?",
+      "answer": "1. gleichbleibend oder fällt wenig. 2. tiefster Wert. 3. steigt wieder deutlich.",
+      "answer_html": "1. <strong>gleichbleibend</strong> oder fällt wenig.<br>2. <strong>tiefster</strong> Wert.<br>3. <strong>steigt</strong> wieder deutlich.",
+      "keywords": [
+        "gleichbleibend",
+        "tiefster",
+        "steigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q20",
+      "fragebogen": 2,
+      "number": 20,
+      "question": "Nennen Sie mindestens 3 regionale Windsysteme im Mittelmeer, die beim küstennahen Segeln im Mittelmeer besonders beachtet werden müssen.",
+      "answer": "– Mistral, – Scirocco, – Bora und – Etesien/Meltemi.",
+      "answer_html": "– Mistral, – Scirocco, – Bora und – Etesien/Meltemi.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q21",
+      "fragebogen": 2,
+      "number": 21,
+      "question": "1. Womit müssen Sie auf der Nordhalbkugel rechnen, wenn nach Durchzug einer Kaltfront der Wind rückdreht und der Luftdruck wieder fällt? 2. Wie nennt man die Wetterlage?",
+      "answer": "1. Meist deutliche Wetterverschlechterung mit erneut auffrischendem Wind bis Sturmstärke. 2. Troglage.",
+      "answer_html": "1. Meist <strong>deutliche Wetterverschlechterung</strong> mit erneut auffrischendem <strong>Wind</strong> bis <strong>Sturmstärke</strong>.<br>2. <strong>Trog</strong>lage.",
+      "keywords": [
+        "deutliche Wetterverschlechterung",
+        "Wind",
+        "Sturmstärke",
+        "Trog"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q22",
+      "fragebogen": 2,
+      "number": 22,
+      "question": "Welche Lenzvorrichtungen und -möglichkeiten sollten auf jeder seegehenden Yacht vorhanden sein?",
+      "answer": "Zwei voneinander unabhängige Bilgenpumpen, von denen eine über Deck und eine unter Deck bedienbar ist, sowie 2 Pützen mit Leinen.",
+      "answer_html": "<strong>Zwei voneinander unabhängige Bilgenpumpen</strong>, von denen eine über Deck und eine unter Deck bedienbar ist, sowie <strong>2 Pützen mit Leinen</strong>.",
+      "keywords": [
+        "Zwei voneinander unabhängige Bilgenpumpen",
+        "2 Pützen mit Leinen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q23",
+      "fragebogen": 2,
+      "number": 23,
+      "question": "1. Wann sollte ein Großsegel flach getrimmt sein? 2. Wie kann ein Großsegel flach getrimmt werden?",
+      "answer": "1. Bei Starkwind. 2. Unterliek- und Vorliekstrecker (Cunningham) dichtholen, Großschot dichtholen, Großfall durchsetzen, Achterstagsspannung erhöhen, Traveller nach Lee.",
+      "answer_html": "1. Bei <strong>Starkwind</strong>.<br>2. <strong>Unterliek- und Vorliekstrecker</strong> (Cunningham) dichtholen, <strong>Großschot</strong> dichtholen, <strong>Großfall</strong> durchsetzen, <strong>Achterstagsspannung</strong> erhöhen, <strong>Traveller nach Lee</strong>.",
+      "keywords": [
+        "Starkwind",
+        "Unterliek- und Vorliekstrecker",
+        "Großschot",
+        "Großfall",
+        "Achterstagsspannung",
+        "Traveller nach Lee"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q24",
+      "fragebogen": 2,
+      "number": 24,
+      "question": "Was können erste Störungsanzeichen im Motorbetrieb sein?",
+      "answer": "Ungewöhnliche und fremde Motorengeräusche, Vibrationen, Verfärbung der Abgase, Aufleuchten der Ladekontrolle bzw. Öldruckkontrolle und die entsprechenden akustischen Warnungen.",
+      "answer_html": "Ungewöhnliche und fremde <strong>Motorengeräusche</strong>, <strong>Vibrationen</strong>, <strong>Verfärbung der Abgase</strong>, <strong>Aufleuchten</strong> der Ladekontrolle bzw. Öldruckkontrolle und die entsprechenden akustischen Warnungen.",
+      "keywords": [
+        "Motorengeräusche",
+        "Vibrationen",
+        "Verfärbung der Abgase",
+        "Aufleuchten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q25",
+      "fragebogen": 2,
+      "number": 25,
+      "question": "Welche Sofortmaßnahmen sind einzuleiten, wenn jemand über Bord gefallen ist?",
+      "answer": "1. Ruf: „Mensch über Bord!“ 2. Rettungsmittel zuwerfen, 3. Ausguck halten, Mensch im Auge behalten, 4. Maschine starten, 5. „Mensch-über-Bord-Manöver” einleiten, 6. Notmeldung abgeben, 7. ggf. Markierungsblitzboje werfen, 8. ggf. MOB-Taste eines satellitengestützen Navigationsgerätes drücken, 9. Bergung durchführen.",
+      "answer_html": "1. <strong>Ruf: „Mensch über Bord!</strong>“<br>2. <strong>Rettungsmittel</strong> zuwerfen,<br>3. <strong>Ausguck</strong> halten, Mensch im Auge behalten,<br>4. <strong>Maschine</strong> starten,<br>5. <strong>„Mensch-über-Bord-Manöver”</strong> einleiten,<br>6. <strong>Notmeldung</strong> abgeben,<br>7. ggf. <strong>Markierungsblitzboje</strong> werfen,<br>8. ggf. <strong>MOB-Taste</strong> eines satellitengestützen Navigationsgerätes drücken,<br>9. <strong>Bergung</strong> durchführen.",
+      "keywords": [
+        "Ruf: „Mensch über Bord!",
+        "Rettungsmittel",
+        "Ausguck",
+        "Maschine",
+        "„Mensch-über-Bord-Manöver”",
+        "Notmeldung",
+        "Markierungsblitzboje",
+        "MOB-Taste",
+        "Bergung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q26",
+      "fragebogen": 2,
+      "number": 26,
+      "question": "Welche Feuerlöscharten sind für Sportboote geeignet? Wie und wo sind sie an Bord unterzubringen?",
+      "answer": "1. Der ABC-Pulverlöscher, für geschlossene Motorräume der CO2-Löscher. 2. Der Feuerlöscher muss gebrauchsfertig und leicht erreichbar sein, CO2-Löscher nicht im Schiffsinneren unterbringen (Erstickungsgefahr bei Leckage). 3. Er soll in der Nähe der Maschinenräume, der Kombüse bzw. der Koch- oder Heizstelle montiert sein.",
+      "answer_html": "1. Der <strong>ABC-Pulverlöscher</strong>, für geschlossene <strong>Motorräume der CO2-Löscher</strong>.<br>2. Der Feuerlöscher muss <strong>gebrauchsfertig</strong> und <strong>leicht erreichbar</strong> sein, CO2-Löscher nicht im Schiffsinneren unterbringen (Erstickungsgefahr bei Leckage).<br>3. Er soll in der Nähe der <strong>Maschinenräume</strong>, der <strong>Kombüse</strong> bzw. der Koch- oder Heizstelle montiert sein.",
+      "keywords": [
+        "ABC-Pulverlöscher",
+        "Motorräume der CO2-Löscher",
+        "gebrauchsfertig",
+        "leicht erreichbar",
+        "Maschinenräume",
+        "Kombüse"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q27",
+      "fragebogen": 2,
+      "number": 27,
+      "question": "Welche Sicherheitsmaßnahmen sind vor jedem Auslaufen durchzuführen? Nennen Sie mindestens 6 Beispiele.",
+      "answer": "1.Wetterbericht einholen, 2. Kontrolle der Sicherheitsausrüstung, 3. Kontrolle von Motor und Schaltung, 4. Kontrolle der nautischen Geräte, 5. Kontrolle der Bilge, 6. Überprüfen des Wasser- und Kraftstoffvorrats, 7. Kontrolle der Schall- und Lichtsignaleinrichtung, 8. Kontrolle der Navigationslichter, 9. Bereitlegen der aktuellen Seekarten und nautischen Veröffentlichungen.",
+      "answer_html": "1.<strong>Wetterbericht</strong> einholen,<br>2. Kontrolle der <strong>Sicherheitsausrüstung</strong>,<br>3. Kontrolle von <strong>Motor und Schaltung</strong>,<br>4. Kontrolle der <strong>nautischen Geräte</strong>,<br>5. Kontrolle der <strong>Bilge</strong>,<br>6. Überprüfen des <strong>Wasser- und Kraftstoffvorrats</strong>,<br>7. Kontrolle der <strong>Schall- und Lichtsignaleinrichtung</strong>,<br>8. Kontrolle der <strong>Navigationslichter</strong>,<br>9. Bereitlegen der <strong>aktuellen Seekarten</strong> und <strong>nautischen Veröffentlichungen</strong>.",
+      "keywords": [
+        "Wetterbericht",
+        "Sicherheitsausrüstung",
+        "Motor und Schaltung",
+        "nautischen Geräte",
+        "Bilge",
+        "Wasser- und Kraftstoffvorrats",
+        "Schall- und Lichtsignaleinrichtung",
+        "Navigationslichter",
+        "aktuellen Seekarten",
+        "nautischen Veröffentlichungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q28",
+      "fragebogen": 2,
+      "number": 28,
+      "question": "Worauf ist zu achten, wenn Crewmitglieder seekrank sind?",
+      "answer": "1. Aufenthalt im Cockpit beaufsichtigen und Crewmitglieder gegen Überbordfallen sichern, 2. Flüssigkeitsverlust ausgleichen (Wasser), 3. Crewmitglied anhalten, zur Küste oder zum Horizont zu schauen, 4. mit Arbeiten beschäftigen.",
+      "answer_html": "1. Aufenthalt <strong>im Cockpit beaufsichtigen</strong> und Crewmitglieder <strong>gegen Überbordfallen sichern</strong>,<br>2. <strong>Flüssigkeitsverlust ausgleichen</strong> (Wasser),<br>3. Crewmitglied anhalten, <strong>zur Küste</strong> oder <strong>zum Horizont</strong> zu <strong>schauen</strong>,<br>4. mit Arbeiten <strong>beschäftigen</strong>.",
+      "keywords": [
+        "im Cockpit beaufsichtigen",
+        "gegen Überbordfallen sichern",
+        "Flüssigkeitsverlust ausgleichen",
+        "zur Küste",
+        "zum Horizont",
+        "schauen",
+        "beschäftigen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q29",
+      "fragebogen": 2,
+      "number": 29,
+      "question": "Sie ankern in einer Bucht. Wie können Sie bei zunehmendem Wind die Haltekraft Ihres Ankers verbessern?",
+      "answer": "1. Mehr Trosse oder Kette stecken, 2. Reitgewicht verwenden.",
+      "answer_html": "1. <strong>Mehr Trosse</strong> oder <strong>Kette stecken</strong>,<br>2. <strong>Reitgewicht</strong> verwenden.",
+      "keywords": [
+        "Mehr Trosse",
+        "Kette stecken",
+        "Reitgewicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb02-q30",
+      "fragebogen": 2,
+      "number": 30,
+      "question": "Wie können Sie die Wahrscheinlichkeit erhöhen, im Radar von anderen Fahrzeugen gesehen zu werden?",
+      "answer": "Durch einen möglichst hoch und fest angebrachten passiven Radarreflektor bzw. besser noch durch einen „aktiven“ Radarreflektor.",
+      "answer_html": "Durch einen <strong>möglichst hoch und fest</strong> angebrachten <strong>passiven Radarreflektor</strong> bzw. besser noch durch einen <strong>„aktiven“ Radarreflektor</strong>.",
+      "keywords": [
+        "möglichst hoch und fest",
+        "passiven Radarreflektor",
+        "„aktiven“ Radarreflektor"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

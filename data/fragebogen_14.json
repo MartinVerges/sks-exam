@@ -1,0 +1,459 @@
+{
+  "fragebogen": 14,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb14-q01",
+      "fragebogen": 14,
+      "number": 1,
+      "question": "Worauf müssen Sie als Schiffsführer vor Reiseantritt hinsichtlich der Seekarten und Seebücher achten?",
+      "answer": "Vollständigkeit der Unterlagen und deren Berichtigung auf den neuesten Stand.",
+      "answer_html": "<strong>Vollständigkeit</strong> der Unterlagen und deren <strong>Berichtigung</strong> auf den <strong>neuesten Stand</strong>.",
+      "keywords": [
+        "Vollständigkeit",
+        "Berichtigung",
+        "neuesten Stand"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q02",
+      "fragebogen": 14,
+      "number": 2,
+      "question": "Wo finden Sie Angaben über Brückensignale?",
+      "answer": "In den See- und Hafenhandbüchern und in den Seekarten.",
+      "answer_html": "In den <strong>See- und Hafenhandbüchern</strong> und in den <strong>Seekarten</strong>.",
+      "keywords": [
+        "See- und Hafenhandbüchern",
+        "Seekarten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q03",
+      "fragebogen": 14,
+      "number": 3,
+      "question": "Welche Unterlage steht Ihnen zur Verfügung zur Berichtigung von britischen Seekarten, die nicht von den NfS erfasst werden?",
+      "answer": "Die britischen Notices to Mariners.",
+      "answer_html": "Die britischen <strong>Notices to Mariners</strong>.",
+      "keywords": [
+        "Notices to Mariners"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q04",
+      "fragebogen": 14,
+      "number": 4,
+      "question": "Nennen Sie zwei Möglichkeiten der Ortsbestimmung, wenn Sie nur ein Objekt mit bekannten Merkmalen (z. B. Leuchtturm) in Sicht haben.",
+      "answer": "1. Peilung und Abstand (Feuer in der Kimm, Radarabstand), 2. Peilung und Lotung.",
+      "answer_html": "1. <strong>Peilung</strong> und <strong>Abstand</strong> (Feuer in der Kimm, Radarabstand),<br>2. <strong>Peilung</strong> und <strong>Lotung</strong>.",
+      "keywords": [
+        "Peilung",
+        "Abstand",
+        "Lotung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q05",
+      "fragebogen": 14,
+      "number": 5,
+      "question": "Aus welchen nautischen Publikationen können Sie Sperr- und Verbotsgebiete mit ihren Grenzen ersehen?",
+      "answer": "Aus den Seekarten, Bekanntmachungen für Seefahrer (BfS) und Nautischen Warnnachrichten (NWN).",
+      "answer_html": "Aus den <strong>Seekarten</strong>, Bekanntmachungen für Seefahrer <strong>(BfS)</strong> und Nautischen Warnnachrichten <strong>(NWN)</strong>.",
+      "keywords": [
+        "Seekarten",
+        "(BfS)",
+        "(NWN)"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q06",
+      "fragebogen": 14,
+      "number": 6,
+      "question": "Welche Bedeutung haben die Angaben „Nippzeit“ bzw. „Springzeit“ für die Gezeitenströme?",
+      "answer": "Zur Springzeit setzen die Gezeitenströme z. T. deutlich stärker als zur Nippzeit.",
+      "answer_html": "Zur <strong>Springzeit</strong> setzen die Gezeitenströme z. T. deutlich <strong>stärker</strong> als zur <strong>Nippzeit</strong>.",
+      "keywords": [
+        "Springzeit",
+        "stärker",
+        "Nippzeit"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q07",
+      "fragebogen": 14,
+      "number": 7,
+      "question": "Was bedeutet die Abkürzung GPS?",
+      "answer": "Global Positioning System.",
+      "answer_html": "<strong>Global Positioning System</strong>.",
+      "keywords": [
+        "Global Positioning System"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q08",
+      "fragebogen": 14,
+      "number": 8,
+      "question": "Wann kann man sich auf die Verfügbarkeit und Anzeige von AIS-Signalen anderer Fahrzeuge verlassen? Nennen Sie die wesentlichen Voraussetzungen!",
+      "answer": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn 1. das Fahrzeug mit AIS ausgerüstet ist, 2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmten zwingenden Gründen), 3. GPS aktiv ist und 4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = „target overflow“) keine Fahrzeuge ausgeschlossen werden.",
+      "answer_html": "Andere Fahrzeuge werden nur <strong>angezeigt, wenn</strong> das Fahrzeug auch <strong>sendet</strong>, d. h., wenn<br>1. das Fahrzeug <strong>mit AIS ausgerüstet</strong> ist,<br>2. das sendende Fahrzeug <strong>AIS nicht abgeschaltet hat</strong> (darf der Kapitän allerdings nur bei bestimmten zwingenden Gründen),<br>3. <strong>GPS aktiv</strong> ist und<br>4. aus <strong>Kapazitätsgründen</strong> (z. B. durch zu viele Schiffe in einem Seegebiet = <strong>„target overflow“</strong>) keine Fahrzeuge <strong>ausgeschlossen</strong> werden.",
+      "keywords": [
+        "angezeigt, wenn",
+        "sendet",
+        "mit AIS ausgerüstet",
+        "AIS nicht abgeschaltet hat",
+        "GPS aktiv",
+        "Kapazitätsgründen",
+        "„target overflow“",
+        "ausgeschlossen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q09",
+      "fragebogen": 14,
+      "number": 9,
+      "question": "Welchen Abstand muss magnetisierbares Material vom Magnetkompass haben?",
+      "answer": "Mindestens 1 Meter.",
+      "answer_html": "<strong>Mindestens 1 Meter</strong>.",
+      "keywords": [
+        "Mindestens 1 Meter"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q10",
+      "fragebogen": 14,
+      "number": 10,
+      "question": "Sie sehen in der Dämmerung in der Nordsee in der Zufahrt zur Jade einen großen Tanker mit der üblichen Lichter-führung, auf dem kurze Zeit später die Lichter rot-weiß-rot senkrecht übereinander zusätzlich zu den Fahrtlichtern gesetzt werden. Welche rechtliche Bedeutung hat die geänderte Signalgebung für Sie?",
+      "answer": "Beim Erreichen des Geltungsbereiches der SeeSchStrO kennzeichnet sich der Tanker als Wegerechtschiff, das als manövrierbehindertes Fahrzeug gilt. Diesem so gekennzeichneten Fahrzeug muss im Falle einer Kollisionsgefahr ausgewichen werden.",
+      "answer_html": "Beim Erreichen des <strong>Geltungsbereiches der SeeSchStrO</strong> kennzeichnet sich der Tanker als Wegerechtschiff, das als <strong>manövrierbehindertes</strong> Fahrzeug gilt. <strong>Diesem</strong> so gekennzeichneten Fahrzeug <strong>muss</strong> im Falle einer Kollisionsgefahr <strong>ausgewichen werden</strong>.",
+      "keywords": [
+        "Geltungsbereiches der SeeSchStrO",
+        "manövrierbehindertes",
+        "Diesem",
+        "muss",
+        "ausgewichen werden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q11",
+      "fragebogen": 14,
+      "number": 11,
+      "question": "Wie müssen Sie sich verhalten, nachdem Sie ein vorgeschriebenes Ausweichmanöver eingeleitet haben?",
+      "answer": "Der Erfolg des Manövers ist laufend zu überprüfen, bis das andere Fahrzeug klar passiert ist.",
+      "answer_html": "Der <strong>Erfolg</strong> des Manövers ist <strong>laufend</strong> zu <strong>überprüfen</strong>, <strong>bis</strong> das andere Fahrzeug <strong>klar passiert</strong> ist.",
+      "keywords": [
+        "Erfolg",
+        "laufend",
+        "überprüfen",
+        "bis",
+        "klar passiert"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q12",
+      "fragebogen": 14,
+      "number": 12,
+      "question": "Welchen Fahrzeugen muss eine Motoryacht ausweichen?",
+      "answer": "1. Manövrierunfähigen Fahrzeugen, 2. manövrierbehinderten Fahrzeugen, 3. fischenden Fahrzeugen, 4. Segelfahrzeugen, 5. ggf. einem anderen Maschinenfahrzeug.",
+      "answer_html": "1. Manövrierunfähigen Fahrzeugen,<br>2. manövrierbehinderten Fahrzeugen,<br>3. fischenden Fahrzeugen,<br>4. Segelfahrzeugen,<br>5. ggf. einem anderen Maschinenfahrzeug.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q13",
+      "fragebogen": 14,
+      "number": 13,
+      "question": "Wie haben Segelfahrzeuge in einem Fahrwasser der SeeSchStrO untereinander auszuweichen, wenn sie nicht deutlich der Richtung eines Fahrwassers folgen?",
+      "answer": "Sie haben untereinander nach den Regeln der KVR auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern.",
+      "answer_html": "Sie haben untereinander nach den <strong>Regeln der KVR</strong> auszuweichen, wenn sie dadurch <strong>vorfahrtberechtigte</strong> Fahrzeuge <strong>nicht gefährden oder behindern</strong>.",
+      "keywords": [
+        "Regeln der KVR",
+        "vorfahrtberechtigte",
+        "nicht gefährden oder behindern"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q14",
+      "fragebogen": 14,
+      "number": 14,
+      "question": "Was muss ein Sportfahrzeug in Bezug auf das Fahrwasser beachten, wenn es außerhalb des Fahrwassers fährt?",
+      "answer": "Außerhalb des Fahrwassers ist so zu fahren, dass klar erkennbar ist, dass das Fahrwasser nicht benutzt wird.",
+      "answer_html": "<strong>Außerhalb</strong> des Fahrwassers ist <strong>so</strong> zu <strong>fahren</strong>, dass <strong>klar erkennbar</strong> ist, dass das Fahrwasser <strong>nicht benutzt</strong> wird.",
+      "keywords": [
+        "Außerhalb",
+        "so",
+        "fahren",
+        "klar erkennbar",
+        "nicht benutzt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q15",
+      "fragebogen": 14,
+      "number": 15,
+      "question": "Während einer Revierfahrt erkennen Sie ein Signal 1. Was bedeutet dieses Signal? 2. Welches Signal wird stattdessen nachts gezeigt?",
+      "answer": "1. Außergewöhnliche Schifffahrtsbehinderung. 2. Nachts: Rundumlichter rot-rot-grün senkrecht übereinander.",
+      "answer_html": "1. <strong>Außergewöhnliche Schifffahrtsbehinderung</strong>.<br>2. Nachts: <strong>Rundumlichter rot-rot-grün</strong> senkrecht übereinander.",
+      "keywords": [
+        "Außergewöhnliche Schifffahrtsbehinderung",
+        "Rundumlichter rot-rot-grün"
+      ],
+      "question_images": [
+        "fb14-q15-q1.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q16",
+      "fragebogen": 14,
+      "number": 16,
+      "question": "Gilt das MARPOL-Übereinkommen grundsätzlich auch für Sportfahrzeuge?",
+      "answer": "Es gilt grundsätzlich für alle Schiffe, somit auch für Sportfahrzeuge.",
+      "answer_html": "Es gilt <strong>grundsätzlich</strong> für <strong>alle</strong> Schiffe, somit <strong>auch</strong> für <strong>Sportfahrzeuge</strong>.",
+      "keywords": [
+        "grundsätzlich",
+        "alle",
+        "auch",
+        "Sportfahrzeuge"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q17",
+      "fragebogen": 14,
+      "number": 17,
+      "question": "Welche Bedeutung für die Wetterentwicklung hat ein Halo um die Sonne und ein Hof um den Mond?",
+      "answer": "Wolkenaufzug, meist Cirrostratus. Ggf. Niederschlag und Wetterverschlechterung.",
+      "answer_html": "<strong>Wolkenaufzug</strong>, meist <strong>Cirrostratus</strong>. Ggf. <strong>Niederschlag</strong> und <strong>Wetterverschlechterung</strong>.",
+      "keywords": [
+        "Wolkenaufzug",
+        "Cirrostratus",
+        "Niederschlag",
+        "Wetterverschlechterung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q18",
+      "fragebogen": 14,
+      "number": 18,
+      "question": "1. Wie weht der Wind über See in Bodennähe um ein Hochdruckgebiet? 2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwas rechnen?",
+      "answer": "1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht aus dem Hoch hinaus. 2. Ein bis zwei Strich bzw. 10°bis 20°.",
+      "answer_html": "1. Der Wind weht <strong>nicht parallel</strong> zu den <strong>Isobaren</strong>, er ist <strong>rückgedreht</strong> und weht <strong>aus dem Hoch</strong> hinaus.<br>2. Ein bis zwei Strich bzw. <strong>10°bis 20°</strong>.",
+      "keywords": [
+        "nicht parallel",
+        "Isobaren",
+        "rückgedreht",
+        "aus dem Hoch",
+        "10°bis 20°"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q19",
+      "fragebogen": 14,
+      "number": 19,
+      "question": "Sie segeln mit Ihrer Yacht „raumschots“. Nach der nächsten Tonne müssen Sie anluven. Wie wird sich die wahre Windgeschwindigkeit auf Ihrem Windmesser/Anemometer entwickeln?",
+      "answer": "Sie bleibt unverändert.",
+      "answer_html": "Sie bleibt <strong>unverändert</strong>.",
+      "keywords": [
+        "unverändert"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q20",
+      "fragebogen": 14,
+      "number": 20,
+      "question": "Sie wollen einen Törn in einem für Sie fremden Küstenrevier fahren. Wie können Sie sich über mittlere Windverhältnisse für bestimmte Jahreszeiten oder Monate informieren?",
+      "answer": "In den entsprechenden Hafen-, Revierführern. Außerdem z. B. in Monatskarten.",
+      "answer_html": "In den entsprechenden <strong>Hafen-, Revierführern</strong>. Außerdem z. B. in <strong>Monatskarten</strong>.",
+      "keywords": [
+        "Hafen-, Revierführern",
+        "Monatskarten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q21",
+      "fragebogen": 14,
+      "number": 21,
+      "question": "Welcher Seegang ist in Lee kleiner Inseln zu erwarten?",
+      "answer": "Kreuzlaufende See, die meist kurz und kabbelig ist.",
+      "answer_html": "<strong>Kreuz</strong>laufende <strong>See</strong>, die meist <strong>kurz</strong> und <strong>kabbelig</strong> ist.",
+      "keywords": [
+        "Kreuz",
+        "See",
+        "kurz",
+        "kabbelig"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q22",
+      "fragebogen": 14,
+      "number": 22,
+      "question": "Was bedeutet der Begriff „Kategorie“ im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge?",
+      "answer": "Mit der Kategorie legt der Hersteller fest, in welchem Fahrgebiet, bis zu welcher Windstärke und bis zu welcher charakteristischen Wellenhöhe das Fahrzeug sicher betrieben werden kann.",
+      "answer_html": "Mit der Kategorie legt der <strong>Hersteller</strong> fest, in <strong>welchem Fahrgebiet</strong>, bis zu welcher <strong>Windstärke</strong> und bis zu welcher <strong>charakteristischen Wellenhöhe</strong> das Fahrzeug <strong>sicher betrieben</strong> werden <strong>kann</strong>.",
+      "keywords": [
+        "Hersteller",
+        "welchem Fahrgebiet",
+        "Windstärke",
+        "charakteristischen Wellenhöhe",
+        "sicher betrieben",
+        "kann"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q23",
+      "fragebogen": 14,
+      "number": 23,
+      "question": "Welches Kleinmaterial und Kleinwerkzeug muss an Bord jederzeit greifbar sein?",
+      "answer": "Zeisinge, Bändselwerk, Tape, Reserveschäkel, Schäkelöffner, Bordmesser und Kombizange.",
+      "answer_html": "Zeisinge, Bändselwerk, Tape, Reserveschäkel, Schäkelöffner, Bordmesser und Kombizange.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q24",
+      "fragebogen": 14,
+      "number": 24,
+      "question": "Das Unterliek Ihres Vorsegels killt. Was ist die Ursache?",
+      "answer": "Der Holepunkt der Schot liegt zu weit vorne.",
+      "answer_html": "Der <strong>Holepunkt</strong> der <strong>Schot</strong> liegt <strong>zu weit vorne</strong>.",
+      "keywords": [
+        "Holepunkt",
+        "Schot",
+        "zu weit vorne"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q25",
+      "fragebogen": 14,
+      "number": 25,
+      "question": "Was sollte nach dem Anlassen der Maschine kontrolliert werden?",
+      "answer": "1. Kühlwasserdurchlauf, 2. Öldruck und Ladung, 3. Motorengeräusche und 4. Auspuffgase.",
+      "answer_html": "1. Kühlwasserdurchlauf,<br>2. Öldruck und Ladung,<br>3. Motorengeräusche und<br>4. Auspuffgase.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q26",
+      "fragebogen": 14,
+      "number": 26,
+      "question": "Worauf müssen Sie vor dem Setzen des Großsegels achten? Welche Gefahr besteht nach dem Setzen des Großsegels, solange der Wind von vorne kommt?",
+      "answer": "1. Großschot und Baumniederholer müssen ausreichend Lose haben. 2. Das Großfall muss frei laufen und darf nicht vertörnt sein. 3. Verletzungsgefahr durch schlagenden Großbaum.",
+      "answer_html": "1. <strong>Großschot</strong> und <strong>Baumniederholer</strong> müssen <strong>ausreichend Lose</strong> haben.<br>2. Das <strong>Großfall</strong> muss <strong>frei</strong> laufen und darf nicht vertörnt sein.<br>3. Verletzungs<strong>gefahr</strong> durch <strong>schlagenden Großbaum</strong>.",
+      "keywords": [
+        "Großschot",
+        "Baumniederholer",
+        "ausreichend Lose",
+        "Großfall",
+        "frei",
+        "gefahr",
+        "schlagenden Großbaum"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q27",
+      "fragebogen": 14,
+      "number": 27,
+      "question": "Warum kann eine Leeküste bei schwerem Wetter einer Segelyacht gefährlich werden?",
+      "answer": "Wenn die Yacht sich nicht freikreuzen kann, droht Strandung.",
+      "answer_html": "Wenn die Yacht sich <strong>nicht freikreuzen kann</strong>, droht <strong>Strandung</strong>.",
+      "keywords": [
+        "nicht freikreuzen kann",
+        "Strandung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q28",
+      "fragebogen": 14,
+      "number": 28,
+      "question": "Worauf müssen Sie bei Ihren Automatikrettungswesten hinsichtlich der Funktionssicherheit achten?",
+      "answer": "Auf regelmäßige Wartung. Wartungsfälligkeit erkennbar an der farbigen Serviceplakette.",
+      "answer_html": "Auf <strong>regelmäßige Wartung</strong>. Wartungsfälligkeit erkennbar an der farbigen <strong>Serviceplakette</strong>.",
+      "keywords": [
+        "regelmäßige Wartung",
+        "Serviceplakette"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q29",
+      "fragebogen": 14,
+      "number": 29,
+      "question": "Warum sollte die Crew vor Reisebeginn in die Funktion des Ankergeschirrs und die Durchführung eines Ankermanövers eingewiesen werden?",
+      "answer": "Damit jeder den Anker sicher ausbringen und einholen kann.",
+      "answer_html": "Damit <strong>jeder</strong> den Anker <strong>sicher ausbringen</strong> und <strong>einholen</strong> kann.",
+      "keywords": [
+        "jeder",
+        "sicher ausbringen",
+        "einholen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb14-q30",
+      "fragebogen": 14,
+      "number": 30,
+      "question": "Wie erkennen Sie, ob der Anker hält?",
+      "answer": "1. Vibration von Kette oder Trosse prüfen, 2. Einrucken des Ankers prüfen, 3. durch wiederholte Peilungen und ggf. Schätzungen des Abstands zu anderen Schiffen oder zu Landmarken, 4. falls GPS vorhanden ist, die Ankeralarmfunktion einschalten.",
+      "answer_html": "1. <strong>Vibration</strong> von <strong>Kette oder Trosse</strong> prüfen,<br>2. <strong>Einrucken</strong> des Ankers prüfen,<br>3. durch wiederholte <strong>Peilungen</strong> und ggf. Schätzungen des Abstands zu anderen Schiffen oder zu Landmarken,<br>4. falls <strong>GPS</strong> vorhanden ist, die <strong>Ankeralarm</strong>funktion einschalten.",
+      "keywords": [
+        "Vibration",
+        "Kette oder Trosse",
+        "Einrucken",
+        "Peilungen",
+        "GPS",
+        "Ankeralarm"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

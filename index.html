@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+  <meta name="theme-color" content="#0b4f6c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="SKS Trainer">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="app.css">
+  <title>SKS Theorie Trainer</title>
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <button class="iconbtn" id="navHome" title="Lernen">⚓</button>
+      <div class="title">SKS Theorie Trainer <small id="subtitle">Lernmodus</small></div>
+      <button class="iconbtn" id="navExam" title="Prüfung">📝</button>
+      <button class="iconbtn" id="navStats" title="Statistik">📊</button>
+      <button class="iconbtn" id="navSettings" title="Einstellungen">⚙️</button>
+    </header>
+    <main id="view"><!-- views injected here --></main>
+  </div>
+  <div class="toast" id="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,505 @@
+{
+  "fragebogen": 9,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb09-q01",
+      "fragebogen": 9,
+      "number": 1,
+      "question": "Was ist die „Sichtweite“ eines Feuers? Wovon hängt sie ab?",
+      "answer": "Sichtweite ist die Entfernung, auf die ein Leuchtfeuer über die Erdkrümmung (Kimm) hinweg vom Beobachter gesehen werden kann. Sie hängt ab 1. von der Feuerhöhe und 2. von der Augeshöhe des Beobachters.",
+      "answer_html": "Sichtweite ist die <strong>Entfernung</strong>, auf die ein Leuchtfeuer <strong>über die</strong> Erdkrümmung (<strong>Kimm</strong>) hinweg vom Beobachter <strong>gesehen werden kann</strong>. Sie hängt ab<br>1. von der <strong>Feuerhöhe</strong> und<br>2. von der <strong>Augeshöhe des Beobachters</strong>.",
+      "keywords": [
+        "Entfernung",
+        "über die",
+        "Kimm",
+        "gesehen werden kann",
+        "Feuerhöhe",
+        "Augeshöhe des Beobachters"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q02",
+      "fragebogen": 9,
+      "number": 2,
+      "question": "Wer veröffentlicht die Bekanntmachungen für Seefahrer (BfS) und was umfassen diese Veröffentlichungen?",
+      "answer": "1. Die BfS werden von den jeweils zuständigen Behörden der Wasser- und Schifffahrtsverwaltung des Bundes bzw. der Länder veröffentlicht. 2. Sie enthalten alle wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone Deutschlands.",
+      "answer_html": "1. Die BfS werden von den jeweils zuständigen <strong>Behörden der Wasser- und Schifffahrtsverwaltung</strong> des Bundes bzw. der Länder veröffentlicht.<br>2. Sie enthalten alle <strong>wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone</strong> Deutschlands.",
+      "keywords": [
+        "Behörden der Wasser- und Schifffahrtsverwaltung",
+        "wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q03",
+      "fragebogen": 9,
+      "number": 3,
+      "question": "Was ist die Besteckversetzung (BV)?",
+      "answer": "Richtung (rw) und Entfernung (in sm) vom Koppelort (Ok) zum beobachteten Ort (Ob), bezogen auf den gleichen Zeitpunkt.",
+      "answer_html": "Richtung (<strong>rw</strong>) <strong>und</strong> Entfernung (<strong>in sm</strong>) <strong>vom</strong> Koppelort (<strong>Ok</strong>) zum beobachteten Ort (<strong>Ob</strong>), bezogen auf den <strong>gleichen Zeitpunkt</strong>.",
+      "keywords": [
+        "rw",
+        "und",
+        "in sm",
+        "vom",
+        "Ok",
+        "Ob",
+        "gleichen Zeitpunkt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q04",
+      "fragebogen": 9,
+      "number": 4,
+      "question": "Welche navigatorischen Vorbereitungen treffen Sie vor einer Fahrt in Dunkelheit?",
+      "answer": "1. Kurse und Kursänderungspunkte möglichst vorausbestimmen, 2. Untiefen und Hindernisse in der Karte besonders kennzeichnen, 3. in der Seekarte markieren, welche Leuchtfeuer wann und wo in der Kimm erscheinen und 4. Wegstrecke nach unbefeuerten Tonnen absuchen.",
+      "answer_html": "1. <strong>Kurse und Kursänderungspunkte</strong> möglichst <strong>vorausbestimmen</strong>,<br>2. <strong>Untiefen und Hindernisse</strong> in der Karte besonders <strong>kennzeichnen</strong>,<br>3. in der Seekarte <strong>markieren</strong>, welche <strong>Leuchtfeuer wann und wo</strong> in der Kimm <strong>erscheinen</strong> und<br>4. Wegstrecke nach <strong>unbefeuerten Tonnen absuchen</strong>.",
+      "keywords": [
+        "Kurse und Kursänderungspunkte",
+        "vorausbestimmen",
+        "Untiefen und Hindernisse",
+        "kennzeichnen",
+        "markieren",
+        "Leuchtfeuer wann und wo",
+        "erscheinen",
+        "unbefeuerten Tonnen absuchen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q05",
+      "fragebogen": 9,
+      "number": 5,
+      "question": "Worauf müssen Sie achten, wenn eine Magnetkompasspeilung (MgP) auf eine rechtweisende Peilung (rwP) beschickt werden soll?",
+      "answer": "Abl für den anliegenden MgK (Magnetkompasskurs) aus der Steuertafel (Ablenkungstabelle) entnehmen; an den so erhaltenen mwK (missweisenden Kurs) die für das laufende Jahr der Seekarte entnommene Mw anbringen.",
+      "answer_html": "<strong>Abl für</strong> den anliegenden <strong>MgK</strong> (Magnetkompasskurs) <strong>aus</strong> der Steuertafel (<strong>Ablenkungstabelle</strong>) entnehmen; <strong>an den</strong> so erhaltenen <strong>mwK</strong> (missweisenden Kurs) <strong>die für das laufende Jahr</strong> der <strong>Seekarte</strong> entnommene <strong>Mw</strong> anbringen.",
+      "keywords": [
+        "Abl für",
+        "MgK",
+        "aus",
+        "Ablenkungstabelle",
+        "an den",
+        "mwK",
+        "die für das laufende Jahr",
+        "Seekarte",
+        "Mw"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q06",
+      "fragebogen": 9,
+      "number": 6,
+      "question": "Was müssen Sie bedenken, wenn Sie die Wassertiefe außerhalb der Niedrigwasserzeit loten?",
+      "answer": "Beim folgenden Niedrigwasser wird die Wassertiefe geringer sein als zum Zeitpunkt der Lotung.",
+      "answer_html": "Beim <strong>folgenden Niedrigwasser</strong> wird die <strong>Wassertiefe geringer</strong> sein <strong>als</strong> zum Zeitpunkt der <strong>Lotung</strong>.",
+      "keywords": [
+        "folgenden Niedrigwasser",
+        "Wassertiefe geringer",
+        "als",
+        "Lotung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q07",
+      "fragebogen": 9,
+      "number": 7,
+      "question": "Was ist das Grundprinzip von GPS?",
+      "answer": "Durch Laufzeitmessungen von GPS-Signalen vom Satelliten zum Empfänger und damit durch Abstandsmessungen zu den Satelliten wird die Ortsbestimmung ermöglicht.",
+      "answer_html": "Durch Lauf<strong>zeitmessungen</strong> von GPS-<strong>Signalen vom Satelliten zum Empfänger</strong> und damit durch <strong>Abstandsmessungen</strong> zu den Satelliten wird die <strong>Ortsbestimmung</strong> ermöglicht.",
+      "keywords": [
+        "zeitmessungen",
+        "Signalen vom Satelliten zum Empfänger",
+        "Abstandsmessungen",
+        "Ortsbestimmung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q08",
+      "fragebogen": 9,
+      "number": 8,
+      "question": "Wie kann man gegebenenfalls verhindern, dass sich Echoanzeigen von Zielen (z. B. 2 Tonnen, 2 Molenköpfe) überlappen?",
+      "answer": "1. Kurze Impulslänge wählen. 2. Messbereich verkleinern.",
+      "answer_html": "1. <strong>Kurze Impulslänge</strong> wählen.<br>2. <strong>Messbereich verkleinern</strong>.",
+      "keywords": [
+        "Kurze Impulslänge",
+        "Messbereich verkleinern"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q09",
+      "fragebogen": 9,
+      "number": 9,
+      "question": "Welche besondere Bedeutung hat AIS für die Sportschifffahrt im Vergleich mit der Radaranzeige auf anderen Schiffen?",
+      "answer": "Sportfahrzeuge werden häufig auf den Radargeräten anderer Schiffe nicht sicher angezeigt bzw. die Anzeigen gehen im Seegangsclutter oder in der Informationsfülle unter. Da jetzt auf vielen Schiffen die AIS-Daten zusätzlich im Radar dargestellt werden, besteht die Gefahr, dass Sportfahrzeuge noch weniger auffällig sind, wenn sie nicht selbst mit AIS ausgerüstet sind.",
+      "answer_html": "Sportfahrzeuge werden häufig auf den Radargeräten anderer Schiffe <strong>nicht sicher angezeigt</strong> bzw. die <strong>Anzeigen gehen</strong> im <strong>Seegangsclutter</strong> oder in der <strong>Informationsfülle</strong> unter. Da jetzt auf vielen Schiffen die <strong>AIS-Daten zusätzlich im Radar</strong> dargestellt werden, besteht die Gefahr, dass Sportfahrzeuge <strong>noch weniger auffällig</strong> sind, <strong>wenn sie nicht selbst mit AIS</strong> ausgerüstet sind.",
+      "keywords": [
+        "nicht sicher angezeigt",
+        "Anzeigen gehen",
+        "Seegangsclutter",
+        "Informationsfülle",
+        "AIS-Daten zusätzlich im Radar",
+        "noch weniger auffällig",
+        "wenn sie nicht selbst mit AIS"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q10",
+      "fragebogen": 9,
+      "number": 10,
+      "question": "Welche Atem- bzw. Blutalkoholkonzentration darf lt. Verordnung zu den KVR nicht erreicht werden, damit kein Verbot für ein Führen einesFahrzeugs oder als Mitglied der Crew für ein Ausüben des Brückendienstes besteht?",
+      "answer": "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.",
+      "answer_html": "<strong>0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut</strong> oder eine <strong>Alkoholmenge</strong>, die zu einer solchen <strong>Atem- oder Blutalkoholkonzentration</strong> führt.",
+      "keywords": [
+        "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut",
+        "Alkoholmenge",
+        "Atem- oder Blutalkoholkonzentration"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q11",
+      "fragebogen": 9,
+      "number": 11,
+      "question": "Auf einem Segelfahrzeug unter Motor sieht man nachts fast recht voraus ein näher kommendes Fahrzeug mit folgender Lichterführung:oben ein weißes Licht, seitlich darunter ein grünes Licht, zeitweise rechts von dem grünen Licht auf gleicher Höhe auch ein rotes Licht. Um was für ein Fahrzeug handelt es sich, was ist von Ihnen und was ist auf dem anderen Fahrzeug zu unternehmen?",
+      "answer": "Es handelt sich um ein Maschinenfahrzeug von weniger als 50 m Länge, das im Seegang oder durch schlechtes Steuern giert. Man muss annehmen, dass sich zwei Maschinenfahrzeuge auf entgegengesetzten oder fast entgegengesetzten Kursen nähern und die Möglichkeit der Gefahr eines Zusammenstoßes besteht. Beide Fahrzeuge müssen den Kurs nach Steuerbord ändern und dieses durch einen kurzen Ton anzeigen.",
+      "answer_html": "Es handelt sich um ein <strong>Maschinenfahrzeug</strong> von weniger als 50 m Länge, <strong>das</strong> im Seegang oder durch schlechtes Steuern <strong>giert</strong>. Man muss annehmen, dass sich zwei Maschinenfahrzeuge auf <strong>entgegengesetzten</strong> oder fast entgegengesetzten <strong>Kursen</strong> nähern und die <strong>Möglichkeit der Gefahr eines Zusammenstoßes</strong> besteht. <strong>Beide</strong> Fahrzeuge müssen den <strong>Kurs nach Steuerbord</strong> ändern und dieses durch einen kurzen Ton anzeigen.",
+      "keywords": [
+        "Maschinenfahrzeug",
+        "das",
+        "giert",
+        "entgegengesetzten",
+        "Kursen",
+        "Möglichkeit der Gefahr eines Zusammenstoßes",
+        "Beide",
+        "Kurs nach Steuerbord"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q12",
+      "fragebogen": 9,
+      "number": 12,
+      "question": "Wo unterliegt Ihr Segelfahrzeug bzw. Ihre Motoryacht unter 20 m Länge einem Behinderungsverbot?",
+      "answer": "1. In engen Fahrwassern, 2. auf dem Einbahnweg eines Verkehrstrennungsgebietes (VTG) gegenüber Maschinenfahrzeugen im VTG.",
+      "answer_html": "1. In engen <strong>Fahrwassern</strong>,<br>2. auf dem Einbahnweg eines Verkehrstrennungsgebietes (<strong>VTG</strong>) gegenüber Maschinenfahrzeugen im VTG.",
+      "keywords": [
+        "Fahrwassern",
+        "VTG"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q13",
+      "fragebogen": 9,
+      "number": 13,
+      "question": "Was sind Fahrwasser im Sinne der SeeSchStrO?",
+      "answer": "Fahrwasser sind die Teile der Wasserflächen, die durch Tonnen (laterale Zeichen) begrenzt oder gekennzeichnet sind oder die, soweit das nicht der Fall ist, auf den Binnenwasserstraßen für die durchgehende Schifffahrt bestimmt sind.",
+      "answer_html": "Fahrwasser sind die Teile der <strong>Wasserflächen</strong>, die durch <strong>Tonnen</strong> (<strong>laterale</strong> Zeichen) begrenzt oder gekennzeichnet sind oder die, soweit das nicht der Fall ist, auf den <strong>Binnenwasserstraßen</strong> für die <strong>durchgehende Schifffahrt</strong> bestimmt sind.",
+      "keywords": [
+        "Wasserflächen",
+        "Tonnen",
+        "laterale",
+        "Binnenwasserstraßen",
+        "durchgehende Schifffahrt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q14",
+      "fragebogen": 9,
+      "number": 14,
+      "question": "Erläutern Sie den Begriff „Vorfahrt haben“.",
+      "answer": "„Vorfahrt haben“ gilt nur für ein im Fahrwasser fahrendes oder dem Fahrwasserverlauf folgendes Fahrzeug. Das bedeutet, dass andere Fahrzeuge, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen, mit diesem Vorhaben warten müssen, bis das vorfahrtberechtigte Fahrzeug vorüber ist. „Vorfahrt haben\" bedeutet aber nicht: Vorfahrt erzwingen! Ggf. muss ein vorfahrtberechtigtes Fahrzeug Maßnahmen zur Verhinderung einer drohenden Kollision ergreifen.",
+      "answer_html": "„Vorfahrt haben“ gilt <strong>nur für</strong> ein <strong>im Fahrwasser fahrendes oder dem Fahrwasserverlauf</strong> folgendes Fahrzeug. Das bedeutet, dass <strong>andere Fahrzeuge</strong>, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen, mit diesem Vorhaben <strong>warten</strong> müssen, bis das vorfahrtberechtigte Fahrzeug vorüber ist. „Vorfahrt haben&quot; bedeutet aber <strong>nicht: Vorfahrt erzwingen</strong>! Ggf. muss ein vorfahrtberechtigtes Fahrzeug Maßnahmen zur <strong>Verhinderung einer drohenden Kollision</strong> ergreifen.",
+      "keywords": [
+        "nur für",
+        "im Fahrwasser fahrendes oder dem Fahrwasserverlauf",
+        "andere Fahrzeuge",
+        "warten",
+        "nicht: Vorfahrt erzwingen",
+        "Verhinderung einer drohenden Kollision"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q15",
+      "fragebogen": 9,
+      "number": 15,
+      "question": "Wie hat sich ein den Ankerplatz oder Liegeplatz verlassendes Fahrzeug gegenüber im Fahrwasser fahrenden Fahrzeugen zu verhalten?",
+      "answer": "Es muss die Vorfahrt der Fahrzeuge im Fahrwasser beachten, d. h. es muss warten, bis das Fahrwasser frei ist. Es muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass es warten wird.",
+      "answer_html": "Es muss die <strong>Vorfahrt</strong> der Fahrzeuge im Fahrwasser <strong>beachten</strong>, d. h. es muss <strong>warten</strong>, <strong>bis</strong> das Fahrwasser <strong>frei</strong> ist. Es muss <strong>rechtzeitig</strong> durch sein Fahrverhalten <strong>erkennen lassen</strong>, dass es <strong>warten wird</strong>.",
+      "keywords": [
+        "Vorfahrt",
+        "beachten",
+        "warten",
+        "bis",
+        "frei",
+        "rechtzeitig",
+        "erkennen lassen",
+        "warten wird"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q16",
+      "fragebogen": 9,
+      "number": 16,
+      "question": "Was müssen Sie nach einem Seeunfall veranlassen? Wie kann es umgesetzt werden?",
+      "answer": "Den Seeunfall unverzüglich der Bundesstelle für Seeunfalluntersuchung melden. Das kann in einem deutschen Einlaufhafen auch über die Wasserschutzpolizei bzw. im Ausland über die zuständigen Hafenbehörden veranlasst werden.",
+      "answer_html": "Den <strong>Seeunfall</strong> unverzüglich der <strong>Bundesstelle für Seeunfalluntersuchung melden</strong>. Das kann in einem deutschen Einlaufhafen auch über die <strong>Wasserschutzpolizei</strong> bzw. im Ausland über die zuständigen <strong>Hafenbehörden</strong> veranlasst werden.",
+      "keywords": [
+        "Seeunfall",
+        "Bundesstelle für Seeunfalluntersuchung melden",
+        "Wasserschutzpolizei",
+        "Hafenbehörden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q17",
+      "fragebogen": 9,
+      "number": 17,
+      "question": "Was ist Wind und wie entsteht er?",
+      "answer": "Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tief druckgebieten.",
+      "answer_html": "<strong>Wind ist bewegte Luft</strong>. Die Bewegung entsteht durch die <strong>Druckunterschiede</strong> zwischen <strong>Hoch</strong>- und <strong>Tief</strong> druckgebieten.",
+      "keywords": [
+        "Wind ist bewegte Luft",
+        "Druckunterschiede",
+        "Hoch",
+        "Tief"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q18",
+      "fragebogen": 9,
+      "number": 18,
+      "question": "Warum weht der Wind nicht parallel zu den Isobaren? (Begründung)",
+      "answer": "Durch die Bodenreibung ist der Wind rückgedreht (gegen den Uhrzeigersinn).",
+      "answer_html": "Durch die <strong>Bodenreibung</strong> ist der <strong>Wind rückgedreht</strong> (gegen den Uhrzeigersinn).",
+      "keywords": [
+        "Bodenreibung",
+        "Wind rückgedreht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q19",
+      "fragebogen": 9,
+      "number": 19,
+      "question": "Wodurch und wie entsteht am Tage Seewind?",
+      "answer": "Das Land erwärmt sich bei Sonneneinstrahlung tagsüber stärker als das Wasser. Über Land steigt die erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Seewind (Wind von See) aufgefüllt.",
+      "answer_html": "Das <strong>Land erwärmt</strong> sich bei Sonneneinstrahlung <strong>tagsüber stärker als</strong> das <strong>Wasser</strong>. Über Land <strong>steigt</strong> die <strong>erwärmte Luft</strong> auf. Das dabei entstehende Boden<strong>tief</strong> wird durch <strong>Seewind</strong> (Wind von See) aufgefüllt.",
+      "keywords": [
+        "Land erwärmt",
+        "tagsüber stärker als",
+        "Wasser",
+        "steigt",
+        "erwärmte Luft",
+        "tief",
+        "Seewind"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q20",
+      "fragebogen": 9,
+      "number": 20,
+      "question": "Wodurch kann es im Mittelmeerraum in besonderen Fällen zur Sichtreduktion kommen?",
+      "answer": "Bei bestimmten Wetterlagen kann mit der Luftmasse transportierter Saharastaub die Sicht stark vermindern.",
+      "answer_html": "Bei bestimmten Wetterlagen kann mit der Luftmasse transportierter <strong>Saharastaub die Sicht stark vermindern</strong>.",
+      "keywords": [
+        "Saharastaub die Sicht stark vermindern"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q21",
+      "fragebogen": 9,
+      "number": 21,
+      "question": "1. Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei auflandigem Wind fahren? 2. Welche Gefahr besteht bezüglich der Entwicklung des Seegangs außerdem?",
+      "answer": "1. Der Seegang wird ähnlich ausgeprägt sein wie auf der freien See, da genügend Fetch (Windwirklänge) vorhanden ist. 2. Dort, wo das Wasser fIacher wird, oder im Bereich von Untiefen muss mit Brechern und Grundseen gerechnet werden.",
+      "answer_html": "1. Der Seegang wird <strong>ähnlich ausgeprägt</strong> sein <strong>wie auf</strong> der <strong>freien See</strong>, da genügend <strong>Fetch</strong> (Windwirklänge) <strong>vorhanden</strong> ist.<br>2. Dort, wo das Wasser <strong>fIacher</strong> wird, oder im Bereich von <strong>Untiefen</strong> muss mit <strong>Brechern und Grundseen</strong> gerechnet werden.",
+      "keywords": [
+        "ähnlich ausgeprägt",
+        "wie auf",
+        "freien See",
+        "Fetch",
+        "vorhanden",
+        "fIacher",
+        "Untiefen",
+        "Brechern und Grundseen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q22",
+      "fragebogen": 9,
+      "number": 22,
+      "question": "Für welche unterschiedlichen Reparaturbereiche sollten Sie Ersatzteile und Werkzeug an Bord haben?",
+      "answer": "1. Segelreparaturen, 2. Reparaturen an Rumpf und Rigg, 3. Motorreparaturen, 4. Elektroreparaturen und 5. Reparaturen an Schlauchleitungen.",
+      "answer_html": "1. Segelreparaturen,<br>2. Reparaturen an Rumpf und Rigg,<br>3. Motorreparaturen,<br>4. Elektroreparaturen und<br>5. Reparaturen an Schlauchleitungen.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q23",
+      "fragebogen": 9,
+      "number": 23,
+      "question": "Warum wird die Versetzung einer Yacht durch den Wind mit zunehmender Krängung größer?",
+      "answer": "Der Lateralplan wird kleiner, dadurch verringert sich der seitliche Widerstand des Schiffes im Wasser.",
+      "answer_html": "Der <strong>Lateralplan wird kleiner</strong>, dadurch <strong>verringert</strong> sich der <strong>seitliche Widerstand</strong> des Schiffes im Wasser.",
+      "keywords": [
+        "Lateralplan wird kleiner",
+        "verringert",
+        "seitliche Widerstand"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q24",
+      "fragebogen": 9,
+      "number": 24,
+      "question": "Wie schützt man auf Kunststoffyachten den Propeller gegen Elektrolyse?",
+      "answer": "Durch eine Zinkanode auf der Propeller welle.",
+      "answer_html": "Durch eine <strong>Zinkanode auf der</strong> Propeller <strong>welle</strong>.",
+      "keywords": [
+        "Zinkanode auf der",
+        "welle"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q25",
+      "fragebogen": 9,
+      "number": 25,
+      "question": "Wie wirkt sich mitlaufender Strom auf die Fahrt eines Fahrzeugs und die Loganzeige aus?",
+      "answer": "1. Der Strom erhöht die Fahrt über Grund. 2. Das Log zeigt dies nicht an.",
+      "answer_html": "1. Der Strom <strong>erhöht die Fahrt über Grund</strong>.<br>2. Das Log <strong>zeigt dies nicht</strong> an.",
+      "keywords": [
+        "erhöht die Fahrt über Grund",
+        "zeigt dies nicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q26",
+      "fragebogen": 9,
+      "number": 26,
+      "question": "Nennen Sie die grundsätzlichen Schritte und ihre Ziele zur Rettung einer über Bord gegangenen Person.",
+      "answer": "1. Maschine starten, 2. Suche, Herstellung eines Sichtkontaktes zur über Bord gegangenen Person, 3. „Mensch-über-Bord-Manöver“, Annäherung an die im Wasser treibende Person und Herstellung einer ersten Leinenverbindung, 4. Bergung, sicher es und schnelles Anbordnehmen der Person, 5. Erste Hilfe, Betreuung, 6. ggf. Notalarm abgeben.",
+      "answer_html": "1. <strong>Maschine</strong> starten,<br>2. <strong>Suche</strong>, Herstellung eines <strong>Sichtkontaktes</strong> zur über Bord gegangenen Person,<br>3. „<strong>Mensch-über-Bord-Manöver</strong>“, <strong>Annäherung</strong> an die im Wasser treibende Person und Herstellung einer ersten <strong>Leinenverbindung</strong>,<br>4. <strong>Bergung</strong>, <strong>sicher</strong> es <strong>und schnell</strong>es Anbordnehmen der Person,<br>5. <strong>Erste Hilfe, Betreuung</strong>,<br>6. <strong>ggf. Notalarm</strong> abgeben.",
+      "keywords": [
+        "Maschine",
+        "Suche",
+        "Sichtkontaktes",
+        "Mensch-über-Bord-Manöver",
+        "Annäherung",
+        "Leinenverbindung",
+        "Bergung",
+        "sicher",
+        "und schnell",
+        "Erste Hilfe, Betreuung",
+        "ggf. Notalarm"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q27",
+      "fragebogen": 9,
+      "number": 27,
+      "question": "Was ist vor Reisebeginn beim Seeklarmachen zu überprüfen und zu beachten? Nennen Sie mindestens 6 Beispiele.",
+      "answer": "1. Seetüchtigkeit der Yacht, 2. Zahl und Zustand der Segel, 3. Treibstoffvorrat, 4. Navigationsunterlagen, 5. Sicherheitseinweisung der Besatzung, 6. Rettungsmittel, 7. Seenotsignale, 8. Trinkwasser- und Proviantvorräte, 9. Funktionsfähigkeit des Motors, 10. Funktionsfähigkeit der elektronischen Navigationsgeräte, 11. Lenzeinrichtungen, 12. Feuerlöscher, 13. Boots- und Personalpapiere, 14. Betriebsfähigkeit der UKW-Seefunkanlage.",
+      "answer_html": "1. Seetüchtigkeit der Yacht,<br>2. Zahl und Zustand der Segel,<br>3. Treibstoffvorrat,<br>4. Navigationsunterlagen,<br>5. Sicherheitseinweisung der Besatzung,<br>6. Rettungsmittel,<br>7. Seenotsignale,<br>8. Trinkwasser- und Proviantvorräte,<br>9. Funktionsfähigkeit des Motors,<br>10. Funktionsfähigkeit der elektronischen Navigationsgeräte,<br>11. Lenzeinrichtungen,<br>12. Feuerlöscher,<br>13. Boots- und Personalpapiere,<br>14. Betriebsfähigkeit der UKW-Seefunkanlage.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q28",
+      "fragebogen": 9,
+      "number": 28,
+      "question": "Warum sollte ein sinkendes Schiff im Notfall so spät wie möglich verlassen werden?",
+      "answer": "1. Die Überlebensmöglichkeiten sind auf dem Schiff größer. 2. Ein Schiff ist besser zu orten. 3. Einstieg in das Rettungsfloß und Aufenthalt können sehr schwierig sein.",
+      "answer_html": "1. Die <strong>Überleben</strong>smöglichkeiten sind <strong>auf dem Schiff größer</strong>.<br>2. Ein <strong>Schiff</strong> ist besser zu <strong>orten</strong>.<br>3. <strong>Einstieg</strong> in das Rettungsfloß und <strong>Aufenthalt</strong> können <strong>sehr schwierig</strong> sein.",
+      "keywords": [
+        "Überleben",
+        "auf dem Schiff größer",
+        "Schiff",
+        "orten",
+        "Einstieg",
+        "Aufenthalt",
+        "sehr schwierig"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q29",
+      "fragebogen": 9,
+      "number": 29,
+      "question": "Was müssen Sie bei der Auswahl eines Ankerplatzes beachten?",
+      "answer": "1. Der Ankerplatz sollte Schutz vor Wind und Wellen bieten. 2. Auf ausreichenden Platz zum Schwojen achten. 3. Mögliche Winddrehungen einplanen.",
+      "answer_html": "1. Der Ankerplatz sollte <strong>Schutz vor Wind und Wellen</strong> bieten.<br>2. Auf ausreichenden <strong>Platz zum Schwojen</strong> achten.<br>3. Mögliche <strong>Winddrehungen</strong> einplanen.",
+      "keywords": [
+        "Schutz vor Wind und Wellen",
+        "Platz zum Schwojen",
+        "Winddrehungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb09-q30",
+      "fragebogen": 9,
+      "number": 30,
+      "question": "Was müssen Sie bedenken, wenn ein großes Schiff auf Ihr Sportboot zukommt?",
+      "answer": "1. Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken), 2. u. U. eingeschränkte Sicht des anderen Fahrzeugs, insbesondere nach voraus, 3. Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet, 4. Beeinträchtigung durch Bugwellen des großen Schiffes,",
+      "answer_html": "1. Andere Manövrierfähigkeit (größere <strong>Drehkreise</strong>, längere <strong>Stoppstrecken</strong>),<br>2. u. U. <strong>eingeschränkte Sicht</strong> des anderen Fahrzeugs, insbesondere nach voraus,<br>3. Möglichkeit des <strong>Übersehen</strong>werdens, weil man sich <strong>im Radarschatten</strong> befindet,<br>4. Beeinträchtigung durch <strong>Bugwellen</strong> des großen Schiffes,",
+      "keywords": [
+        "Drehkreise",
+        "Stoppstrecken",
+        "eingeschränkte Sicht",
+        "Übersehen",
+        "im Radarschatten",
+        "Bugwellen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

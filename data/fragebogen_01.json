@@ -1,0 +1,449 @@
+{
+  "fragebogen": 1,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb01-q01",
+      "fragebogen": 1,
+      "number": 1,
+      "question": "Welche Angaben enthalten die Nachrichten für Seefahrer (NfS)?",
+      "answer": "Für die sichere Schiffsführung wichtige Maßnahmen, Ereignisse und Veränderungen auf den Seeschifffahrtsstraßen, a auf der Hohen See in den Hoheitsgewässern anderer Staaten im europäischen und angrenzenden Bereich.",
+      "answer_html": "Für die sichere Schiffsführung wichtige <strong>Maßnahmen</strong>, <strong>Ereignisse</strong> und <strong>Veränderungen</strong> auf den Seeschifffahrtsstraßen, a auf der Hohen See in den Hoheitsgewässern anderer Staaten im europäischen und angrenzenden Bereich.",
+      "keywords": [
+        "Maßnahmen",
+        "Ereignisse",
+        "Veränderungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q02",
+      "fragebogen": 1,
+      "number": 2,
+      "question": "Was sind Leitfeuer (direction lights)?",
+      "answer": "Feuer, die durch Leit- oder Warnsektoren verschiedener Farbe oder Kennung ein Fahrwasser, eine Hafeneinfahrt oder freien Seeraum zwischen Untiefen bezeichnen.",
+      "answer_html": "Feuer, die durch <strong>Leit- oder Warnsektoren verschiedener Farbe</strong> oder Kennung ein Fahrwasser, eine Hafeneinfahrt oder freien Seeraum zwischen Untiefen bezeichnen.",
+      "keywords": [
+        "Leit- oder Warnsektoren verschiedener Farbe"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q03",
+      "fragebogen": 1,
+      "number": 3,
+      "question": "Wer veröffentlicht die Bekanntmachungen für Seefahrer (BfS) und was umfassen diese Veröffentlichungen?",
+      "answer": "1. Die BfS werden von den jeweils zuständigen Behörden der Wasser- und Schifffahrtsverwaltung des Bundes bzw. der Länder veröffentlicht. 2. Sie enthalten alle wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone Deutschlands.",
+      "answer_html": "1. Die BfS werden von den jeweils zuständigen <strong>Behörden der Wasser- und Schifffahrtsverwaltung</strong> des Bundes bzw. der Länder veröffentlicht.<br>2. Sie enthalten alle <strong>wichtigen Maßnahmen und Ereignisse</strong> auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone Deutschlands.",
+      "keywords": [
+        "Behörden der Wasser- und Schifffahrtsverwaltung",
+        "wichtigen Maßnahmen und Ereignisse"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q04",
+      "fragebogen": 1,
+      "number": 4,
+      "question": "Was müssen Sie bei Kursberechnungen hinsichtlich der in der Seekarte angegebenen Ortsmissweisungen beachten?",
+      "answer": "Die für ein bestimmtes Jahr angegebene Missweisung muss mittels der in der Seekarte angegebenen jährlichen Änderung für das aktuelle Jahr berichtigt werden.",
+      "answer_html": "Die für ein <strong>bestimmtes Jahr angegebene Missweisung</strong> muss mittels der in der Seekarte angegebenen <strong>jährlichen Änderung</strong> für das aktuelle Jahr berichtigt werden.",
+      "keywords": [
+        "bestimmtes Jahr angegebene Missweisung",
+        "jährlichen Änderung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q05",
+      "fragebogen": 1,
+      "number": 5,
+      "question": "Erklären Sie den Begriff „Alter der Gezeit“.",
+      "answer": "Angabe über die Phase des Tidengeschehen (Nippzeit, Mittzeit, Springzeit).",
+      "answer_html": "Angabe über die <strong>Phase des Tidengeschehen (Nippzeit, Mittzeit, Springzeit).</strong>",
+      "keywords": [
+        "Phase des Tidengeschehen (Nippzeit, Mittzeit, Springzeit)"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q06",
+      "fragebogen": 1,
+      "number": 6,
+      "question": "Wo können Sie Informationen über Gezeitenströme in Küstengewässern finden?",
+      "answer": "1. In Gezeitenstromatlanten, Seehandbüchern, 2. In Seekarten aus Gezeitenstromtabellen, die bezogen sind auf die Hochwasserzeiten des dort genannten Bezugsortes.",
+      "answer_html": "1. In <strong>Gezeitenstromatlanten, Seehandbüchern</strong>,<br>2. In <strong>Seekarten aus Gezeitenstromtabellen</strong>, die bezogen sind auf die Hochwasserzeiten des dort genannten Bezugsortes.",
+      "keywords": [
+        "Gezeitenstromatlanten, Seehandbüchern",
+        "Seekarten aus Gezeitenstromtabellen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q07",
+      "fragebogen": 1,
+      "number": 7,
+      "question": "Was bedeutet WGS 84 und was wird damit erreicht?",
+      "answer": "1. Globales Bezugssystem „World Geodetic System 1984“. 2. weltweite, optimale Anpassung an die reale Form der Erde (= Referenzellipsoid bei GPS).",
+      "answer_html": "1. Globales Bezugssystem „<strong>World Geodetic System 1984</strong>“.<br>2. <strong>weltweite, optimale Anpassung</strong> an die <strong>reale Form der Erde</strong> (= Referenzellipsoid bei GPS).",
+      "keywords": [
+        "World Geodetic System 1984",
+        "weltweite, optimale Anpassung",
+        "reale Form der Erde"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q08",
+      "fragebogen": 1,
+      "number": 8,
+      "question": "Welche Aufgaben hat AIS?",
+      "answer": "ausgerüstete Schiffe senden automatisch (ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen Abständen ihre Identität und einen schiffsbezogenen Datensatz. Außerdem können bei Bedarf sicherheitsrelevante Nachrichten („safety related messages“) von Bord oder von Landstationen gesendet werden.",
+      "answer_html": "ausgerüstete Schiffe senden <strong>automatisch</strong> (ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen Abständen <strong>ihre Identität und einen schiffsbezogenen Datensatz</strong>. Außerdem können bei Bedarf <strong>sicherheitsrelevante Nachrichten („safety related messages“)</strong> von Bord oder von Landstationen gesendet werden.",
+      "keywords": [
+        "automatisch",
+        "ihre Identität und einen schiffsbezogenen Datensatz",
+        "sicherheitsrelevante Nachrichten („safety related messages“)"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q09",
+      "fragebogen": 1,
+      "number": 9,
+      "question": "Was gehört zur navigatorischen Mindestausrüstung einer Yacht in Küstengewässern? Nennen Sie mindestens 6 Beispiele.",
+      "answer": "1. Steuerkompass, 2. Peileinrichtung, 3. terrestrisches oder satellitengestütztes Funknavigationsgerät, 4. Log, 5. Lot, 6. Fernglas, 7. Barometer, 8. Weltempfänger für Rundfunk, 9. Seebücher und auf den neuesten Stand berichtigte Seekarten für das zu befahrende Seegebiet, 10. Logbuch, 11. Uhr/Zeitmesser.",
+      "answer_html": "1. Steuerkompass,<br>2. Peileinrichtung,<br>3. terrestrisches oder satellitengestütztes Funknavigationsgerät,<br>4. Log,<br>5. Lot,<br>6. Fernglas,<br>7. Barometer,<br>8. Weltempfänger für Rundfunk,<br>9. Seebücher und auf den neuesten Stand berichtigte Seekarten für das zu befahrende Seegebiet,<br>10. Logbuch,<br>11. Uhr/Zeitmesser.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q10",
+      "fragebogen": 1,
+      "number": 10,
+      "question": "Die Verordnung zu den KVR verbietet die Führung eines Fahrzeugs, wenn man infolge des Genusses alkoholischer Getränke in der sicheren Führung des Fahrzeugs behindert ist. Welchen örtlichen Geltungsbereich hat die vorgenannte Verordnung?",
+      "answer": "Die Verordnung gilt auf Seeschifffahrtsstraßen und für Schiffe, die die Bundesflagge führen, seewärts der Begrenzung des Küstenmeeres der Bundesrepublik Deutschland (also weltweit), soweit nicht in den Hoheitsgewässern anderer Staaten abweichende Regelungen gelten.",
+      "answer_html": "Die Verordnung gilt auf <strong>Seeschifffahrtsstraßen und für Schiffe, die die Bundesflagge führen</strong>, seewärts der Begrenzung des Küstenmeeres der Bundesrepublik Deutschland (also <strong>weltweit</strong>), soweit nicht <strong>in den Hoheitsgewässern anderer Staaten abweichende Regelungen</strong> gelten.",
+      "keywords": [
+        "Seeschifffahrtsstraßen und für Schiffe, die die Bundesflagge führen",
+        "weltweit",
+        "in den Hoheitsgewässern anderer Staaten abweichende Regelungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q11",
+      "fragebogen": 1,
+      "number": 11,
+      "question": "Was bestimmen die KVR für das Verhalten von Fahrzeugen von weniger als 20 m Länge oder von Segelfahrzeugen im Fahrwasser einer Seeschifffahrtsstraße?",
+      "answer": "Fahrzeuge von weniger als 20 m Länge oder Segelfahrzeuge dürfen nicht die Durchfahrt eines Fahrzeuges behindern, das nur innerhalb eines engen Fahrwassers oder einer Fahrrinne sicher fahren kann. Sie müssen, wenn es die Umstände erfordern, frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen Fahrzeugs zu lassen.",
+      "answer_html": "Fahrzeuge von weniger als 20 m Länge oder Segelfahrzeuge dürfen <strong>nicht die Durchfahrt eines Fahrzeuges behindern</strong>, das nur innerhalb eines engen Fahrwassers oder einer Fahrrinne sicher fahren kann. Sie müssen, wenn es die Umstände erfordern, <strong>frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen</strong> Fahrzeugs zu lassen.",
+      "keywords": [
+        "nicht die Durchfahrt eines Fahrzeuges behindern",
+        "frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q12",
+      "fragebogen": 1,
+      "number": 12,
+      "question": "Sie segeln mit Wind von Steuerbord und sehen nachts in Luv ein einzelnes rotes Licht, das in stehender Peilung näher kommt. 1. Was ist das für ein Licht? 2. Wer muss ausweichen? (Begründung!)",
+      "answer": "1. Das Licht ist das Backbordlicht eines Segelfahrzeugs in Fahrt. 2. Das Segelfahrzeug in Luv muss ausweichen, entweder weil es den Wind von Backbord hat oder weil es – wenn mit Wind von Stb. segelnd – luvwärts steht.",
+      "answer_html": "1. Das Licht ist das <strong>Backbordlicht eines Segelfahrzeugs</strong> in Fahrt.<br>2. Das <strong>Segelfahrzeug in Luv muss ausweichen</strong>, entweder weil es den <strong>Wind von Backbord</strong> hat oder weil es – wenn mit Wind von Stb. segelnd – <strong>luvwärts</strong> steht.",
+      "keywords": [
+        "Backbordlicht eines Segelfahrzeugs",
+        "Segelfahrzeug in Luv muss ausweichen",
+        "Wind von Backbord",
+        "luvwärts"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q13",
+      "fragebogen": 1,
+      "number": 13,
+      "question": "Erläutern Sie den Begriff „durchgehende Schifffahrt“ auf einem Fahrwasser einer Seeschifffahrtsstraße.",
+      "answer": "Die durchgehende Schifffahrt umfasst alle Fahrzeuge, die deutlich dem Fahrwasserverlauf einer Seeschifffahrtsstraße folgen. Dies erlaubt nach allgemeiner Verkehrsauffassung ein Abweichen von höchstens ±10°von der Richtung des Fahrwassers. Dabei ist es gleichgültig, zu welchem Zweck das Fahrzeug betrieben wird.",
+      "answer_html": "Die durchgehende Schifffahrt umfasst <strong>alle Fahrzeuge, die deutlich dem Fahrwasserverlauf einer Seeschifffahrtsstraße folgen</strong>. Dies erlaubt nach allgemeiner Verkehrsauffassung ein <strong>Abweichen von höchstens ±10°</strong>von der Richtung des Fahrwassers. Dabei ist es gleichgültig, zu welchem Zweck das Fahrzeug betrieben wird.",
+      "keywords": [
+        "alle Fahrzeuge, die deutlich dem Fahrwasserverlauf einer Seeschifffahrtsstraße folgen",
+        "Abweichen von höchstens ±10°"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q14",
+      "fragebogen": 1,
+      "number": 14,
+      "question": "Sie sehen auf der Elbe bei Nacht ein Fahrzeug mit der nachfolgenden Lichterführung. Um was für ein Fahrzeug handelt es sich? Was bedeuten die beiden roten und die beiden grünen Lichter senkrecht übereinander?",
+      "answer": "Manövrierbehindertes Fahrzeug, Länge wahrscheinlich 50 m oder mehr, von vorn mit Fahrt durchs Wasser, das Unterwasserarbeiten ausführt (z. B. baggert). Passierseite an Stb. (zwei grüne Rundumlichter übereinander), Passierbehinderung an Bb. (zwei rote Rundumlichter übereinander).",
+      "answer_html": "<strong>Manövrierbehindertes</strong> Fahrzeug, Länge wahrscheinlich 50 m oder mehr, <strong>von vorn mit Fahrt durchs Wasser</strong>, das Unterwasserarbeiten ausführt (z. B. baggert). <strong>Passierseite an Stb</strong>. (<strong>zwei grüne Rundumlichter</strong> übereinander), <strong>Passierbehinderung an Bb</strong>. (<strong>zwei rote Rundumlichter</strong> übereinander).",
+      "keywords": [
+        "Manövrierbehindertes",
+        "von vorn mit Fahrt durchs Wasser",
+        "Passierseite an Stb",
+        "zwei grüne Rundumlichter",
+        "Passierbehinderung an Bb",
+        "zwei rote Rundumlichter"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q15",
+      "fragebogen": 1,
+      "number": 15,
+      "question": "Wann liegt ein schaden- oder gefahrverursachendes Vorkommnis (Seeunfall) im Sinne des Seesicherheits-Untersuchungs-Gesetzes (SUG) vor? Nennen Sie mindestens 3 Merkmale.",
+      "answer": "1. Schiffsverlust, Aufgrundlaufen, Kollision eines Schiffes, 2. Tod oder Verschollenheit oder schwere Verletzung einer Person, 3. maritimer Umweltschaden oder sonstiger Sachschaden, 4. Gefahr für einen Menschen oder ein Schiff, 5. Gefahr eines schweren Schadens an einem Schiff, einem meerestechnischen Bauwerk oder an der Meeresumwelt.",
+      "answer_html": "1. Schiffs<strong>verlust, Aufgrundlaufen, Kollision</strong> eines Schiffes,<br>2. <strong>Tod oder Verschollenheit</strong> oder schwere Verletzung einer Person,<br>3. <strong>maritimer Umweltschaden</strong> oder sonstiger Sachschaden,<br>4. <strong>Gefahr für einen Menschen oder ein Schiff</strong>,<br>5. <strong>Gefahr eines schweren Schadens</strong> an einem <strong>Schiff</strong>, einem <strong>meerestechnischen Bauwerk</strong> oder an der <strong>Meeresumwelt</strong>.",
+      "keywords": [
+        "verlust, Aufgrundlaufen, Kollision",
+        "Tod oder Verschollenheit",
+        "maritimer Umweltschaden",
+        "Gefahr für einen Menschen oder ein Schiff",
+        "Gefahr eines schweren Schadens",
+        "Schiff",
+        "meerestechnischen Bauwerk",
+        "Meeresumwelt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q16",
+      "fragebogen": 1,
+      "number": 16,
+      "question": "Welchen Zweck soll das MARPOL-Übereinkommen erfüllen?",
+      "answer": "Die Verschmutzung der Meere verhindern.",
+      "answer_html": "Die <strong>Verschmutzung</strong> der <strong>Meere verhindern</strong>.",
+      "keywords": [
+        "Verschmutzung",
+        "Meere verhindern"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q17",
+      "fragebogen": 1,
+      "number": 17,
+      "question": "1. Welche Skala wird für die Schätzung der Windstärke verwendet? 2. Was verstehen Sie unter mäßigem Wind, was unter Starkwind?",
+      "answer": "1. Die 12-teilige Beaufort skala. 2. Mäßiger Wind: 4 Beaufort, Starkwind: 6 und 7 Beaufort.",
+      "answer_html": "1. Die 12-teilige <strong>Beaufort</strong> skala.<br>2. <strong>Mäßiger Wind: 4</strong> Beaufort, <strong>Starkwind: 6</strong> und <strong>7</strong> Beaufort.",
+      "keywords": [
+        "Beaufort",
+        "Mäßiger Wind: 4",
+        "Starkwind: 6",
+        "7"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q18",
+      "fragebogen": 1,
+      "number": 18,
+      "question": "1. Welche Formen von Wolken gibt es? 2. Nennen Sie 6 der 10 Haupttypen!",
+      "answer": "1. Haufenwolken und Schichtwolken. 2. Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.",
+      "answer_html": "1. <strong>Haufen</strong>wolken und <strong>Schicht</strong>wolken.<br>2. Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.",
+      "keywords": [
+        "Haufen",
+        "Schicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q19",
+      "fragebogen": 1,
+      "number": 19,
+      "question": "1. Was sind Luftmassengrenzen? 2. Welche Luftmassengrenzen kennen Sie? Nennen Sie mindestens 2 Beispiele.",
+      "answer": "1. Luftmassengrenzen sind Fronten. Sie trennen Luftmassen mit unterschiedlicher Temperatur und Luftfeuchtigkeit. 2. Kaltfront, Warmfront, Okklusion.",
+      "answer_html": "1. Luftmassengrenzen sind <strong>Fronten</strong>. Sie trennen <strong>Luftmassen mit unterschiedlicher Temperatur und Luftfeuchtigkeit</strong>.<br>2. Kaltfront, Warmfront, Okklusion.",
+      "keywords": [
+        "Fronten",
+        "Luftmassen mit unterschiedlicher Temperatur und Luftfeuchtigkeit"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q20",
+      "fragebogen": 1,
+      "number": 20,
+      "question": "Welche Wolkenform zeigt sich am späten Vormittag über Land am Himmel und kündigt Seewind an?",
+      "answer": "Haufenwolke (Cumulus).",
+      "answer_html": "<strong>Haufenwolke (Cumulus)</strong>.",
+      "keywords": [
+        "Haufenwolke (Cumulus)"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q21",
+      "fragebogen": 1,
+      "number": 21,
+      "question": "Wie wird sich das Wetter wahrscheinlich entwickeln, wenn der Wind am Abend 1. abflaut oder 2. zunimmt?",
+      "answer": "1. oft ein Zeichen für gutes Wetter. 2. kündigt oft Starkwind, Sturm und Regen an.",
+      "answer_html": "1. oft ein <strong>Zeichen für gutes</strong> Wetter.<br>2. kündigt oft <strong>Starkwind, Sturm und Regen</strong> an.",
+      "keywords": [
+        "Zeichen für gutes",
+        "Starkwind, Sturm und Regen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q22",
+      "fragebogen": 1,
+      "number": 22,
+      "question": "Warum sollten Sie mehr als einen Anker an Bord haben, möglichst unterschiedlicher Art?",
+      "answer": "1. Als Ersatz bei Verlust, 2. zum Verwarpen oder Verkatten, 3. um unterschiedliche Ankergründe berücksichtigen zu können, 4. um bei schwerem Wetter oder in Tidengewässern vor 2 Ankern liegen zu können.",
+      "answer_html": "1. Als <strong>Ersatz bei Verlust</strong>,<br>2. zum <strong>Verwarpen oder Verkatten</strong>,<br>3. um <strong>unterschiedliche Ankergründe</strong> berücksichtigen zu können,<br>4. um bei schwerem Wetter oder in Tidengewässern <strong>vor 2 Ankern liegen</strong> zu können.",
+      "keywords": [
+        "Ersatz bei Verlust",
+        "Verwarpen oder Verkatten",
+        "unterschiedliche Ankergründe",
+        "vor 2 Ankern liegen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q23",
+      "fragebogen": 1,
+      "number": 23,
+      "question": "Welche Sicherheitsmaßnahmen sind vor und beim Tanken von Diesel zu treffen?",
+      "answer": "1. Maschine abstellen, 2. offenes Feuer löschen (Rauchen einstellen), 3. Maßnahmen gegen Überlaufen treffen.",
+      "answer_html": "1. <strong>Maschine abstellen</strong>,<br>2. <strong>offenes Feuer</strong> löschen (Rauchen einstellen),<br>3. Maßnahmen gegen Überlaufen treffen.",
+      "keywords": [
+        "Maschine abstellen",
+        "offenes Feuer"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q24",
+      "fragebogen": 1,
+      "number": 24,
+      "question": "Beschreiben Sie die Schritte für den Reffvorgang mit dem Bindereff.",
+      "answer": "1. Baum durch Dirk oder stützenden Baumniederholer oben halten, 2. Fall fieren und Segel etwas herunterholen, 3. Hals (vordere Reffkausch) in Reffhaken am Lümmelbeschlag einhaken und festsetzen, 4. Fall dichtholen, 5. Schothorn (hintere Reffkausch) mit Schmeerreep oder Reffleine nach achtern auf den Baum holen und 6. eventuell loses Segeltuch auftuchen und mit Reffbändseln/Reffleine einbinden.",
+      "answer_html": "1. Baum durch <strong>Dirk</strong> oder stützenden Baumniederholer oben halten,<br>2. <strong>Fall fieren</strong> und Segel etwas herunterholen,<br>3. Hals (vordere Reffkausch) in <strong>Reffhaken</strong> am Lümmelbeschlag einhaken und festsetzen,<br>4. <strong>Fall dichtholen</strong>,<br>5. <strong>Schothorn</strong> (hintere Reffkausch) mit Schmeerreep oder Reffleine nach achtern auf den Baum holen und<br>6. eventuell loses Segeltuch <strong>auftuchen und mit Reffbändseln</strong>/Reffleine einbinden.",
+      "keywords": [
+        "Dirk",
+        "Fall fieren",
+        "Reffhaken",
+        "Fall dichtholen",
+        "Schothorn",
+        "auftuchen und mit Reffbändseln"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q25",
+      "fragebogen": 1,
+      "number": 25,
+      "question": "Welche Hilfsmittel können Sie einsetzen, um einen Überbordgefallenen an Deck zu bekommen?",
+      "answer": "Bewegliche (und gesicherte) Badeleiter, eventuell Großschot, beschwerte Trittschlinge, Rettungstalje, Unterfangen mit kleinem Segel, Bergegurt, Dingi.",
+      "answer_html": "Bewegliche (und gesicherte) <strong>Badeleiter</strong>, eventuell <strong>Großschot</strong>, beschwerte <strong>Trittschlinge, Rettungstalje</strong>, Unterfangen mit kleinem <strong>Segel, Bergegurt, Dingi</strong>.",
+      "keywords": [
+        "Badeleiter",
+        "Großschot",
+        "Trittschlinge, Rettungstalje",
+        "Segel, Bergegurt, Dingi"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q26",
+      "fragebogen": 1,
+      "number": 26,
+      "question": "Welche Seenotsignalmittel sollten Sie an Bord haben? Nennen Sie mindestens 6 Beispiele.",
+      "answer": "1. Handfackeln, rot, 2. Handraketen, rot, 3. Rauchfackeln oder Rauchtopf, orange, 4. Signalpistole mit Munition, 5. Seewasserfärber, 6. Signalflaggen N und C, 7. Signallampe, 8. Seenotfunkboje.",
+      "answer_html": "1. Handfackeln, rot,<br>2. Handraketen, rot,<br>3. Rauchfackeln oder Rauchtopf, orange,<br>4. Signalpistole mit Munition,<br>5. Seewasserfärber,<br>6. Signalflaggen N und C,<br>7. Signallampe,<br>8. Seenotfunkboje.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q27",
+      "fragebogen": 1,
+      "number": 27,
+      "question": "Was gehört zur Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn? Nennen Sie mindestens 6 Beispiele.",
+      "answer": "Einweisung in Gebrauch und Bedienung 1. der Rettungswesten und Sicherheitsgurte, 2. des Rettungsfloßes, 3. der Signalmittel, 4. der Lenzpumpen, 5. der Seeventile und des Bord-WC, 6. der Kocheinrichtung, 7. der Feuerlöscher, 8. der Motoranlage, 9. der Elektroanlage, 10. des Rundfunkgerätes und der UKW-Seefunkanlage, 11. Verhalten bei „Mensch-über-Bord“, 12. Erkennen und Verhalten bei Seekrankheit.",
+      "answer_html": "Einweisung in Gebrauch und Bedienung<br>1. der Rettungswesten und Sicherheitsgurte,<br>2. des Rettungsfloßes,<br>3. der Signalmittel,<br>4. der Lenzpumpen,<br>5. der Seeventile und des Bord-WC,<br>6. der Kocheinrichtung,<br>7. der Feuerlöscher,<br>8. der Motoranlage,<br>9. der Elektroanlage,<br>10. des Rundfunkgerätes und der UKW-Seefunkanlage,<br>11. Verhalten bei „Mensch-über-Bord“,<br>12. Erkennen und Verhalten bei Seekrankheit.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q28",
+      "fragebogen": 1,
+      "number": 28,
+      "question": "Wie verhalten Sie sich, wenn Ihr Schiff leckgeschlagen ist?",
+      "answer": "1. Meldung abgeben. 2. wenn nötig, Fahrt aus dem Schiff nehmen. 3. Lenzpumpen betätigen, Lecksuche, Leck mit Bordmitteln abdichten. 4. Küste bzw. flaches Wasser ansteuern. 5. Fahrzeug so trimmen, dass Leckstelle aus dem Wasser kommt bzw. möglichst wenig unter Wasser ist.",
+      "answer_html": "1. <strong>Meldung</strong> abgeben.<br>2. wenn nötig, <strong>Fahrt aus dem Schiff</strong> nehmen.<br>3. <strong>Lenzpumpen</strong> betätigen, <strong>Lecksuche</strong>, <strong>Leck</strong> mit Bordmitteln <strong>abdichten</strong>.<br>4. <strong>Küste bzw. flaches Wasser</strong> ansteuern.<br>5. Fahrzeug so trimmen, dass <strong>Leckstelle aus dem Wasser kommt</strong> bzw. möglichst wenig unter Wasser ist.",
+      "keywords": [
+        "Meldung",
+        "Fahrt aus dem Schiff",
+        "Lenzpumpen",
+        "Lecksuche",
+        "Leck",
+        "abdichten",
+        "Küste bzw. flaches Wasser",
+        "Leckstelle aus dem Wasser kommt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q29",
+      "fragebogen": 1,
+      "number": 29,
+      "question": "1. Welches sind die Vorteile einer Ankerkette gegenüber einer Ankerleine? 2. Wie kombiniert man auf Yachten häufig die Systeme?",
+      "answer": "1. Kette unterstützt das Eingraben, verkleinert den Schwojraum, wirkt ruckdämpfend, scheuert nicht an Steinen durch und erhöht die Haltekraft des Ankers. 2. Es wird zwischen Anker und Leine ein Kettenvorlauf von 3 bis 5 m gefahren.",
+      "answer_html": "1. Kette <strong>unterstützt das Eingraben</strong>, verkleinert den <strong>Schwojraum</strong>, wirkt <strong>ruckdämpfend</strong>, <strong>scheuert nicht an Steinen</strong> durch und <strong>erhöht die Haltekraft</strong> des Ankers.<br>2. Es wird zwischen Anker und Leine <strong>ein Kettenvorlauf von 3 bis 5 m</strong> gefahren.",
+      "keywords": [
+        "unterstützt das Eingraben",
+        "Schwojraum",
+        "ruckdämpfend",
+        "scheuert nicht an Steinen",
+        "erhöht die Haltekraft",
+        "ein Kettenvorlauf von 3 bis 5 m"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb01-q30",
+      "fragebogen": 1,
+      "number": 30,
+      "question": "Was müssen Sie beim Passieren eines großen Schiffes bei dessen Kursänderungen, z. B. In einem kurvenreichen Fahrwasser, beachten?",
+      "answer": "Heck schwenkt deutlich in die entgegengesetzte Richtung aus, (nach Backbord bei einer Kursänderung nach Steuerbord und umgekehrt).",
+      "answer_html": "<strong>Heck schwenkt</strong> deutlich in die entgegengesetzte Richtung aus, (nach Backbord bei einer Kursänderung nach Steuerbord und umgekehrt).",
+      "keywords": [
+        "Heck schwenkt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

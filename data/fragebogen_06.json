@@ -1,0 +1,466 @@
+{
+  "fragebogen": 6,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb06-q01",
+      "fragebogen": 6,
+      "number": 1,
+      "question": "Welche schwimmenden Schifffahrtszeichen werden in der britischen List of Lights und in deutschen Leuchtfeuerverzeichnissen nicht angegeben?",
+      "answer": "Tonnen kleiner als 8 m Höhe.",
+      "answer_html": "Tonnen <strong>kleiner als 8 m</strong> Höhe.",
+      "keywords": [
+        "kleiner als 8 m"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q02",
+      "fragebogen": 6,
+      "number": 2,
+      "question": "Was ist die „Tragweite“ eines Feuers?",
+      "answer": "Unter Tragweite versteht man denjenigen Abstand, in dem ein Feuer einen eben noch deutlichen Lichteindruck im Auge des Beobachters hervorruft.",
+      "answer_html": "Unter Tragweite versteht man denjenigen <strong>Abstand</strong>, in dem ein Feuer einen eben noch <strong>deutlichen Lichteindruck</strong> im Auge des Beobachters hervorruft.",
+      "keywords": [
+        "Abstand",
+        "deutlichen Lichteindruck"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q03",
+      "fragebogen": 6,
+      "number": 3,
+      "question": "1. Was sind T-Nachrichten? 2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)",
+      "answer": "1. T-Nachrichten sind solche, die über einen zeitweiligen (temporary) Zustand unterrichten. 2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von T-Nachrichten vom BSH bzw. amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen T-Nachrichten erfasst und in der Karte vermerkt werden.",
+      "answer_html": "1. T-Nachrichten sind solche, die über einen <strong>zeitweiligen (temporary)</strong> Zustand unterrichten.<br>2. Wegen der begrenzten Geltungsdauer werden <strong>keine Berichtigungen auf der Grundlage von T-Nachrichten vom BSH</strong> bzw. amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen T-Nachrichten erfasst und <strong>in der Karte</strong> vermerkt werden.",
+      "keywords": [
+        "zeitweiligen (temporary)",
+        "keine Berichtigungen auf der Grundlage von T-Nachrichten vom BSH",
+        "in der Karte"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q04",
+      "fragebogen": 6,
+      "number": 4,
+      "question": "Was müssen Sie bei der Benutzung von deutschen „Sportbootkarten“ beachten?",
+      "answer": "Sie werden nach dem Druck weder vom BSH noch von den Seekartenvertriebsstellen berichtigt. Sie müssen also vom Nutzer nach dem Kauf vor Benutzung über die NfS auf den aktuellen Stand berichtigt werden.",
+      "answer_html": "Sie werden nach dem Druck <strong>weder vom BSH noch von den Seekartenvertriebsstellen berichtigt</strong>. Sie müssen also vom Nutzer nach dem Kauf <strong>vor Benutzung über die NfS auf den aktuellen Stand berichtigt</strong> werden.",
+      "keywords": [
+        "weder vom BSH noch von den Seekartenvertriebsstellen berichtigt",
+        "vor Benutzung über die NfS auf den aktuellen Stand berichtigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q05",
+      "fragebogen": 6,
+      "number": 5,
+      "question": "Welche Nordrichtungen werden in der Navigation unterschieden? Erläutern Sie diese kurz.",
+      "answer": "1. rwN: rechtweisend Nord ist die Richtung eines Meridians zum geographischen Nordpol. 2. mwN: missweisend Nord ist die Richtung des erdmagnetischen Feldes zum magnetischen Nordpol, abhängig von Schiffsort und Datum (Jahr). In diese Richtung stellt sich eine ungestörte Magnet(Kompass-)nadel ein. 3. MgN: ist die Richtung zu Magnetkompass-Nord. In diese Richtung zeigt die durch das schiffsmagnetische Feld beeinflusste Kompassnadel an Bord.",
+      "answer_html": "1. <strong>rwN</strong>: rechtweisend Nord ist die Richtung eines Meridians <strong>zum geographischen Nordpol</strong>.<br>2. <strong>mwN</strong>: missweisend Nord ist die Richtung des erdmagnetischen Feldes <strong>zum magnetischen Nordpol</strong>, abhängig von Schiffsort und Datum (Jahr). In diese Richtung stellt sich eine ungestörte Magnet(Kompass-)nadel ein.<br>3. <strong>MgN</strong>: ist die Richtung zu Magnetkompass-Nord. In diese Richtung <strong>zeigt die durch das schiffsmagnetische Feld beeinflusste Kompassnadel</strong> an Bord.",
+      "keywords": [
+        "rwN",
+        "zum geographischen Nordpol",
+        "mwN",
+        "zum magnetischen Nordpol",
+        "MgN",
+        "zeigt die durch das schiffsmagnetische Feld beeinflusste Kompassnadel"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q06",
+      "fragebogen": 6,
+      "number": 6,
+      "question": "Welche Sonderzeichen kennzeichnen Sperrgebiete?",
+      "answer": "Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen mit einem breiten roten Band. Beschriftung auf Fasstonne oder Leuchttonne mit schwarzen Buchstaben: „Sperrgebiet“ oder „Sperr-G.“",
+      "answer_html": "<strong>Gelbe</strong> Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen mit einem breiten <strong>roten Band</strong>. Beschriftung auf Fasstonne oder Leuchttonne mit schwarzen Buchstaben: <strong>„Sperrgebiet“ oder „Sperr-G.“</strong>",
+      "keywords": [
+        "Gelbe",
+        "roten Band",
+        "„Sperrgebiet“ oder „Sperr-G.“"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q07",
+      "fragebogen": 6,
+      "number": 7,
+      "question": "Auf einer Seekarte finden Sie in Küstennähe die Tiefenangabe 23. Was bedeutet das?",
+      "answer": "Der Ort der Zahl liegt 2,3 m über Kartennull und kann trockenfallen.",
+      "answer_html": "Der Ort der Zahl liegt <strong>2,3 m über Kartennull</strong> und kann <strong>trockenfallen</strong>.",
+      "keywords": [
+        "2,3 m über Kartennull",
+        "trockenfallen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q08",
+      "fragebogen": 6,
+      "number": 8,
+      "question": "Was bedeutet die Aussage: „Die Ortsgenauigkeit beträgt 100 m mit einer Wahrscheinlichkeit von 95 %“?",
+      "answer": "Das Schiff befindet sich mit einer Wahrscheinlichkeit von 95 % in einem Fehlerkreis von 100 m Radius um den beobachteten Ort. Also: jede 20. Ortsbestimmung (5 %) ist ungenauer als ca. 100 m.",
+      "answer_html": "Das Schiff befindet sich mit einer <strong>Wahrscheinlichkeit von 95 % in einem Fehlerkreis von 100 m Radius</strong> um den beobachteten Ort. Also: jede 20. Ortsbestimmung (<strong>5 %</strong>) <strong>ist ungenauer als ca. 100 m</strong>.",
+      "keywords": [
+        "Wahrscheinlichkeit von 95 % in einem Fehlerkreis von 100 m Radius",
+        "5 %",
+        "ist ungenauer als ca. 100 m"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q09",
+      "fragebogen": 6,
+      "number": 9,
+      "question": "Wann kann man sich auf die Verfügbarkeit und Anzeige von AIS-Signalen anderer Fahrzeuge verlassen? Nennen Sie die wesentlichen Voraussetzungen!",
+      "answer": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn 1. das Fahrzeug mit AIS ausgerüstet ist, 2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmtenzwingenden Gründen), 3. GPS aktiv ist und 4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = „target overflow“) keine Fahrzeuge ausgeschlossen werden.",
+      "answer_html": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn<br>1. das Fahrzeug <strong>mit AIS ausgerüstet</strong> ist,<br>2. das sendende Fahrzeug AIS <strong>nicht abgeschaltet</strong> hat (darf der Kapitän allerdings nur bei bestimmtenzwingenden Gründen),<br>3. <strong>GPS aktiv</strong> ist und<br>4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = <strong>„target overflow“</strong>) keine Fahrzeuge ausgeschlossen werden.",
+      "keywords": [
+        "mit AIS ausgerüstet",
+        "nicht abgeschaltet",
+        "GPS aktiv",
+        "„target overflow“"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q10",
+      "fragebogen": 6,
+      "number": 10,
+      "question": "Welche Lichter müssen manövrierbehinderte Fahrzeuge (außer Minenräumfahrzeuge) führen 1. ohne Fahrt durchs Wasser (FdW), 2. mit FdW, 3. vor Anker?",
+      "answer": "1. Ohne FdW: rot-weiß-rot senkrecht übereinander. 2. Mit FdW: rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs (Topplicht[er]), Seitenlichter, Hecklicht). 3. Vor Anker: rot-weiß-rot senkrecht übereinander und Ankerlicht(er).",
+      "answer_html": "1. <strong>Ohne FdW: rot-weiß-rot senkrecht</strong> übereinander.<br>2. <strong>Mit FdW: rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs</strong> (Topplicht[er]), Seitenlichter, Hecklicht).<br>3. <strong>Vor Anker: rot-weiß-rot senkrecht übereinander und Ankerlicht(er)</strong>.",
+      "keywords": [
+        "Ohne FdW: rot-weiß-rot senkrecht",
+        "Mit FdW: rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs",
+        "Vor Anker: rot-weiß-rot senkrecht übereinander und Ankerlicht(er)"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q11",
+      "fragebogen": 6,
+      "number": 11,
+      "question": "Sie sehen ein Fahrzeug mit folgender Lichterführung: 1. Worum handelt es sich? 2. Welches Schallsignal müsste dieses Fahrzeug bei unsichtigem Wetter geben?",
+      "answer": "1. Treibnetzfischer (Fahrzeug, das nicht trawlt) in Fahrt oder vor Anker mit ausgebrachtem Fanggerät, das waagerecht weiter als 150 m ins Wasser reicht. (Das untere weiße Licht kann auch das Hecklicht sein). 2. Schallsignal – • • (lang-kurz-kurz) mindestens alle 2 Minuten.",
+      "answer_html": "1. Treibnetzfischer (<strong>Fahrzeug, das nicht trawlt</strong>) <strong>in Fahrt oder vor Anker</strong> mit ausgebrachtem <strong>Fanggerät, das waagerecht weiter als 150 m ins Wasser</strong> reicht. (Das untere weiße Licht kann auch das Hecklicht sein).<br>2. Schallsignal <strong>–</strong> • • (<strong>lang-kurz-kurz) mindestens alle 2 Minuten</strong>.",
+      "keywords": [
+        "Fahrzeug, das nicht trawlt",
+        "in Fahrt oder vor Anker",
+        "Fanggerät, das waagerecht weiter als 150 m ins Wasser",
+        "–",
+        "lang-kurz-kurz) mindestens alle 2 Minuten"
+      ],
+      "question_images": [
+        "fb06-q11-q1.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q12",
+      "fragebogen": 6,
+      "number": 12,
+      "question": "Welche Fahrzeuge dürfen die Küstenverkehrszone benutzen, ohne einen Hafen innerhalb der Küstenverkehrszone anzusteuern?",
+      "answer": "Fahrzeuge von weniger als 20 m Länge und Segelfahrzeuge.",
+      "answer_html": "Fahrzeuge von <strong>weniger als 20 m Länge</strong> und <strong>Segelfahrzeuge</strong>.",
+      "keywords": [
+        "weniger als 20 m Länge",
+        "Segelfahrzeuge"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q13",
+      "fragebogen": 6,
+      "number": 13,
+      "question": "Welchen Fahrzeugen muss ein Segelfahrzeug ausweichen?",
+      "answer": "1. Einem manövrierunfähigen Fahrzeug, 2. einem manövrierbehinderten Fahrzeug, 3. einem fischenden Fahrzeug, 4. ggf. einem anderen Segelfahrzeug, abhängig von der Segelstellung in Bezug auf den Wind.",
+      "answer_html": "1. Einem <strong>manövrierunfähigen</strong> Fahrzeug,<br>2. einem <strong>manövrierbehinderten</strong> Fahrzeug,<br>3. einem <strong>fischenden</strong> Fahrzeug,<br>4. ggf. einem <strong>anderen Segelfahrzeug</strong>, abhängig von der <strong>Segelstellung</strong> in Bezug auf den Wind.",
+      "keywords": [
+        "manövrierunfähigen",
+        "manövrierbehinderten",
+        "fischenden",
+        "anderen Segelfahrzeug",
+        "Segelstellung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q14",
+      "fragebogen": 6,
+      "number": 14,
+      "question": "Wer darf lt. SeeSchStrO ein Fahrzeug nicht führen oder als Mitglied der Crew eine andere Tätigkeit des Brücken- oder Decksdienstes nicht ausüben (allgemein ohne Zahlen zu beantworten)?",
+      "answer": "Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkohol ischer Getränke oder anderer berauschender Mittel in der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken oder Decksdienstes behindert ist.",
+      "answer_html": "Wer infolge <strong>körperlicher oder geistiger Mängel</strong> oder des Genusses <strong>alkohol</strong> ischer Getränke oder anderer <strong>berauschender Mittel</strong> in der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken oder Decksdienstes behindert ist.",
+      "keywords": [
+        "körperlicher oder geistiger Mängel",
+        "alkohol",
+        "berauschender Mittel"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q15",
+      "fragebogen": 6,
+      "number": 15,
+      "question": "Welche Aufgaben hat die Bundesstelle für Seeunfalluntersuchung?",
+      "answer": "– Amtliche Untersuchung eines schaden- oder gefahrverursachenden Vorkommnisses (Seeunfall) im Zusammenhang mit dem Betrieb eines Schiffes (z. B. Kollision zwischen zwei Fahrzeugen) und Ermittlung der Umstände, durch die es zu dem Seeunfall gekommen ist. – Herausgabe von Untersuchungsberichten und insbesondere Sicherheitsempfehlungen zur Verhütung von Seeunfällen.",
+      "answer_html": "– Amtliche <strong>Untersuchung</strong> eines schaden- oder gefahrverursachenden Vorkommnisses (Seeunfall) im Zusammenhang mit dem Betrieb eines Schiffes (z. B. Kollision zwischen zwei Fahrzeugen) und <strong>Ermittlung der Umstände</strong>, durch die es zu dem Seeunfall gekommen ist. – Herausgabe von <strong>Untersuchungsberichten</strong> und insbesondere <strong>Sicherheitsempfehlungen</strong> zur Verhütung von Seeunfällen.",
+      "keywords": [
+        "Untersuchung",
+        "Ermittlung der Umstände",
+        "Untersuchungsberichten",
+        "Sicherheitsempfehlungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q16",
+      "fragebogen": 6,
+      "number": 16,
+      "question": "Welche Müllanteile dürfen in Sondergebieten nicht auf See entsorgt werden?",
+      "answer": "Synthetische Seile, Netze, Segel, Kunststofftüten u. Ä., Papier erzeugnisse, Lumpen, Glas, Metall, Steingut, Schalungs- oder Verpackungsmaterial.",
+      "answer_html": "<strong>Synthetische</strong> Seile, Netze, Segel, Kunststofftüten u. Ä., <strong>Papier</strong> erzeugnisse, Lumpen, <strong>Glas, Metall</strong>, Steingut, Schalungs- oder Verpackungsmaterial.",
+      "keywords": [
+        "Synthetische",
+        "Papier",
+        "Glas, Metall"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q17",
+      "fragebogen": 6,
+      "number": 17,
+      "question": "Wie entstehen Tiefdruckgebiete?",
+      "answer": "Durch das Aufeinandertreffen von kalten Luftmassen aus hohen Breiten und subtropischen warmen Luftmassen.",
+      "answer_html": "Durch das <strong>Aufeinandertreffen von kalten Luftmassen</strong> aus hohen Breiten und subtropischen <strong>warmen Luftmassen</strong>.",
+      "keywords": [
+        "Aufeinandertreffen von kalten Luftmassen",
+        "warmen Luftmassen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q18",
+      "fragebogen": 6,
+      "number": 18,
+      "question": "Wodurch und wie entsteht nachts Landwind?",
+      "answer": "Das Land kühlt sich bei geringer Bewölkung stark ab. Das Wasser ändert seine Temperatur an der Oberfläche dagegen nur geringfügig. Über dem Wasser steigt daher erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Landwind (Wind von Land) aufgefüllt.",
+      "answer_html": "Das <strong>Land kühlt sich</strong> bei geringer Bewölkung stark ab. Das <strong>Wasser ändert seine Temperatur an der Oberfläche dagegen nur geringfügig</strong>. <strong>Über dem Wasser steigt daher erwärmte Luft auf</strong>. Das dabei entstehende Bodentief wird durch Landwind (<strong>Wind von Land) aufgefüllt</strong>.",
+      "keywords": [
+        "Land kühlt sich",
+        "Wasser ändert seine Temperatur an der Oberfläche dagegen nur geringfügig",
+        "Über dem Wasser steigt daher erwärmte Luft auf",
+        "Wind von Land) aufgefüllt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q19",
+      "fragebogen": 6,
+      "number": 19,
+      "question": "1. Wie ist die kennzeichnende (charakteristische) Wellenhöhe definiert? 2. Womit müssen Sie rechnen?",
+      "answer": "1. Mittlere Höhe der gut ausgeprägten (Mittel des oberen Drittels) – nicht extremen – Wellen. 2. Einzelne Wellen können das 1,5fache der kennzeichnenden Wellenhöhe erreichen.",
+      "answer_html": "1. Mittlere Höhe der gut ausgeprägten (<strong>Mittel des oberen Drittels</strong>) – nicht extremen – Wellen.<br>2. <strong>Einzelne Wellen</strong> können das <strong>1,5fach</strong>e der kennzeichnenden Wellenhöhe erreichen.",
+      "keywords": [
+        "Mittel des oberen Drittels",
+        "Einzelne Wellen",
+        "1,5fach"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q20",
+      "fragebogen": 6,
+      "number": 20,
+      "question": "1. Was für Wetter muss meistens erwartet werden, wenn der Luftdruck über einen Zeitraum von 3 Stunden um 10 hPa fällt? 2. Was muss bei einem an Bord beobachteten starken Luftdruckfall beachtet werden?",
+      "answer": "1. Schwerer Sturm. 2. Der Kurs und die Fahrt des Schiffes in Bezug auf das Tiefdruckgebiet.",
+      "answer_html": "1. Schwerer <strong>Sturm</strong>.<br>2. Der Kurs und die Fahrt des Schiffes in Bezug auf das Tiefdruckgebiet.",
+      "keywords": [
+        "Sturm"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q21",
+      "fragebogen": 6,
+      "number": 21,
+      "question": "Welche Faktoren können die Länge und Höhe des Seegangs erheblich verändern?",
+      "answer": "Wassertiefe sowie Meeres- und Gezeitenströmungen.",
+      "answer_html": "<strong>Wassertiefe</strong> sowie Meeres- und Gezeiten<strong>strömungen</strong>.",
+      "keywords": [
+        "Wassertiefe",
+        "strömungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q22",
+      "fragebogen": 6,
+      "number": 22,
+      "question": "Was versteht man im Bootsbau unter Gelcoat?",
+      "answer": "Die äußere Schutzschicht eines Bauteils aus glasfaserverstärktem Kunststoff.",
+      "answer_html": "Die <strong>äußere Schutzschicht</strong> eines Bauteils aus glasfaserverstärktem <strong>Kunststoff</strong>.",
+      "keywords": [
+        "äußere Schutzschicht",
+        "Kunststoff"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q23",
+      "fragebogen": 6,
+      "number": 23,
+      "question": "Was bedeutet die im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge angegebene Kategorie „B außerhalb von Küstengewässern“?",
+      "answer": "Das Fahrzeug ist ausgelegt für Fahrten außerhalb von Küstengewässern, in denen Windstärken bis einschließlich 8 Bft und signifikante Wellenhöhen bis einschließlich 4 m auftreten können.",
+      "answer_html": "Das Fahrzeug ist <strong>ausgelegt</strong> für Fahrten außerhalb von Küstengewässern, in denen <strong>Windstärken bis einschließlich 8 Bft</strong> und signifikante <strong>Wellenhöhen bis einschließlich 4 m</strong> auftreten können.",
+      "keywords": [
+        "ausgelegt",
+        "Windstärken bis einschließlich 8 Bft",
+        "Wellenhöhen bis einschließlich 4 m"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q24",
+      "fragebogen": 6,
+      "number": 24,
+      "question": "Ihr Mast ist gebrochen, eine Bergung ist nicht möglich. Welche Werkzeuge benötigen Sie, um die Takelage zu kappen?",
+      "answer": "Bolzenschneider, Metallsäge mit Ersatzblättern, Schraubenschlüssel und verschiedene Zangen.",
+      "answer_html": "<strong>Bolzenschneider</strong>, <strong>Metallsäge</strong> mit Ersatzblättern, <strong>Schraubenschlüssel</strong> und verschiedene <strong>Zangen</strong>.",
+      "keywords": [
+        "Bolzenschneider",
+        "Metallsäge",
+        "Schraubenschlüssel",
+        "Zangen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q25",
+      "fragebogen": 6,
+      "number": 25,
+      "question": "Was versteht man unter 1. Formschwerpunkt (F)? 2. Massenschwerpunkt (Gewichtsschwerpunkt, G)? Welche Kräfte wirken in den beiden Punkten?",
+      "answer": "1. Im Formschwerpunkt F kann man sich die Masse des vom Schiff verdrängten Wassers vereinigt denken. In F wirkt die Auftriebskraft senkrecht zur Wasseroberfläche nach oben. 2. Im Massenschwerpunkt G kann man sich die Masse des Schiffes einschließlich Ausrüstung und Besatzung vereinigt denken. In G wirkt die Gewichtskraft senkrecht zur Wasseroberfläche nach unten.",
+      "answer_html": "1. Im <strong>Formschwerpunkt F</strong> kann man sich die Masse des <strong>vom Schiff verdrängten Wassers vereinigt</strong> denken. In F wirkt die <strong>Auftriebskraft</strong> senkrecht zur Wasseroberfläche <strong>nach oben.</strong><br>2. Im <strong>Massenschwerpunkt G</strong> kann man sich die <strong>Masse des Schiffes</strong> einschließlich Ausrüstung und Besatzung vereinigt denken. In G wirkt die <strong>Gewichtskraft</strong> senkrecht zur Wasseroberfläche <strong>nach unten</strong>.",
+      "keywords": [
+        "Formschwerpunkt F",
+        "vom Schiff verdrängten Wassers vereinigt",
+        "Auftriebskraft",
+        "nach oben",
+        "Massenschwerpunkt G",
+        "Masse des Schiffes",
+        "Gewichtskraft",
+        "nach unten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q26",
+      "fragebogen": 6,
+      "number": 26,
+      "question": "Warum sollten Sie bei seltener Motorbenutzung den eingebauten Tank eines Dieselmotors möglichst voll getankt halten?",
+      "answer": "Um Kondenswasserbildung zu verringern, was zu Startschwierigkeiten führen kann.",
+      "answer_html": "Um <strong>Kondenswasserbildung zu verringern</strong>, was zu <strong>Startschwierigkeiten</strong> führen kann.",
+      "keywords": [
+        "Kondenswasserbildung zu verringern",
+        "Startschwierigkeiten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q27",
+      "fragebogen": 6,
+      "number": 27,
+      "question": "Ein funktionsfähiges elektrisches Gerät arbeitet an Bord nicht. Nennen Sie häufige Ursachen und was kann zur Behebung getan werden?",
+      "answer": "1. Schlechte Kontakte und Korrosion. 2. Kontakte fest anziehen, korrodierte Stellen mit feinstem Schleifpapier säubern, Kontaktspray verwenden.",
+      "answer_html": "1. <strong>Schlechte Kontakte und Korrosion</strong>.<br>2. <strong>Kontakte</strong> fest <strong>anziehen</strong>, korrodierte Stellen mit feinstem <strong>Schleifpapier säubern</strong>, <strong>Kontaktspray</strong> verwenden.",
+      "keywords": [
+        "Schlechte Kontakte und Korrosion",
+        "Kontakte",
+        "anziehen",
+        "Schleifpapier säubern",
+        "Kontaktspray"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q28",
+      "fragebogen": 6,
+      "number": 28,
+      "question": "Wie verhalten Sie sich nach einem Mastbruch, was müssen Sie veranlassen?",
+      "answer": "1. Nach Möglichkeit den Mast an Bord nehmen und sichern. 2. Falls nicht möglich, Mast und Wanten kappen, um Rumpfschäden zu vermeiden.",
+      "answer_html": "1. Nach Möglichkeit den <strong>Mast an Bord nehmen und sichern</strong>.<br>2. Falls nicht möglich, <strong>Mast und Wanten kappen</strong>, um <strong>Rumpfschäden</strong> zu <strong>vermeiden</strong>.",
+      "keywords": [
+        "Mast an Bord nehmen und sichern",
+        "Mast und Wanten kappen",
+        "Rumpfschäden",
+        "vermeiden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q29",
+      "fragebogen": 6,
+      "number": 29,
+      "question": "Welche Maßnahmen treffen Sie, bevor Sie von Ihrem Fahrzeug in ein(e) Rettungsfloß (-insel) übersteigen?",
+      "answer": "1. Rettungsweste und Sicherheitsgurt anlegen. 2. Wärmende Kleidung anziehen. 3. Nach Möglichkeit vorher reichlich warme Flüssigkeit trinken. 4. Soweit noch nicht geschehen, Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKW-Handsprechfunkgeräte in das Rettungsfloß bringen.",
+      "answer_html": "1. <strong>Rettungsweste und Sicherheitsgurt</strong> anlegen.<br>2. Wärmende <strong>Kleidung</strong> anziehen.<br>3. Nach Möglichkeit vorher reichlich <strong>warme Flüssigkeit</strong> trinken.<br>4. Soweit noch nicht geschehen, <strong>Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKW-Handsprechfunkgeräte</strong> in das Rettungsfloß bringen.",
+      "keywords": [
+        "Rettungsweste und Sicherheitsgurt",
+        "Kleidung",
+        "warme Flüssigkeit",
+        "Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKW-Handsprechfunkgeräte"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb06-q30",
+      "fragebogen": 6,
+      "number": 30,
+      "question": "Wie reagiert ein großes Schiff, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage eingeleitet wird? Nach welcher Distanz verlässt es in etwa die alte Kurslinie?",
+      "answer": "Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten Kursrichtung fort. Diese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d. h. ca. 500 bis 600 m betragen.",
+      "answer_html": "Der Steven bewegt sich in Richtung der Hartruderlage, das <strong>Heck schlägt relativ weit zur entgegengesetzten Richtung</strong> aus. Das Schiff verlässt mit seinem Heck <strong>erst nach mehreren Schiffslängen seine bisherige Kurslinie</strong>, bewegt sich also zunächst in der alten Kursrichtung fort. Diese Strecke kann bei 300 m langen Containerschiffen <strong>1,5 bis 2,5 Schiffslängen,</strong> d. h. ca. 500 bis 600 m betragen.",
+      "keywords": [
+        "Heck schlägt relativ weit zur entgegengesetzten Richtung",
+        "erst nach mehreren Schiffslängen seine bisherige Kurslinie",
+        "1,5 bis 2,5 Schiffslängen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "fragebogen": 10,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb10-q01",
+      "fragebogen": 10,
+      "number": 1,
+      "question": "In welcher Sprache werden die Nachrichten für Seefahrer (NfS) verfasst?",
+      "answer": "in deutscher und in englischer Sprache.",
+      "answer_html": "in <strong>deutsch</strong>er und in <strong>englisch</strong>er Sprache.",
+      "keywords": [
+        "deutsch",
+        "englisch"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q02",
+      "fragebogen": 10,
+      "number": 2,
+      "question": "Wer gibt die nautischen Warnnachrichten (NWN) heraus und von wem werden sie verbreitet?",
+      "answer": "Nautische Warnnachrichten (NWN) werden von den Verkehrszentralen für deren Zuständigkeitsbereich und von dem ständig besetzten Seewarndienst Emden für das gesamte deutsche Warngebiet zur Verbreitung über Funk herausgegeben. Der Rundfunksender Deutschlandfunk verbreitet alle über Funk abgegebenen NWN.",
+      "answer_html": "Nautische Warnnachrichten (NWN) werden von den <strong>Verkehrszentralen</strong> für deren Zuständigkeitsbereich und von dem ständig besetzten <strong>Seewarndienst Emden</strong> für das gesamte deutsche Warngebiet zur Verbreitung <strong>über Funk</strong> herausgegeben. Der <strong>Rundfunksender Deutschlandfunk</strong> verbreitet alle über Funk abgegebenen NWN.",
+      "keywords": [
+        "Verkehrszentralen",
+        "Seewarndienst Emden",
+        "über Funk",
+        "Rundfunksender Deutschlandfunk"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q03",
+      "fragebogen": 10,
+      "number": 3,
+      "question": "1. Was sind P-Nachrichten? 2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)",
+      "answer": "1. P-Nachrichten sind solche, die eine bevorstehende (preliminary) Maßnahme ankündigen. 2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH bzw. von amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen P-Nachrichten erfasst und in der Karte vermerkt werden.",
+      "answer_html": "1. P-Nachrichten sind solche, die eine <strong>bevorstehende</strong> (preliminary) <strong>Maßnahme</strong> ankündigen.<br>2. Wegen der <strong>begrenzten Geltungsdauer</strong> werden <strong>keine Berichtigungen</strong> auf der Grundlage von P-Nachrichten vom BSH bzw. von amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb <strong>müssen vor Gebrauch</strong> jeder Seekarte die noch gültigen P-Nachrichten <strong>erfasst und</strong> in der Karte <strong>vermerkt</strong> werden.",
+      "keywords": [
+        "bevorstehende",
+        "Maßnahme",
+        "begrenzten Geltungsdauer",
+        "keine Berichtigungen",
+        "müssen vor Gebrauch",
+        "erfasst und",
+        "vermerkt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q04",
+      "fragebogen": 10,
+      "number": 4,
+      "question": "Worauf muss beim Ansteuern einer Küste bei der Auswahl von Seekarten geachtet werden? Begründen Sie Ihre Antwort.",
+      "answer": "Seekarten mit größtmöglichem Maßstab verwenden. Nur in diesen Karten sind alle Schifffahrtszeichen und weitere für die Navigation wichtigen Informationen eingetragen.",
+      "answer_html": "Seekarten mit <strong>größtmöglichem Maßstab</strong> verwenden. Nur in diesen Karten sind <strong>alle</strong> Schifffahrtszeichen und weitere <strong>für die Navigation wichtigen Informationen</strong> eingetragen.",
+      "keywords": [
+        "größtmöglichem Maßstab",
+        "alle",
+        "für die Navigation wichtigen Informationen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q05",
+      "fragebogen": 10,
+      "number": 5,
+      "question": "Was müssen Sie beachten, wenn Sie die mit Loggen ermittelte Fahrt z. B. für das Arbeiten in Seekarten berücksichtigen wollen?",
+      "answer": "Die üblichen Logmethoden liefern ausschließlich die „Fahrt durchs Wasser (FdW)“. Um die „Fahrt über Grund (FüG)“ zu ermitteln, müssen Stromrichtung und Stromgeschwindigkeit berücksichtigt werden.",
+      "answer_html": "Die üblichen Logmethoden liefern <strong>ausschließlich</strong> die „Fahrt durchs Wasser (<strong>FdW</strong>)“. Um die „Fahrt über Grund (<strong>FüG</strong>)“ zu ermitteln, müssen <strong>Stromrichtung und Stromgeschwindigkeit berücksichtigt</strong> werden.",
+      "keywords": [
+        "ausschließlich",
+        "FdW",
+        "FüG",
+        "Stromrichtung und Stromgeschwindigkeit berücksichtigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q06",
+      "fragebogen": 10,
+      "number": 6,
+      "question": "Weshalb und wie können die tatsächlichen Wasserstände von den Angaben in den Gezeitentafeln teilweise erheblich abweichen?",
+      "answer": "Durch Wind und/oder durch sehr hohen bzw. sehr niedrigen Luftdruck können erhebliche Wasserstandsänderungen entstehen. HWH bzw. NWH können höher oder niedriger sein als angegeben, die Hoch- und Niedrigwasserzeit kann früher oder später eintreten als angegeben.",
+      "answer_html": "Durch <strong>Wind</strong> und/oder durch <strong>sehr hohen</strong> bzw. <strong>sehr niedrigen Luftdruck</strong> können <strong>erhebliche Wasserstandsänderungen</strong> entstehen. <strong>HWH bzw. NWH</strong> können <strong>höher</strong> oder <strong>niedriger</strong> sein als angegeben, die Hoch- und Niedrigwasserzeit kann <strong>früher</strong> oder <strong>später</strong> eintreten als angegeben.",
+      "keywords": [
+        "Wind",
+        "sehr hohen",
+        "sehr niedrigen Luftdruck",
+        "erhebliche Wasserstandsänderungen",
+        "HWH bzw. NWH",
+        "höher",
+        "niedriger",
+        "früher",
+        "später"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q07",
+      "fragebogen": 10,
+      "number": 7,
+      "question": "Was ist Kartennull?",
+      "answer": "Kartennull (KN) ist die Bezugsfläche für die Tiefenangaben in einer Seekarte.",
+      "answer_html": "Kartennull (KN) ist die <strong>Bezugsfläche für die Tiefenangaben</strong> in einer Seekarte.",
+      "keywords": [
+        "Bezugsfläche für die Tiefenangaben"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q08",
+      "fragebogen": 10,
+      "number": 8,
+      "question": "Was ist bei Anbringung einer GPS-Antenne zu beachten?",
+      "answer": "1. Sie muss ringsum freie Sicht (ohne Abschattungen) haben. 2. Einwandfreie Erdung.",
+      "answer_html": "1. Sie muss ringsum <strong>freie Sicht</strong> (ohne Abschattungen) haben.<br>2. <strong>Einwandfreie Erdung</strong>.",
+      "keywords": [
+        "freie Sicht",
+        "Einwandfreie Erdung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q09",
+      "fragebogen": 10,
+      "number": 9,
+      "question": "Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von Radargeräten „verschwinden“?",
+      "answer": "1. Durch Seegang und/oder Niederschlag, 2. durch falsche Bedienung, 3. durch zu große Entfernung, 4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up).",
+      "answer_html": "1. Durch <strong>Seegang</strong> und/oder <strong>Niederschlag</strong>,<br>2. durch <strong>falsche Bedienung</strong>,<br>3. durch zu <strong>große Entfernung</strong>,<br>4. durch <strong>Gieren</strong> des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up).",
+      "keywords": [
+        "Seegang",
+        "Niederschlag",
+        "falsche Bedienung",
+        "große Entfernung",
+        "Gieren"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q10",
+      "fragebogen": 10,
+      "number": 10,
+      "question": "Die KVR regeln u. a. das Verhalten der Schiffsführungen bei Kollisionsgefahr. Was ist im Rahmen der Verantwortlichkeit bei der Auslegung und Befolgung der KVR zu berücksichtigen?",
+      "answer": "Es sind stets alle Gefahren der Schifffahrt und des Zusammenstoßes sowie alle besonderen Umstände einschließlich Behinderungen der betroffenen Fahrzeuge gebührend zu berücksichtigen, die zum Abwenden unmittelbarer Gefahr ggf. auch ein Abweichen von diesen Regeln erfordern können (z. B. Abweichen von der Kurshaltepflicht, wenn der Ausweichpflichtige nicht angemessen handelt).",
+      "answer_html": "Es sind stets alle <strong>Gefahren der Schifffahrt</strong> und des <strong>Zusammenstoßes</strong> sowie alle <strong>besonderen Umstände einschließlich Behinderungen</strong> der betroffenen Fahrzeuge gebührend zu <strong>berücksichtigen</strong>, die zum <strong>Abwenden unmittelbarer Gefahr ggf. auch</strong> ein <strong>Abweichen von</strong> diesen <strong>Regeln</strong> erfordern können (z. B. Abweichen von der Kurshaltepflicht, wenn der Ausweichpflichtige nicht angemessen handelt).",
+      "keywords": [
+        "Gefahren der Schifffahrt",
+        "Zusammenstoßes",
+        "besonderen Umstände einschließlich Behinderungen",
+        "berücksichtigen",
+        "Abwenden unmittelbarer Gefahr ggf. auch",
+        "Abweichen von",
+        "Regeln"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q11",
+      "fragebogen": 10,
+      "number": 11,
+      "question": "Welche Lichter müssen manövrierbehinderte Fahrzeuge (außer Minenräumfahrzeuge) führen 1. ohne Fahrt durchs Wasser (FdW), 2. mit FdW, 3. vor Anker?",
+      "answer": "1. Ohne FdW: rot-weiß-rot senkrecht übereinander. 2. Mit FdW: rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs (Topplicht [er]), Seitenlichter, Hecklicht). 3. Vor Anker: rot-weiß-rot senkrecht übereinander und Ankerlicht (er).",
+      "answer_html": "1. Ohne FdW: <strong>rot-weiß-rot senkrecht</strong> übereinander.<br>2. Mit FdW: <strong>rot-weiß-rot senkrecht</strong> übereinander <strong>und</strong> Lichter eines Maschinenfahrzeugs (<strong>Topplicht</strong> [er]), <strong>Seitenlichter</strong>, <strong>Hecklicht</strong>).<br>3. Vor Anker: <strong>rot-weiß-rot senkrecht</strong> übereinander <strong>und Ankerlicht</strong> (er).",
+      "keywords": [
+        "rot-weiß-rot senkrecht",
+        "und",
+        "Topplicht",
+        "Seitenlichter",
+        "Hecklicht",
+        "und Ankerlicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q12",
+      "fragebogen": 10,
+      "number": 12,
+      "question": "Was müssen Sie hinsichtlich der Zeiten der Lichterführung beachten?",
+      "answer": "Die Lichter müssen geführt werden 1. zwischen Sonnenuntergang und Sonnenaufgang, 2. bei verminderter Sicht auch zwischen Sonnenaufgang und Sonnenuntergang.",
+      "answer_html": "Die Lichter müssen geführt werden<br>1. zwischen <strong>Sonnenuntergang</strong> und <strong>Sonnenaufgang</strong>,<br>2. <strong>bei verminderter Sicht</strong> auch zwischen Sonnenaufgang und Sonnenuntergang.",
+      "keywords": [
+        "Sonnenuntergang",
+        "Sonnenaufgang",
+        "bei verminderter Sicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q13",
+      "fragebogen": 10,
+      "number": 13,
+      "question": "Wie müssen sich Segelfahrzeuge ohne Radar bei verminderter Sicht verhalten? Was gehört dabei zu den Regeln guter Seemannschaft?",
+      "answer": "1. Segelfahrzeuge müssen mit sicherer Geschwindigkeit fahren, die den gegebenen Umständen und Bedingungen der verminderten Sicht angepasst ist. 2. Bei Segelfahrzeugen, die eine Maschine an Bord haben, gehört das Bereithalten der Maschine zu den Regeln guter Seemannschaft.",
+      "answer_html": "1. Segelfahrzeuge müssen mit <strong>sicherer Geschwindigkeit</strong> fahren, die den gegebenen Umständen und Bedingungen <strong>der verminderten Sicht angepasst</strong> ist.<br>2. Bei Segelfahrzeugen, die eine Maschine an Bord haben, gehört das <strong>Bereithalten der Maschine</strong> zu den Regeln guter Seemannschaft.",
+      "keywords": [
+        "sicherer Geschwindigkeit",
+        "der verminderten Sicht angepasst",
+        "Bereithalten der Maschine"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q14",
+      "fragebogen": 10,
+      "number": 14,
+      "question": "Wo und unter welcher Bedingung gelten im Geltungsbereich der SeeSchStrO die KVR?",
+      "answer": "Die KVR gelten im gesamten Geltungsbereich der SeeSchStrO innerhalb und außerhalb der Fahrwasser, soweit die SeeSchStrO nicht ausdrücklich etwas anderes bestimmt (z. B. Vorfahrt, Grundsatz des Vorranges der spezielleren Rechtsvorschrift vor der allgemeineren).",
+      "answer_html": "Die <strong>KVR</strong> gelten im <strong>gesamten Geltungsbereich der SeeSchStrO</strong> innerhalb und außerhalb der Fahrwasser, <strong>soweit die SeeSchStrO nicht</strong> ausdrücklich etwas <strong>anderes bestimmt</strong> (z. B. Vorfahrt, Grundsatz des Vorranges der spezielleren Rechtsvorschrift vor der allgemeineren).",
+      "keywords": [
+        "KVR",
+        "gesamten Geltungsbereich der SeeSchStrO",
+        "soweit die SeeSchStrO nicht",
+        "anderes bestimmt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q15",
+      "fragebogen": 10,
+      "number": 15,
+      "question": "Welche Atem- bzw. Blutalkoholkonzentration darf lt. SeeSchStrO nicht erreicht werden, damit kein Verbot für ein Führen eines Fahrzeugs oder als Mitglied der Crew für ein Ausüben des Brückendienstes besteht?",
+      "answer": "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.",
+      "answer_html": "<strong>0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut</strong> oder eine <strong>Alkoholmenge</strong>, die zu einer solchen <strong>Atem- oder Blutalkoholkonzentration</strong> führt.",
+      "keywords": [
+        "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut",
+        "Alkoholmenge",
+        "Atem- oder Blutalkoholkonzentration"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q16",
+      "fragebogen": 10,
+      "number": 16,
+      "question": "Wann liegt ein schaden- oder gefahrverursachendes Vorkommnis (Seeunfall) im Sinne des Seesicherheits-Untersuchungs-Gesetzes (SUG) vor? Nennen Sie mindestens 3 Merkmale.",
+      "answer": "1. Schiffsverlust, Aufgrundlaufen, Kollision eines Schiffes, 2. Tod oder Verschollenheit oder schwere Verletzung einer Person, 3. maritimer Umweltschaden oder sonstiger Sachschaden, 4. Gefahr für einen Menschen oder ein Schiff, 5. Gefahr eines schweren Schadens an einem Schiff, einem meerestechnischen Bauwerk oder an der Meeresumwelt.",
+      "answer_html": "1. <strong>Schiffsverlust, Aufgrundlaufen, Kollision</strong> eines Schiffes,<br>2. <strong>Tod oder Verschollenheit</strong> oder <strong>schwere Verletzung</strong> einer Person,<br>3. <strong>maritimer Umweltschaden</strong> oder sonstiger Sachschaden,<br>4. <strong>Gefahr für einen Menschen oder ein Schiff</strong>,<br>5. <strong>Gefahr eines schweren Schadens</strong> an einem <strong>Schiff</strong>, einem <strong>meerestechnischen Bauwerk</strong> oder an der <strong>Meeresumwelt</strong>.",
+      "keywords": [
+        "Schiffsverlust, Aufgrundlaufen, Kollision",
+        "Tod oder Verschollenheit",
+        "schwere Verletzung",
+        "maritimer Umweltschaden",
+        "Gefahr für einen Menschen oder ein Schiff",
+        "Gefahr eines schweren Schadens",
+        "Schiff",
+        "meerestechnischen Bauwerk",
+        "Meeresumwelt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q17",
+      "fragebogen": 10,
+      "number": 17,
+      "question": "1. Wie heißen die Linien gleichen Luftdrucks? 2. In welcher Maßeinheit wird der Luftdruck angegeben?",
+      "answer": "1. Isobaren. 2. Hektopascal (hPa) oder vereinzelt auch noch Millibar (mb, teilweise auch mbar).",
+      "answer_html": "1. <strong>Isobaren</strong>.<br>2. Hektopascal (<strong>hPa</strong>) oder vereinzelt auch noch Millibar (mb, teilweise auch mbar).",
+      "keywords": [
+        "Isobaren",
+        "hPa"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q18",
+      "fragebogen": 10,
+      "number": 18,
+      "question": "Welche Sicht- und Wetterverhältnisse erwarten Sie typischerweise 1. vor oder nahe der Warmfront, 2. im Warmsektor, 3. hinter der Kaltfront?",
+      "answer": "1. Sichtverschlechterung durch Niederschlag, bedeckt, länger andauernder Regen. 2. Diesig oder mäßige Sicht, Wolkenauflockerung, zeitweise Regen. 3. Sichtbesserung, meist gute Sicht. Schauer mit zum Teil kräftigen Böen.",
+      "answer_html": "1. Sichtverschlechterung durch <strong>Niederschlag</strong>, bedeckt, länger andauernder Regen.<br>2. <strong>Diesig</strong> oder <strong>mäßige Sicht</strong>, <strong>Wolkenauflockerung, zeitweise Regen</strong>.<br>3. <strong>Sichtbesserung, meist gute Sicht</strong>. <strong>Schauer</strong> mit zum Teil <strong>kräftigen Böen</strong>.",
+      "keywords": [
+        "Niederschlag",
+        "Diesig",
+        "mäßige Sicht",
+        "Wolkenauflockerung, zeitweise Regen",
+        "Sichtbesserung, meist gute Sicht",
+        "Schauer",
+        "kräftigen Böen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q19",
+      "fragebogen": 10,
+      "number": 19,
+      "question": "1. Wann werden Sturmwarnungen verbreitet? 2. Welche Bezeichnung hat die Sturmwarnung im internationalen Sprachgebrauch?",
+      "answer": "1. Bei zu erwartenden oder noch andauernden Windstärken von mindestens 8 Bft. 2. Gale warning.",
+      "answer_html": "1. Bei zu erwartenden oder noch andauernden Windstärken von <strong>mindestens 8 Bft</strong>.<br>2. <strong>Gale warning</strong>.",
+      "keywords": [
+        "mindestens 8 Bft",
+        "Gale warning"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q20",
+      "fragebogen": 10,
+      "number": 20,
+      "question": "Welche Windverhältnisse erwarten Sie auf der Nordhalbkugel während der unmittelbaren Passage eines markanten Troges?",
+      "answer": "Der Wind dreht recht, meist über 60 bis 90°. Winde bis Orkanstärke besonders auf der Rückseite eines Troges.",
+      "answer_html": "Der <strong>Wind dreht recht</strong>, meist über 60 bis 90°. Winde bis <strong>Orkanstärke</strong> besonders auf der <strong>Rückseite eines Troges</strong>.",
+      "keywords": [
+        "Wind dreht recht",
+        "Orkanstärke",
+        "Rückseite eines Troges"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q21",
+      "fragebogen": 10,
+      "number": 21,
+      "question": "1. Wie entsteht Kaltwassernebel? 2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?",
+      "answer": "1.Warme und feuchte Luft massen werden durch den kalten Untergrund (Meer) unter den Taupunkt abgekühlt. 2. Überwiegend im Frühjahr.",
+      "answer_html": "1.<strong>Warme</strong> und <strong>feuchte Luft</strong> massen werden durch den <strong>kalten Untergrund</strong> (Meer) <strong>unter den Taupunkt abgekühlt</strong>.<br>2. Überwiegend im <strong>Frühjahr</strong>.",
+      "keywords": [
+        "Warme",
+        "feuchte Luft",
+        "kalten Untergrund",
+        "unter den Taupunkt abgekühlt",
+        "Frühjahr"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q22",
+      "fragebogen": 10,
+      "number": 22,
+      "question": "Warum sollten Vorsegel für schweres Wetter im Unterliek hoch geschnitten sein?",
+      "answer": "Damit überkommende Seen nicht ins Segel schlagen und so Rigg und Segel belasten.",
+      "answer_html": "Damit <strong>überkommende Seen nicht</strong> ins Segel schlagen und so <strong>Rigg und Segel belasten</strong>.",
+      "keywords": [
+        "überkommende Seen nicht",
+        "Rigg und Segel belasten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q23",
+      "fragebogen": 10,
+      "number": 23,
+      "question": "Welchen Einfluss hat zunehmende Krängung auf den Trimm eines Segelbootes? (Begründung!)",
+      "answer": "Die Luvgierigkeit nimmt zu, weil der Segeldruckpunkt nach Lee auswandert.",
+      "answer_html": "Die <strong>Luvgierigkeit nimmt zu, weil</strong> der <strong>Segeldruckpunkt nach Lee</strong> auswandert.",
+      "keywords": [
+        "Luvgierigkeit nimmt zu, weil",
+        "Segeldruckpunkt nach Lee"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q24",
+      "fragebogen": 10,
+      "number": 24,
+      "question": "Während Sie unter Maschine laufen, steigt plötzlich die Kühlwassertemperatur stark an. Ihre Yacht ist mit einem Saildrive-Antrieb ausgestattet. 1. Welche typische Ursache hat der Temperaturanstieg, wenn eine technische Störung unwahrscheinlich ist? 2. Wie können Sie die Störung einfach beheben?",
+      "answer": "1. Fremdkörper (Folienstücke, Plastiktüten, Pflanzenteile o. Ä.) haben den Kühlwassereinlass verstopft. 2. Mehrmals abwechselnd vor- und zurückfahren, sodass sich die Fremdkörper vom Kühlwassereinlass lösen.",
+      "answer_html": "1. Fremdkörper (Folienstücke, Plastiktüten, Pflanzenteile o. Ä.) haben den <strong>Kühlwassereinlass verstopft</strong>.<br>2. <strong>Mehrmals</strong> abwechselnd <strong>vor- und zurückfahren</strong>, sodass sich die <strong>Fremdkörper</strong> vom Kühlwassereinlass <strong>lösen</strong>.",
+      "keywords": [
+        "Kühlwassereinlass verstopft",
+        "Mehrmals",
+        "vor- und zurückfahren",
+        "Fremdkörper",
+        "lösen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q25",
+      "fragebogen": 10,
+      "number": 25,
+      "question": "Geben Sie die benötigte Strommenge (in Amperestunden) an, um bei einer 12-Volt-Anlage zwei Verbraucher mit je 24 Watt 10 Stunden betreiben zu können (mit Angabe der Berechnung)!",
+      "answer": "Benötigte Strommenge je Verbraucher: 24 Watt: 12 V = 2 Ampere mal Anzahl der Verbraucher mal Stunden ergibt: 2 x 2 A x 10 h = 40 Ah.",
+      "answer_html": "Benötigte Strommenge je Verbraucher: <strong>24 Watt: 12 V = 2 Ampere</strong> mal Anzahl der Verbraucher mal Stunden ergibt: <strong>2 x 2 A x 10 h = 40 Ah</strong>.",
+      "keywords": [
+        "24 Watt: 12 V = 2 Ampere",
+        "2 x 2 A x 10 h = 40 Ah"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q26",
+      "fragebogen": 10,
+      "number": 26,
+      "question": "Welche Daten sollten mindestens an Bord im Logbuch dokumentiert werden?",
+      "answer": "1. Namen und Funktionen der Crewmitglieder, 2. Beginn und Ende einer Fahrt und 3. in angemessenen Zeitabständen: Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck.",
+      "answer_html": "1. <strong>Namen</strong> und Funktionen der <strong>Crew</strong>mitglieder,<br>2. <strong>Beginn und Ende</strong> einer Fahrt und<br>3. in angemessenen Zeitabständen: <strong>Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck</strong>.",
+      "keywords": [
+        "Namen",
+        "Crew",
+        "Beginn und Ende",
+        "Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q27",
+      "fragebogen": 10,
+      "number": 27,
+      "question": "Warum kann das Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter gefährlich werden?",
+      "answer": "Gefahr durch Grundseen bzw. Kreuzseen. Möglichkeit von Querstrom.",
+      "answer_html": "Gefahr durch <strong>Grundseen bzw. Kreuzseen</strong>. Möglichkeit von <strong>Querstrom</strong>.",
+      "keywords": [
+        "Grundseen bzw. Kreuzseen",
+        "Querstrom"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q28",
+      "fragebogen": 10,
+      "number": 28,
+      "question": "Mit welchen Hilfsmitteln können Sie den Bezugspunkt (internationaler Begriff: Datum) für die Suche nach einem Überbordgefallenen sichern?",
+      "answer": "1. Markierungsblitzboje, 2. MOB-Taste eines satellitengestützten Navigationsgerätes (z. B. GPS).",
+      "answer_html": "1. <strong>Markierungsblitzboje</strong>,<br>2. <strong>MOB-Taste</strong> eines satellitengestützten Navigationsgerätes (z. B. <strong>GPS</strong>).",
+      "keywords": [
+        "Markierungsblitzboje",
+        "MOB-Taste",
+        "GPS"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q29",
+      "fragebogen": 10,
+      "number": 29,
+      "question": "Wie wird ein Brand an Bord wirksam bekämpft?",
+      "answer": "1. Alle Öffnungen schließen, 2. Brennstoffzufuhr (Hauptschalter) unterbrechen, 3. Feuerlöscher erst am Brandherd betätigen, 4. Feuer von unten und von vorn bekämpfen, 5. Löschdecke einsetzen, 6. Flüssigkeitsbrände nicht mit Wasser bekämpfen.",
+      "answer_html": "1. Alle <strong>Öffnungen schließen</strong>,<br>2. Brennstoffzufuhr (<strong>Hauptschalter</strong>) unterbrechen,<br>3. <strong>Feuerlöscher erst am Brandherd</strong> betätigen,<br>4. <strong>Feuer von unten</strong> und <strong>von vorn</strong> bekämpfen,<br>5. <strong>Löschdecke</strong> einsetzen,<br>6. <strong>Flüssigkeitsbrände nicht mit Wasser</strong> bekämpfen.",
+      "keywords": [
+        "Öffnungen schließen",
+        "Hauptschalter",
+        "Feuerlöscher erst am Brandherd",
+        "Feuer von unten",
+        "von vorn",
+        "Löschdecke",
+        "Flüssigkeitsbrände nicht mit Wasser"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb10-q30",
+      "fragebogen": 10,
+      "number": 30,
+      "question": "Warum darf der Anker nicht zusammen mit seiner Leine am Ankerplatz über Bord geworfen werden?",
+      "answer": "Die Leine könnte mit dem Anker vertörnen und dadurch das Eingraben des Ankers verhindern. Der Anker würde dann nicht halten.",
+      "answer_html": "Die <strong>Leine könnte</strong> mit dem Anker <strong>vertörnen</strong> und dadurch das <strong>Eingraben</strong> des Ankers <strong>verhindern</strong>. Der Anker würde dann nicht halten.",
+      "keywords": [
+        "Leine könnte",
+        "vertörnen",
+        "Eingraben",
+        "verhindern"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

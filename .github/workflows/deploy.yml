@@ -1,0 +1,50 @@
+name: Deploy PWA to GitHub Pages
+
+# Reine Static-PWA (kein Build, kein Server). Wird bei jedem Push auf main
+# nach GitHub Pages veröffentlicht. GitHub Pages liefert HTTPS — nötig für
+# Mikrofon (getUserMedia) und Service Worker.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Nur ein Deploy gleichzeitig; laufende Deploys nicht abbrechen.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Statische Seite verpacken (ohne Extraktor/Proxy/CI)
+        run: |
+          mkdir -p _site
+          cp -r index.html app.css app.js sw.js manifest.webmanifest \
+                icon-192.png icon-512.png icon-maskable.png \
+                data img _site/
+          touch _site/.nojekyll
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

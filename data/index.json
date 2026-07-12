@@ -1,0 +1,80 @@
+{
+  "fragebogen": [
+    {
+      "fragebogen": 1,
+      "count": 30,
+      "images": 0
+    },
+    {
+      "fragebogen": 2,
+      "count": 30,
+      "images": 0
+    },
+    {
+      "fragebogen": 3,
+      "count": 30,
+      "images": 3
+    },
+    {
+      "fragebogen": 4,
+      "count": 30,
+      "images": 1
+    },
+    {
+      "fragebogen": 5,
+      "count": 30,
+      "images": 3
+    },
+    {
+      "fragebogen": 6,
+      "count": 30,
+      "images": 1
+    },
+    {
+      "fragebogen": 7,
+      "count": 30,
+      "images": 1
+    },
+    {
+      "fragebogen": 8,
+      "count": 30,
+      "images": 0
+    },
+    {
+      "fragebogen": 9,
+      "count": 30,
+      "images": 0
+    },
+    {
+      "fragebogen": 10,
+      "count": 30,
+      "images": 0
+    },
+    {
+      "fragebogen": 11,
+      "count": 30,
+      "images": 0
+    },
+    {
+      "fragebogen": 12,
+      "count": 30,
+      "images": 0
+    },
+    {
+      "fragebogen": 13,
+      "count": 30,
+      "images": 3
+    },
+    {
+      "fragebogen": 14,
+      "count": 30,
+      "images": 1
+    },
+    {
+      "fragebogen": 15,
+      "count": 30,
+      "images": 2
+    }
+  ],
+  "total_questions": 450
+}

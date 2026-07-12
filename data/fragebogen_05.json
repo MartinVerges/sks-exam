@@ -1,0 +1,447 @@
+{
+  "fragebogen": 5,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb05-q01",
+      "fragebogen": 5,
+      "number": 1,
+      "question": "Woran erkennen Sie, bis wann eine deutsche Seekarte „amtlich“ berichtigt ist?",
+      "answer": "Am Berichtigungsstempel des BSH oder einer amtlichen Seekartenberichtungsstelle.",
+      "answer_html": "Am <strong>Berichtigungsstempel</strong> des BSH oder einer amtlichen Seekartenberichtungsstelle.",
+      "keywords": [
+        "Berichtigungsstempel"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q02",
+      "fragebogen": 5,
+      "number": 2,
+      "question": "Was ist die „Nenntragweite“ eines Feuers?",
+      "answer": "die Tragweite eines Feuers für einen definierten Wert bei einer meteorologischen Sichtweite am Tage von 10 sm.",
+      "answer_html": "die <strong>Tragweite</strong> eines Feuers für einen definierten Wert bei einer meteorologischen <strong>Sichtweite am Tage von 10 sm</strong>.",
+      "keywords": [
+        "Tragweite",
+        "Sichtweite am Tage von 10 sm"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q03",
+      "fragebogen": 5,
+      "number": 3,
+      "question": "1. Was sind P-Nachrichten? 2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)",
+      "answer": "1. P-Nachrichten sind solche, die eine bevorstehende (preliminary) Maßnahme ankündigen. 2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH bzw. von amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen P-Nachrichten erfasst und in der Karte vermerkt werden.",
+      "answer_html": "1. P-Nachrichten sind solche, die eine <strong>bevorstehende (preliminary) Maßnahme</strong> ankündigen.<br>2. Wegen der begrenzten Geltungsdauer werden <strong>keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH</strong> bzw. von amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen P-Nachrichten erfasst und <strong>in der Karte vermerkt</strong> werden.",
+      "keywords": [
+        "bevorstehende (preliminary) Maßnahme",
+        "keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH",
+        "in der Karte vermerkt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q04",
+      "fragebogen": 5,
+      "number": 4,
+      "question": "Wodurch können auch in gezeitenlosen Revieren erhebliche Wasserstandsschwankungen und Strömungen (z. B. Triftstrom) hervorgerufen werden?",
+      "answer": "Durch Stärke, Dauer und Richtung des Windes oder „Zurückschwappen“ aufgestauter Wassermassen (z. B. Ostsee).",
+      "answer_html": "Durch Stärke, Dauer und Richtung des <strong>Windes</strong> oder <strong>„Zurückschwappen“ aufgestauter Wassermassen</strong> (z. B. Ostsee).",
+      "keywords": [
+        "Windes",
+        "„Zurückschwappen“ aufgestauter Wassermassen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q05",
+      "fragebogen": 5,
+      "number": 5,
+      "question": "Wo finden Sie die erforderlichen Werte der Ablenkung (Abl)? Worauf ist dabei zu achten",
+      "answer": "1. Die Abl wird einer Ablenkungstabelle entnommen. 2. Die Abl ist abhängig vom anliegenden Kurs.",
+      "answer_html": "1. Die Abl wird einer <strong>Ablenkungstabelle</strong> entnommen.<br>2. Die Abl ist abhängig vom <strong>anliegenden Kurs</strong>.",
+      "keywords": [
+        "Ablenkungstabelle",
+        "anliegenden Kurs"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q06",
+      "fragebogen": 5,
+      "number": 6,
+      "question": "Welche Sonderzeichen kennzeichnen Reeden, besondere Gebiete oder Stellen, z. B. Warngebiete?",
+      "answer": "Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen.",
+      "answer_html": "<strong>Gelbe</strong> Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen.",
+      "keywords": [
+        "Gelbe"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q07",
+      "fragebogen": 5,
+      "number": 7,
+      "question": "Weshalb und wie können die tatsächlichen Wasserstände von den Angaben in den Gezeitentafeln teilweise erheblich abweichen?",
+      "answer": "Durch Wind und/oder durch sehr hohen bzw. sehr niedrigen Luftdruck können erhebliche Wasserstandsänderungen entstehen. HWH bzw. NWH können höher oder niedriger sein als angegeben, die Hoch- und Niedrigwasserzeit kann früher oder später eintreten als angegeben.",
+      "answer_html": "Durch <strong>Wind</strong> und/oder durch sehr hohen bzw. sehr niedrigen <strong>Luftdruck</strong> können erhebliche Wasserstandsänderungen entstehen. HWH bzw. NWH können <strong>höher oder niedriger</strong> sein als angegeben, die Hoch- und Niedrigwasserzeit kann <strong>früher oder später</strong> eintreten als angegeben.",
+      "keywords": [
+        "Wind",
+        "Luftdruck",
+        "höher oder niedriger",
+        "früher oder später"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q08",
+      "fragebogen": 5,
+      "number": 8,
+      "question": "Was bedeutet die Abkürzung DGPS und nach welchem Prinzip arbeitet DGPS?",
+      "answer": "DGPS = Differential Global Positioning System. Hierbei handelt es sich um eine regionale Verbesserung der Ortsbestimmung. Dabei werden von Referenzstationen über Funk Korrekturwerte für die GPS-Messwerte an die Schiffe übertragen.",
+      "answer_html": "DGPS = <strong>Differential Global Positioning System</strong>. Hierbei handelt es sich um eine regionale Verbesserung der Ortsbestimmung. Dabei werden von <strong>Referenzstationen</strong> über Funk <strong>Korrekturwerte für die GPS-Messwerte</strong> an die Schiffe übertragen.",
+      "keywords": [
+        "Differential Global Positioning System",
+        "Referenzstationen",
+        "Korrekturwerte für die GPS-Messwerte"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q09",
+      "fragebogen": 5,
+      "number": 9,
+      "question": "Wann kann man sich auf die Verfügbarkeit und Anzeige von AIS-Signalen anderer Fahrzeuge verlassen? Nennen Sie die wesentlichen Voraussetzungen!",
+      "answer": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn 1. das Fahrzeug mit AIS ausgerüstet ist, 2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmtenzwingenden Gründen), 3. GPS aktiv ist und 4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = „target overflow“) keine Fahrzeuge ausgeschlossen werden.",
+      "answer_html": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn<br>1. das Fahrzeug <strong>mit AIS ausgerüstet</strong> ist,<br>2. das sendende Fahrzeug AIS <strong>nicht abgeschaltet</strong> hat (darf der Kapitän allerdings nur bei bestimmtenzwingenden Gründen),<br>3. <strong>GPS aktiv</strong> ist und<br>4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = <strong>„target overflow“</strong>) keine Fahrzeuge ausgeschlossen werden.",
+      "keywords": [
+        "mit AIS ausgerüstet",
+        "nicht abgeschaltet",
+        "GPS aktiv",
+        "„target overflow“"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q10",
+      "fragebogen": 5,
+      "number": 10,
+      "question": "Wer darf lt. Verordnung zu den KVR ein Fahrzeug nicht führen oder als Mitglied der Crew eine andere Tätigkeit des Brücken- oder Decksdienstes nicht ausüben (allgemein ohne Zahlen zu beantworten)?",
+      "answer": "Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brückenoder Decksdienstes behindert ist.",
+      "answer_html": "Wer infolge <strong>körperlicher oder geistiger Mängel</strong> oder des Genusses <strong>alkoholischer Getränke</strong> oder anderer <strong>berauschender Mittel</strong> in der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brückenoder Decksdienstes <strong>behindert</strong> ist.",
+      "keywords": [
+        "körperlicher oder geistiger Mängel",
+        "alkoholischer Getränke",
+        "berauschender Mittel",
+        "behindert"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q11",
+      "fragebogen": 5,
+      "number": 11,
+      "question": "Bei Nebel im Küstenbereich fahrend, hört man etwa jede Minute folgendes Signal: drei Glockenschläge, dann ca. 5 Sekunden lang rasches Läuten einer Glocke, dann drei Glockenschläge. Wer gibt dieses Signal?",
+      "answer": "Dieses Signal gibt ein Fahrzeug auf Grund unter 100 m Länge.",
+      "answer_html": "Dieses Signal gibt ein <strong>Fahrzeug auf Grund unter 100 m</strong> Länge.",
+      "keywords": [
+        "Fahrzeug auf Grund unter 100 m"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q12",
+      "fragebogen": 5,
+      "number": 12,
+      "question": "Wie müssen Maschinenfahrzeuge ohne Radar bei verminderter Sicht ihre Fahrweise einrichten?",
+      "answer": "Sie müssen mit sicherer Geschwindigkeit fahren, die den gegebenen Umständen und Bedingungen der verminderten Sicht angepasst ist.",
+      "answer_html": "Sie müssen mit <strong>sicherer Geschwindigkeit</strong> fahren, die den gegebenen Umständen und Bedingungen <strong>der verminderten Sicht angepasst</strong> ist.",
+      "keywords": [
+        "sicherer Geschwindigkeit",
+        "der verminderten Sicht angepasst"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q13",
+      "fragebogen": 5,
+      "number": 13,
+      "question": "Ein anderes Fahrzeug muss Ihnen ausweichen. Welche Verpflichtung nach KVR haben Sie? Was unternehmen Sie, wenn das andere Fahrzeug nicht ausweicht?",
+      "answer": "1. Mein Fahrzeug ist „Kurshalter“, d. h., es muss Kurs und Geschwindigkeit beibehalten. 2. Mein Fahrzeug darf zur Abwendung eines Zusammenstoßes manövrieren, sobald erkennbar wird, dass das andere Fahrzeug nicht angemessen (= regelgerecht) manövriert („Manöver des vorletzten Augenblicks!“). 3. Mein Fahrzeug muss zweckdienlich manövrieren, wenn ein Manöver des Ausweichpflichtigen allein einen Zusammenstoß nicht mehr vermeiden kann („Manöver des letzten Augenblicks!“).",
+      "answer_html": "1. Mein Fahrzeug ist „Kurshalter“, d. h., es muss <strong>Kurs und Geschwindigkeit</strong> beibehalten.<br>2. Mein Fahrzeug <strong>darf</strong> zur Abwendung eines Zusammenstoßes manövrieren, sobald erkennbar wird, dass das andere Fahrzeug nicht angemessen (= regelgerecht) manövriert („<strong>Manöver des vorletzten Augenblicks</strong>!“).<br>3. Mein Fahrzeug <strong>muss</strong> zweckdienlich manövrieren, wenn ein Manöver des Ausweichpflichtigen allein einen Zusammenstoß nicht mehr vermeiden kann („<strong>Manöver des letzten Augenblicks</strong>!“).",
+      "keywords": [
+        "Kurs und Geschwindigkeit",
+        "darf",
+        "Manöver des vorletzten Augenblicks",
+        "muss",
+        "Manöver des letzten Augenblicks"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q14",
+      "fragebogen": 5,
+      "number": 14,
+      "question": "Erläutern Sie den Begriff „Vorfahrt haben“.",
+      "answer": "„Vorfahrt haben“ gilt nur für ein im Fahrwasser fahrendes oder dem Fahrwasserverlauf folgendes Fahrzeug. Das bedeutet, dass andere Fahrzeuge, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen, mit diesem Vorhaben warten müssen, bis das vorfahrtberechtigte Fahrzeug vorüber ist. „Vorfahrt haben\" bedeutet aber nicht: Vorfahrt erzwingen! Ggf. muss ein vorfahrtberechtigtes Fahrzeug Maßnahmen zur Verhinderung einer drohenden Kollision ergreifen.",
+      "answer_html": "„Vorfahrt haben“ gilt nur für ein <strong>im Fahrwasser fahrendes oder dem Fahrwasserverlauf folgendes Fahrzeug</strong>. Das bedeutet, dass <strong>andere Fahrzeuge, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen</strong>, mit diesem Vorhaben <strong>warten</strong> müssen, bis das vorfahrtberechtigte Fahrzeug vorüber ist. „Vorfahrt haben&quot; bedeutet aber <strong>nicht: Vorfahrt erzwingen</strong>! Ggf. muss ein vorfahrtberechtigtes Fahrzeug Maßnahmen zur Verhinderung einer drohenden Kollision ergreifen.",
+      "keywords": [
+        "im Fahrwasser fahrendes oder dem Fahrwasserverlauf folgendes Fahrzeug",
+        "andere Fahrzeuge, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen",
+        "warten",
+        "nicht: Vorfahrt erzwingen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q15",
+      "fragebogen": 5,
+      "number": 15,
+      "question": "Was ist ein Flaggenzertifikat? Für welche Fahrzeuge kann es ausgestellt werden?",
+      "answer": "Vom BSH ausgestellter Ausweis, mit dem das Recht und die Pflicht zum Führen der Bundesflagge nachgewiesen wird. Für Fahrzeuge unter 15 m Lüa = „nicht registerpflichtige Fahrzeuge“.",
+      "answer_html": "Vom <strong>BSH</strong> ausgestellter Ausweis, mit dem das Recht und die <strong>Pflicht zum Führen der Bundesflagge</strong> nachgewiesen wird. Für Fahrzeuge <strong>unter 15 m Lüa</strong> = „nicht registerpflichtige Fahrzeuge“.",
+      "keywords": [
+        "BSH",
+        "Pflicht zum Führen der Bundesflagge",
+        "unter 15 m Lüa"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q16",
+      "fragebogen": 5,
+      "number": 16,
+      "question": "Was ist nach dem MARPOL-Übereinkommen für die Sportschifffahrt in Sondergebieten grundsätzlich verboten?",
+      "answer": "Das Einleiten von Öl, Schiffs abwässern, Schiffsmüll und anderen Schadstoffen.",
+      "answer_html": "Das Einleiten von <strong>Öl</strong>, Schiffs <strong>abwässern</strong>, Schiffs<strong>müll</strong> und anderen <strong>Schadstoffen</strong>.",
+      "keywords": [
+        "Öl",
+        "abwässern",
+        "müll",
+        "Schadstoffen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q17",
+      "fragebogen": 5,
+      "number": 17,
+      "question": "Nennen Sie mindestens 6 Parameter, aus denen sich eine Wetterbeobachtung an Bord zusammensetzt.",
+      "answer": "Windrichtung, Windstärke, Luftdruck, aktuelles Wetter, Bedeckungsgrad, Wolken, Seegang, Strom, Temperatur und ggf. Luftfeuchte.",
+      "answer_html": "Windrichtung, Windstärke, Luftdruck, aktuelles Wetter, Bedeckungsgrad, Wolken, Seegang, Strom, Temperatur und ggf. Luftfeuchte.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q18",
+      "fragebogen": 5,
+      "number": 18,
+      "question": "Welche Windrichtungen erwarten Sie an den Punkten 1, 2, 3, 4, 5 eines Tiefdruckgebiets auf der",
+      "answer": "1. Nordost. 2. Süd. 3. Südwest. 4. Nordwest. 5. Umlaufender Wind.",
+      "answer_html": "1. Nordost.<br>2. Süd.<br>3. Südwest.<br>4. Nordwest.<br>5. Umlaufender Wind.",
+      "keywords": [],
+      "question_images": [
+        "fb05-q18-q1.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q19",
+      "fragebogen": 5,
+      "number": 19,
+      "question": "1. Was für Wetter muss meistens erwartet werden, wenn der Luftdruck über einen Zeitraum von 3 Stunden um 10 hPa fällt? 2. Was muss bei einem an Bord beobachteten starken Luftdruckfall beachtet werden?",
+      "answer": "1. Schwerer Sturm. 2. Der Kurs und die Fahrt des Schiffes in Bezug auf das Tief druckgebiet.",
+      "answer_html": "1. Schwerer <strong>Sturm</strong>.<br>2. Der Kurs und die Fahrt des <strong>Schiffes in Bezug auf das Tief</strong> druckgebiet.",
+      "keywords": [
+        "Sturm",
+        "Schiffes in Bezug auf das Tief"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q20",
+      "fragebogen": 5,
+      "number": 20,
+      "question": "Im Internet finden Sie auf einer „Wetterseite“ eine Vorhersagekarte für die Dünung. Können Sie daraus ungefähr den vorherrschenden Wind über See ableiten?",
+      "answer": "Nein. Dünung kann vorhanden sein, auch wenn kein Windfeld unmittelbar vorhanden ist.",
+      "answer_html": "<strong>Nein</strong>. Dünung kann vorhanden sein, auch wenn <strong>kein Windfeld unmittelbar vorhanden</strong> ist.",
+      "keywords": [
+        "Nein",
+        "kein Windfeld unmittelbar vorhanden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q21",
+      "fragebogen": 5,
+      "number": 21,
+      "question": "1. Warum sollten Luftdrucktendenzen an Bord beobachtet und aufgezeichnet werden? 2. In welchem zeitlichen Abstand sollte man den Luftdruck aufzeichnen?",
+      "answer": "1. Eventuelle Wetterveränderungen (z. B. Trog, Annäherung eines Tiefdruckgebiets) können registriert werden. 2. Mindestens alle 4 Stunden.",
+      "answer_html": "1. Eventuelle <strong>Wetterveränderungen</strong> (z. B. Trog, Annäherung eines Tiefdruckgebiets) können registriert werden.<br>2. Mindestens <strong>alle 4 Stunden</strong>.",
+      "keywords": [
+        "Wetterveränderungen",
+        "alle 4 Stunden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q22",
+      "fragebogen": 5,
+      "number": 22,
+      "question": "Welche Kategorien können im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge vergeben werden?",
+      "answer": "1. A Hochsee, 2. B Außerhalb von Küsten gewässern, 3. C Küstennahe Gewässer, 4. D Geschützte Gewässer.",
+      "answer_html": "1. A <strong>Hochsee</strong>,<br>2. B <strong>Außerhalb von Küsten</strong> gewässern,<br>3. C <strong>Küstennahe</strong> Gewässer,<br>4. D <strong>Geschützte</strong> Gewässer.",
+      "keywords": [
+        "Hochsee",
+        "Außerhalb von Küsten",
+        "Küstennahe",
+        "Geschützte"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q23",
+      "fragebogen": 5,
+      "number": 23,
+      "question": "Was gehört zur regelmäßigen Pflege der Segel?",
+      "answer": "1. Nasse Segel trocknen, 2. Segel vor Sonnenlicht schützen, 3. Salzwasserreste abspülen und 4. Beschädigungen umgehend beseitigen.",
+      "answer_html": "1. Nasse Segel <strong>trocknen</strong>,<br>2. Segel vor <strong>Sonnenlicht schützen</strong>,<br>3. <strong>Salzwasserreste abspülen</strong> und<br>4. <strong>Beschädigungen umgehend beseitigen</strong>.",
+      "keywords": [
+        "trocknen",
+        "Sonnenlicht schützen",
+        "Salzwasserreste abspülen",
+        "Beschädigungen umgehend beseitigen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q24",
+      "fragebogen": 5,
+      "number": 24,
+      "question": "Wovon hängt die Stabilität eines Schiffes in ruhigem Wasser ab? Nennen Sie Beispiele für äußere Momente, welche die Stabilität beanspruchen.",
+      "answer": "Die Stabilität eines Schiffes hängt ab von: 1. seiner Geometrie (Form), 2. der Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast). Beispiele für eine Beanspruchung der Stabilität sind krängende Momente durch Seitenwind, Trossenzug oder Drehkreisfahrt bei schnellen Motoryachten.",
+      "answer_html": "Die Stabilität eines Schiffes hängt ab von:<br>1. seiner Geometrie (<strong>Form</strong>),<br>2. der <strong>Gewichtsverteilung</strong> im Schiff (Ausrüstung, Crew, Ballast). Beispiele für eine Beanspruchung der Stabilität sind krängende Momente durch Seiten<strong>wind</strong>, <strong>Trossenzug</strong> oder <strong>Drehkreisfahrt</strong> bei schnellen Motoryachten.",
+      "keywords": [
+        "Form",
+        "Gewichtsverteilung",
+        "wind",
+        "Trossenzug",
+        "Drehkreisfahrt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q25",
+      "fragebogen": 5,
+      "number": 25,
+      "question": "Der Dieselmotor Ihres Bootes startet nicht. Welche Fehler, die Sie selber überprüfen können, könnten die Ursache sein?",
+      "answer": "1. Anlasserdrehzahl zu gering (Batterie zu schwach), 2. kein Kraftstoff im Tank, 3. Luft in der Kraftstoffleitung, 4. falsche Bedienung der Kaltstarthilfe (eventuell Vorglühen zu kurz), 5. Anlasser defekt.",
+      "answer_html": "1. Anlasserdrehzahl zu gering (<strong>Batterie zu schwach</strong>),<br>2. <strong>kein Kraftstoff</strong> im Tank,<br>3. <strong>Luft</strong> in der Kraftstoffleitung,<br>4. <strong>falsche Bedienung der Kaltstarthilfe</strong> (eventuell Vorglühen zu kurz),<br>5. <strong>Anlasser defekt</strong>.",
+      "keywords": [
+        "Batterie zu schwach",
+        "kein Kraftstoff",
+        "Luft",
+        "falsche Bedienung der Kaltstarthilfe",
+        "Anlasser defekt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q26",
+      "fragebogen": 5,
+      "number": 26,
+      "question": "1. Was bedeutet die Angabe einer Batteriekapazität „2 x 60 Ah“? (Begründung!) 2. Welche Nettokapazität steht in dem Fall zur Verfügung? (Begründung!)",
+      "answer": "1. Es handelt sich um 2 Batterien (Akkus) mit jeweils 60 Amperestunden, insgesamt also 120 Ah Nennkapazität. 2. Dem entspricht eine Nettokapazität von etwa 72 Ah, da ein Akku kaum über 80 % seiner Nennkapazität geladen werden kann.",
+      "answer_html": "1. Es handelt sich um 2 Batterien (Akkus) mit jeweils 60 Amperestunden, insgesamt also <strong>120 Ah Nennkapazität</strong>.<br>2. Dem entspricht eine Nettokapazität von <strong>etwa 72 Ah</strong>, da ein Akku kaum über 80 % seiner Nennkapazität geladen werden kann.",
+      "keywords": [
+        "120 Ah Nennkapazität",
+        "etwa 72 Ah"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q27",
+      "fragebogen": 5,
+      "number": 27,
+      "question": "Mit welchem Manöver können Sie bei Starkwind das Halsen vermeiden (Name)? Vervollständigen Sie die Skizze durch Einzeichnen der Kurslinie und geben Sie die erforderlichen",
+      "answer": "",
+      "answer_html": "",
+      "keywords": [],
+      "question_images": [
+        "fb05-q27-q1.png"
+      ],
+      "answer_images": [
+        "fb05-q27-a1.png"
+      ]
+    },
+    {
+      "id": "fb05-q28",
+      "fragebogen": 5,
+      "number": 28,
+      "question": "Worauf müssen Sie achten,wenn Sie in Tidengewässern längsseits einer Pier festgemacht haben?",
+      "answer": "1. Die Wassertiefe muss auch bei Niedrigwasser ausreichen oder sicheres Aufsetzen muss gewährleistet sein. 2. Die Leinen müssen für den Tidenstieg oder -fall ausreichend lang sein. Bei größerem Tidenhub darf das Fahrzeug keinesfalls unbeaufsichtigt bleiben.",
+      "answer_html": "1. Die Wassertiefe muss auch <strong>bei Niedrigwasser ausreichen</strong> oder <strong>sicheres Aufsetzen</strong> muss gewährleistet sein.<br>2. Die Leinen müssen für den Tidenstieg oder -fall <strong>ausreichend lang</strong> sein. Bei größerem Tidenhub darf das Fahrzeug <strong>keinesfalls unbeaufsichtigt</strong> bleiben.",
+      "keywords": [
+        "bei Niedrigwasser ausreichen",
+        "sicheres Aufsetzen",
+        "ausreichend lang",
+        "keinesfalls unbeaufsichtigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q29",
+      "fragebogen": 5,
+      "number": 29,
+      "question": "Sie wollen in einer Bucht ankern, in der das (ausreichend tiefe) Wasser unterschiedliche Färbungen zeigt. Wo wählen Sie den Ankerplatz? (Begründung!)",
+      "answer": "Ich ankere auf hellem Wasser. Begründung: Der Grund ist hier sandig, der Anker hält gut. Dunkler Grund weist auf Bewuchs hin, wo der Anker schlecht hält.",
+      "answer_html": "Ich ankere auf <strong>hellem Wasser</strong>. Begründung: Der Grund ist hier sandig, der Anker hält gut. <strong>Dunkler Grund weist auf Bewuchs</strong> hin, wo der Anker schlecht hält.",
+      "keywords": [
+        "hellem Wasser",
+        "Dunkler Grund weist auf Bewuchs"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb05-q30",
+      "fragebogen": 5,
+      "number": 30,
+      "question": "Auf vielen großen Schiffen ist die Sicht nach vorne eingeschränkt. Welchen Abstand vor einem Schiff müssen Sie als nicht einsehbar mindestens berücksichtigen?",
+      "answer": "Sichtbeschränkung nach voraus maximal 2 Schiffslängen oder 500 m.",
+      "answer_html": "Sichtbeschränkung nach voraus maximal <strong>2 Schiffslängen oder 500 m</strong>.",
+      "keywords": [
+        "2 Schiffslängen oder 500 m"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

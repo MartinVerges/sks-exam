@@ -1,0 +1,458 @@
+{
+  "fragebogen": 13,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb13-q01",
+      "fragebogen": 13,
+      "number": 1,
+      "question": "Welche Angaben enthalten deutsche und britische Leuchtfeuerverzeichnisse?",
+      "answer": "Beschreibung der Leuchtfeuer, Feuerschiffe und Großtonnen sowie deren geographische Lage.",
+      "answer_html": "<strong>Beschreibung</strong> der <strong>Leuchtfeuer</strong>, <strong>Feuerschiffe</strong> und <strong>Großtonnen</strong> sowie deren <strong>geographische Lage</strong>.",
+      "keywords": [
+        "Beschreibung",
+        "Leuchtfeuer",
+        "Feuerschiffe",
+        "Großtonnen",
+        "geographische Lage"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q02",
+      "fragebogen": 13,
+      "number": 2,
+      "question": "Wovon hängt die „Tragweite“ eines Feuers ab?",
+      "answer": "Sie hängt u. a. ab 1. von der Lichtstärke (Helligkeit) des Feuers und 2. vom Sichtwert (Lichtdurchlässigkeit der Atmosphäre).",
+      "answer_html": "Sie hängt u. a. ab<br>1. von der Lichtstärke (<strong>Helligkeit</strong>) des Feuers und<br>2. vom Sichtwert (<strong>Lichtdurchlässigkeit der Atmosphäre</strong>).",
+      "keywords": [
+        "Helligkeit",
+        "Lichtdurchlässigkeit der Atmosphäre"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q03",
+      "fragebogen": 13,
+      "number": 3,
+      "question": "Was bedeutet der Zusatz „vital“ bei einer nautischen Warnnachricht (NWN)?",
+      "answer": "Die NWN erhält den Zusatz „vital“, wenn die Warnung auf eine lebensbedrohende Gefahr hinweist.",
+      "answer_html": "Die NWN erhält den Zusatz „vital“, wenn die Warnung auf eine <strong>lebensbedrohende Gefahr</strong> hinweist.",
+      "keywords": [
+        "lebensbedrohende Gefahr"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q04",
+      "fragebogen": 13,
+      "number": 4,
+      "question": "Warum sollte der Winkel zwischen zwei Peilungen nicht kleiner als 30°und nicht größer als 150°sein?",
+      "answer": "Damit der gefundene Standort eine ausreichend sichere Positionsbestimmung ergibt.",
+      "answer_html": "Damit der gefundene Standort eine <strong>ausreichend sichere Positionsbestimmung</strong> ergibt.",
+      "keywords": [
+        "ausreichend sichere Positionsbestimmung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q05",
+      "fragebogen": 13,
+      "number": 5,
+      "question": "Unter welchen Voraussetzungen ergibt sich eine brauchbare Standlinie aus einer Lotung?",
+      "answer": "Der Meeresgrund muss ausreichend regelmäßig und ausreichend steil ansteigen/abfallen.",
+      "answer_html": "Der <strong>Meeresgrund</strong> muss ausreichend <strong>regelmäßig</strong> und ausreichend <strong>steil ansteigen/abfallen</strong>.",
+      "keywords": [
+        "Meeresgrund",
+        "regelmäßig",
+        "steil ansteigen/abfallen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q06",
+      "fragebogen": 13,
+      "number": 6,
+      "question": "Welche Bedeutung hat die Angabe „Springzeit“ für die Wasserstände in Gezeitengebieten?",
+      "answer": "Zur Springzeit sind besonders hohe Hochwasser und besonders niedrige Niedrigwasser zu erwarten.",
+      "answer_html": "Zur Springzeit sind besonders <strong>hohe Hochwasser</strong> und besonders <strong>niedrige Niedrigwasser</strong> zu erwarten.",
+      "keywords": [
+        "hohe Hochwasser",
+        "niedrige Niedrigwasser"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q07",
+      "fragebogen": 13,
+      "number": 7,
+      "question": "Wo muss man mit ungenauen Anzeigen des GPS rechnen?",
+      "answer": "1. Bei Abschattung der GPS-Antenne. 2. In der Nähe von Flughäfen und in der Nähe von Fernsehsendern. 3. In der Nähe von Marineeinrichtungen. 4. Bei Nutzung von UKW-Geräten und anderen elektronischen/elektrischen Geräten an Bord.",
+      "answer_html": "1. Bei <strong>Abschattung</strong> der GPS-Antenne.<br>2. In der Nähe von <strong>Flughäfen</strong> und in der Nähe von <strong>Fernsehsendern</strong>.<br>3. In der Nähe von <strong>Marineeinrichtungen</strong>.<br>4. Bei Nutzung von <strong>UKW-Geräten</strong> und anderen elektronischen/elektrischen Geräten an Bord.",
+      "keywords": [
+        "Abschattung",
+        "Flughäfen",
+        "Fernsehsendern",
+        "Marineeinrichtungen",
+        "UKW-Geräten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q08",
+      "fragebogen": 13,
+      "number": 8,
+      "question": "Was bedeutet der Begriff AIS auf See?",
+      "answer": "AIS bezeichnet das automatische Identifizierungssystem (Automatic Identification System).",
+      "answer_html": "AIS bezeichnet das <strong>automatische Identifizierungssystem</strong> (Automatic Identification System).",
+      "keywords": [
+        "automatische Identifizierungssystem"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q09",
+      "fragebogen": 13,
+      "number": 9,
+      "question": "Welchen Vorteil hat ein Kugelkompass gegenüber einem Flachglaskompass?",
+      "answer": "1. Der Kugelkompass kann auch bei größerer Krängung noch als Messinstrument benutzt werden. 2. Die Kugelform verbessert die Ablesbarkeit der Kompassrose (Vergrößerungseffekt).",
+      "answer_html": "1. Der Kugelkompass kann <strong>auch bei größerer Krängung noch</strong> als Messinstrument benutzt werden.<br>2. Die Kugelform verbessert die Ablesbarkeit der Kompassrose (<strong>Vergrößerungseffekt</strong>).",
+      "keywords": [
+        "auch bei größerer Krängung noch",
+        "Vergrößerungseffekt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q10",
+      "fragebogen": 13,
+      "number": 10,
+      "question": "Was ist unter „sicherer Geschwindigkeit“ zu verstehen?",
+      "answer": "Das Fahrzeug muss jederzeit innerhalb einer solchen Entfernung zum Stehen gebracht werden können, dass ein Zusammenstoß vermieden wird.",
+      "answer_html": "Das Fahrzeug muss <strong>jederzeit</strong> innerhalb einer solchen Entfernung <strong>zum Stehen</strong> gebracht werden können, <strong>dass</strong> ein <strong>Zusammenstoß vermieden</strong> wird.",
+      "keywords": [
+        "jederzeit",
+        "zum Stehen",
+        "dass",
+        "Zusammenstoß vermieden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q11",
+      "fragebogen": 13,
+      "number": 11,
+      "question": "Wie müssen Sie Ausweichmanöver durchführen?",
+      "answer": "1. Möglichst frühzeitig, 2. durchgreifend, sodass das andere Fahrzeug rasch Ihre Absicht erkennen kann, und um sich gut klar zu halten.",
+      "answer_html": "1. Möglichst <strong>frühzeitig</strong>,<br>2. <strong>durchgreifend</strong>, sodass das andere Fahrzeug rasch Ihre Absicht erkennen kann, und um sich <strong>gut klar</strong> zu halten.",
+      "keywords": [
+        "frühzeitig",
+        "durchgreifend",
+        "gut klar"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q12",
+      "fragebogen": 13,
+      "number": 12,
+      "question": "Auf einer Motoryacht A erkennt man nachts etwa 2 Strich an Bb. folgende Lichter des Fahrzeugs B, die rasch näher kommen. Die Kompasspeilung zum Fahrzeug B ändert sich 1. Worum handelt es sich bei Fahrzeug B? 2. Wer muss ausweichen? 3. Was muss Fahrzeug A tun?",
+      "answer": "1. B ist ein Maschinenfahrzeug von weniger als 50 m Länge in Fahrt, dessen Stb.-Seite man sieht. 2. B muss ausweichen, weil es die Motoryacht A an seiner Stb.-Seite hat. 3. Die Motoryacht A muss Kurs und Geschwindigkeit beibehalten.",
+      "answer_html": "1. B ist ein <strong>Maschinenfahrzeug</strong> von weniger als 50 m Länge in Fahrt, dessen <strong>Stb.-Seite</strong> man sieht.<br>2. <strong>B muss ausweichen</strong>, weil es die Motoryacht A an seiner Stb.-Seite hat.<br>3. Die Motoryacht <strong>A</strong> muss <strong>Kurs und Geschwindigkeit beibehalten</strong>.",
+      "keywords": [
+        "Maschinenfahrzeug",
+        "Stb.-Seite",
+        "B muss ausweichen",
+        "A",
+        "Kurs und Geschwindigkeit beibehalten"
+      ],
+      "question_images": [
+        "fb13-q12-q1.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q13",
+      "fragebogen": 13,
+      "number": 13,
+      "question": "Welche verkehrsrechtlichen Bestimmungen gelten auf deutschen Seeschifffahrtsstraßen?",
+      "answer": "Auf deutschen Seeschifffahrtsstraßen gelten: 1. die KVR, 2. die Seeschifffahrtsstraßen-Ordnung, ggf. die Bekanntmachungen der Wasser- und Schifffahrtsdirektionen (WSD) Nord und Nordwest, 3. ggf. die Hafenordnungen.",
+      "answer_html": "Auf deutschen Seeschifffahrtsstraßen gelten:<br>1. die <strong>KVR</strong>,<br>2. die <strong>Seeschifffahrtsstraßen-Ordnung</strong>, ggf. die <strong>Bekanntmachungen</strong> der Wasser- und Schifffahrtsdirektionen <strong>(WSD) Nord und Nordwest</strong>,<br>3. ggf. die <strong>Hafenordnungen</strong>.",
+      "keywords": [
+        "KVR",
+        "Seeschifffahrtsstraßen-Ordnung",
+        "Bekanntmachungen",
+        "(WSD) Nord und Nordwest",
+        "Hafenordnungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q14",
+      "fragebogen": 13,
+      "number": 14,
+      "question": "Welche Fahrregeln muss ein Sportfahrzeug beachten, wenn es der Richtung des Fahrwassers folgt?",
+      "answer": "Beim Fahren im Fahrwasser muss das Sportfahrzeug sich so nahe am äußeren Rand des Fahrwassers an seiner Steuerbordseite halten, wie dieses ohne Gefahr möglich ist.",
+      "answer_html": "Beim Fahren im Fahrwasser muss das Sportfahrzeug sich so <strong>nahe am äußeren Rand</strong> des Fahrwassers <strong>an seiner Steuerbordseite</strong> halten, wie dieses ohne Gefahr möglich ist.",
+      "keywords": [
+        "nahe am äußeren Rand",
+        "an seiner Steuerbordseite"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q15",
+      "fragebogen": 13,
+      "number": 15,
+      "question": "Welche besondere Lichterführung/Kennzeichnung ist vorgeschrieben, wenn ein Motorsportfahrzeug ein anderes Sportfahrzeug schleppt?",
+      "answer": "Motor sportfahrzeuge, die andere Sportfahrzeuge schleppen, gelten nicht als schleppende Maschinenfahrzeuge im Sinne der KVR. Daher keine besondere Lichterführung/Kennzeichnung.",
+      "answer_html": "Motor <strong>sportfahrzeuge</strong>, die andere <strong>Sportfahrzeuge schleppen</strong>, gelten <strong>nicht</strong> als <strong>schleppende</strong> Maschinenfahrzeuge im Sinne der <strong>KVR</strong>. Daher <strong>keine besondere</strong> Lichterführung/Kennzeichnung.",
+      "keywords": [
+        "sportfahrzeuge",
+        "Sportfahrzeuge schleppen",
+        "nicht",
+        "schleppende",
+        "KVR",
+        "keine besondere"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q16",
+      "fragebogen": 13,
+      "number": 16,
+      "question": "Was sind Sondergebiete im Sinne des MARPOL-Übereinkommens in Europa?",
+      "answer": "Ostsee, Nordsee und Mittelmeer",
+      "answer_html": "Ostsee, Nordsee und Mittelmeer",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q17",
+      "fragebogen": 13,
+      "number": 17,
+      "question": "Welche Skala wird verwendet für die Angabe der Windrichtung in Seewetterberichten bei 1. den Vorhersagen und Aussichten, 2. den Stationsmeldungen?",
+      "answer": "1. Die 8-teilige mit Auflösung in 45°-Stufen. 2. Die 16-teilige mit Auflösung in 22,5°-Stufen.",
+      "answer_html": "1. Die <strong>8-teilige</strong> mit Auflösung in <strong>45°-Stufen</strong>.<br>2. Die <strong>16-teilige</strong> mit Auflösung in <strong>22,5°-Stufen</strong>.",
+      "keywords": [
+        "8-teilige",
+        "45°-Stufen",
+        "16-teilige",
+        "22,5°-Stufen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q18",
+      "fragebogen": 13,
+      "number": 18,
+      "question": "1. Was ist eine Front? 2. Welche Fronten unterscheidet man im Allgemeinen?",
+      "answer": "1. Front ist die vordere Grenze einer Luftmasse in Bewegungsrichtung. 2.Warm-, Kalt- und Okklusionsfronten.",
+      "answer_html": "1. Front ist die <strong>vordere Grenze</strong> einer <strong>Luftmasse in Bewegungsrichtung</strong>.<br>2.<strong>Warm-, Kalt- und Okklusionsfronten</strong>.",
+      "keywords": [
+        "vordere Grenze",
+        "Luftmasse in Bewegungsrichtung",
+        "Warm-, Kalt- und Okklusionsfronten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q19",
+      "fragebogen": 13,
+      "number": 19,
+      "question": "Welche Windgeschwindigkeiten in Knoten oder Beaufort erreicht der Seewind etwa 1. im Mittelmeer, 2. in Nord- und Ostsee?",
+      "answer": "1. Bis zu 25 kn oder 6 Bft. 2. Bis 15 kn, in Einzelfällen bis 20 kn oder 4/5 Bft, in Einzelfällen 5/6 Bft.",
+      "answer_html": "1. Bis zu <strong>25 kn</strong> oder <strong>6 Bft</strong>.<br>2. Bis <strong>15 kn</strong>, in Einzelfällen bis <strong>20 kn</strong> oder <strong>4/5 Bft</strong>, in Einzelfällen <strong>5/6 Bft</strong>.",
+      "keywords": [
+        "25 kn",
+        "6 Bft",
+        "15 kn",
+        "20 kn",
+        "4/5 Bft",
+        "5/6 Bft"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q20",
+      "fragebogen": 13,
+      "number": 20,
+      "question": "Was bedeutet rechtdrehender bzw. rückdrehender Wind?",
+      "answer": "Rechtdrehend bedeutet Änderung der Windrichtung im Uhrzeigersinn. Rückdrehend bedeutet Änderung der Windrichtung gegen den Uhrzeigersinn um mindestens 45°.",
+      "answer_html": "<strong>Rechtdrehend</strong> bedeutet <strong>Änderung der Windrichtung im Uhrzeigersinn</strong>. <strong>Rückdrehend</strong> bedeutet <strong>Änderung der Windrichtung gegen</strong> den Uhrzeigersinn um <strong>mindestens 45°</strong>.",
+      "keywords": [
+        "Rechtdrehend",
+        "Änderung der Windrichtung im Uhrzeigersinn",
+        "Rückdrehend",
+        "Änderung der Windrichtung gegen",
+        "mindestens 45°"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q21",
+      "fragebogen": 13,
+      "number": 21,
+      "question": "1. Was verstehen Sie unter Dünung? 2. Was kann einsetzende hohe Dünung andeuten?",
+      "answer": "1. Seegang, der dem erzeugenden Windfeld vorausläuft, sowie abklingender (alter) Seegang. 2. Einen eventuell aufziehenden Sturm.",
+      "answer_html": "1. Seegang, der dem <strong>erzeugenden Windfeld vorausläuft</strong>, sowie abklingender (<strong>alter</strong>) Seegang.<br>2. Einen <strong>eventuell aufziehenden Sturm</strong>.",
+      "keywords": [
+        "erzeugenden Windfeld vorausläuft",
+        "alter",
+        "eventuell aufziehenden Sturm"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q22",
+      "fragebogen": 13,
+      "number": 22,
+      "question": "Beschreiben Sie die Vor- und Nachteile von Stahl als Baumaterial für Yachten.",
+      "answer": "Vorteile: zuverlässiges, problemloses Baumaterial mit sehr hoher Festigkeit und langer Lebensdauer. Nachteile: hohes Gewicht, Rostanfälligkeit.",
+      "answer_html": "Vorteile: <strong>zuverlässiges, problemloses Baumaterial</strong> mit sehr <strong>hoher Festigkeit</strong> und <strong>langer Lebensdauer</strong>. Nachteile: <strong>hohes Gewicht, Rostanfälligkeit</strong>.",
+      "keywords": [
+        "zuverlässiges, problemloses Baumaterial",
+        "hoher Festigkeit",
+        "langer Lebensdauer",
+        "hohes Gewicht, Rostanfälligkeit"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q23",
+      "fragebogen": 13,
+      "number": 23,
+      "question": "Welches Werkzeug sollten Sie zur Segelreparatur an Bord haben?",
+      "answer": "Segelhandschuh, Segelnadeln, Segelgarn, Wachs, Zange und selbstklebendes Segeltuch.",
+      "answer_html": "Segelhandschuh, Segelnadeln, Segelgarn, Wachs, Zange und selbstklebendes Segeltuch.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q24",
+      "fragebogen": 13,
+      "number": 24,
+      "question": "Das Vorliek der Fock wirft Falten. Welches ist die häufigste Ursache?",
+      "answer": "Das Fall ist nicht genügend durchgesetzt.",
+      "answer_html": "Das <strong>Fall</strong> ist <strong>nicht</strong> genügend <strong>durchgesetzt</strong>.",
+      "keywords": [
+        "Fall",
+        "nicht",
+        "durchgesetzt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q25",
+      "fragebogen": 13,
+      "number": 25,
+      "question": "Welche Maßnahmen sind vor dem Anlassen eines eingebauten Motors zu treffen?",
+      "answer": "1. Hauptstromschalter einschalten, 2. Kraftstoff- und Kühlwasserventile öffnen, 3. Getriebe auf „neutral“ stellen.",
+      "answer_html": "1. Hauptstromschalter einschalten,<br>2. Kraftstoff- und Kühlwasserventile öffnen,<br>3. Getriebe auf „neutral“ stellen.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q26",
+      "fragebogen": 13,
+      "number": 26,
+      "question": "Wie sind längsseits liegende Fahrzeuge Ergänzen Sie die Skizze und benennen Sie die Leinen.",
+      "answer": "1. Achterleine, 2. Achterspring, 3. Vorspring, 4. Vorleine.",
+      "answer_html": "<strong>1. Achterleine,</strong><br><strong>2. Achterspring,</strong><br><strong>3. Vorspring,</strong><br><strong>4. Vorleine.</strong>",
+      "keywords": [
+        "1. Achterleine",
+        "2. Achterspring",
+        "3. Vorspring",
+        "4. Vorleine"
+      ],
+      "question_images": [
+        "fb13-q26-q1.png"
+      ],
+      "answer_images": [
+        "fb13-q26-a1.png"
+      ]
+    },
+    {
+      "id": "fb13-q27",
+      "fragebogen": 13,
+      "number": 27,
+      "question": "Was ist ein Bugstrahlruder und wozu dient es?",
+      "answer": "Eine im Bug einer Yacht befindliche Röhre mit einem Propeller, mit dem ein Querschub und damit ein Drehen des Buges bei geringen Vorausgeschwindigkeiten erreicht werden kann.",
+      "answer_html": "Eine <strong>im Bug</strong> einer Yacht befindliche <strong>Röhre mit einem Propeller</strong>, mit dem ein <strong>Querschub</strong> und damit ein <strong>Drehen</strong> des Buges bei <strong>geringen Vorausgeschwindigkeiten</strong> erreicht werden kann.",
+      "keywords": [
+        "im Bug",
+        "Röhre mit einem Propeller",
+        "Querschub",
+        "Drehen",
+        "geringen Vorausgeschwindigkeiten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q28",
+      "fragebogen": 13,
+      "number": 28,
+      "question": "Wie erhalten Sie Kenntnis über das nächste Wartungsdatum eines/r Rettungsfloßes/-insel?",
+      "answer": "Die runde, auf der Insel klebende farbige Serviceplakette oder das bei der letzten Wartung mitgelieferte Zertifikat geben Auskunft über den nächsten Wartungstermin.",
+      "answer_html": "Die runde, auf der Insel klebende farbige <strong>Serviceplakette</strong> oder das bei der <strong>letzten Wartung mitgelieferte Zertifikat</strong> geben Auskunft über den nächsten Wartungstermin.",
+      "keywords": [
+        "Serviceplakette",
+        "letzten Wartung mitgelieferte Zertifikat"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q29",
+      "fragebogen": 13,
+      "number": 29,
+      "question": "Warum sollte die Crew in die Funktion des Bord-WC eingewiesen werden?",
+      "answer": "Weil durch unsachgemäße Bedienung Wasser ins Bootsinnere gelangen kann.",
+      "answer_html": "Weil durch <strong>unsachgemäße Bedienung Wasser ins Bootsinnere</strong> gelangen kann.",
+      "keywords": [
+        "unsachgemäße Bedienung Wasser ins Bootsinnere"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb13-q30",
+      "fragebogen": 13,
+      "number": 30,
+      "question": "Wie können Sie die Haltekraft eines Ankers erhöhen, wenn Sie auf engem Raum (z. B. zwischen zwei Stegen) nicht die erforderliche Kettenlänge stecken können?",
+      "answer": "Mit einem Reitgewicht, um so den Anker besser am Boden zu halten.",
+      "answer_html": "Mit einem <strong>Reitgewicht</strong>, um so den <strong>Anker besser am Boden</strong> zu halten.",
+      "keywords": [
+        "Reitgewicht",
+        "Anker besser am Boden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "fragebogen": 4,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb04-q01",
+      "fragebogen": 4,
+      "number": 1,
+      "question": "Welche Differenzen können zwischen WGS 84 und anderen Bezugssystemen auftreten?",
+      "answer": "Die Differenzen von ϕ und liegen im Allgemeinen in der Größenordnung von 0,1 kbl bis 1 kbl, also etwa von 20 bis 200 m. Es können größere Unterschiede auftreten.",
+      "answer_html": "Die Differenzen von ϕ und liegen im Allgemeinen in der Größenordnung von 0,1 kbl bis 1 kbl, also etwa von <strong>20 bis 200 m</strong>. Es <strong>können größere Unterschiede</strong> auftreten.",
+      "keywords": [
+        "20 bis 200 m",
+        "können größere Unterschiede"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q02",
+      "fragebogen": 4,
+      "number": 2,
+      "question": "Worauf beziehen sich die Höhenangaben der Leuchtfeuer in Leuchtfeuerverzeichnissen in der Nord- und Ostsee?",
+      "answer": "In Gewässern mit Gezeiten (z. B. Nordsee) auf mittleres Hochwasser, in gezeitenlosen Gewässern (z. B. Ostsee) auf mittleren Wasserstand.",
+      "answer_html": "In Gewässern mit <strong>Gezeiten (z. B. Nordsee) auf mittleres Hochwasser</strong>, in <strong>gezeitenlosen Gewässern (z. B. Ostsee) auf mittleren Wasserstand</strong>.",
+      "keywords": [
+        "Gezeiten (z. B. Nordsee) auf mittleres Hochwasser",
+        "gezeitenlosen Gewässern (z. B. Ostsee) auf mittleren Wasserstand"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q03",
+      "fragebogen": 4,
+      "number": 3,
+      "question": "Welche Besonderheit bezüglich des Zusatzes „vital“ bei einer nautischen Warnnachricht (NWN) gibt es für die Sportschifffahrt?",
+      "answer": "Vitale nautische Warnnachrichten für die Sportschifffahrt werden während der Zeit vom 1. April bis zum 31. Oktober zur Verbreitung über ausgewählte private und öffentlich-rechtliche Rundfunkanstalten weitergeleitet.",
+      "answer_html": "Vitale nautische Warnnachrichten für die Sportschifffahrt werden während der Zeit vom <strong>1. April bis zum 31. Oktober</strong> zur Verbreitung über ausgewählte <strong>private und öffentlich-rechtliche Rundfunkanstalten</strong> weitergeleitet.",
+      "keywords": [
+        "1. April bis zum 31. Oktober",
+        "private und öffentlich-rechtliche Rundfunkanstalten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q04",
+      "fragebogen": 4,
+      "number": 4,
+      "question": "Welche navigatorischen Vorbereitungen treffen Sie vor einer Fahrt in Dunkelheit?",
+      "answer": "1. Kurse und Kursänderungspunkte möglichst vorausbestimmen, 2. Untiefen und Hindernisse in der Karte besonders kennzeichnen, 3. in der Seekarte markieren, welche Leuchtfeuer wann und wo in der Kimm erscheinen und 4.Wegstrecke nach unbefeuerten Tonnen absuchen.",
+      "answer_html": "1. <strong>Kurse und Kursänderungspunkte</strong> möglichst vorausbestimmen,<br>2. <strong>Untiefen und Hindernisse</strong> in der Karte besonders kennzeichnen,<br>3. in der Seekarte markieren, welche <strong>Leuchtfeuer wann und wo</strong> in der Kimm erscheinen und 4.Wegstrecke nach <strong>unbefeuerten Tonnen</strong> absuchen.",
+      "keywords": [
+        "Kurse und Kursänderungspunkte",
+        "Untiefen und Hindernisse",
+        "Leuchtfeuer wann und wo",
+        "unbefeuerten Tonnen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q05",
+      "fragebogen": 4,
+      "number": 5,
+      "question": "Nennen Sie den Winkel zwischen den Nordrichtungen rwN und MgN.",
+      "answer": "Der Winkel von rwN nach MgN ist die Fehlweisung (Fw = Abl + Mw).",
+      "answer_html": "Der Winkel von rwN nach MgN ist die <strong>Fehlweisung</strong> (Fw = <strong>Abl + Mw</strong>).",
+      "keywords": [
+        "Fehlweisung",
+        "Abl + Mw"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q06",
+      "fragebogen": 4,
+      "number": 6,
+      "question": "Wie ist Kartennull (KN) in der Ost- und Nordsee und im Englischen Kanal definiert? Wo finden Sie die entsprechenden Angaben zur Kartennullebene?",
+      "answer": "In der Ostsee entspricht KN dem mittleren Wasserstand. In der Nordsee und im Englischen Kanal entspricht KN dem niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical Tide). In der jeweiligen Seekarte ist die Kartennullebene beschrieben.",
+      "answer_html": "In der <strong>Ostsee entspricht KN dem mittleren Wasserstand</strong>. In der Nordsee und im Englischen Kanal entspricht KN dem <strong>niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical Tide)</strong>. In der jeweiligen <strong>Seekarte</strong> ist die Kartennullebene beschrieben.",
+      "keywords": [
+        "Ostsee entspricht KN dem mittleren Wasserstand",
+        "niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical Tide)",
+        "Seekarte"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q07",
+      "fragebogen": 4,
+      "number": 7,
+      "question": "Wie kann man feststellen, ob die GPS-Position genau bzw. zuverlässig ist?",
+      "answer": "1. Durch den vom Empfänger angezeigten HDOP (horizontal dilution of precision = Satellitenverteilung). 2. Durch die vom Empfänger angezeigte Anzahl der getrackten Satelliten. 3. Durch Vergleich mit anderen Navigationssystemen und der Koppelposition.",
+      "answer_html": "1. Durch den vom Empfänger angezeigten <strong>HDOP (horizontal dilution of precision = Satellitenverteilung</strong>).<br>2. Durch die vom Empfänger angezeigte <strong>Anzahl der getrackten Satelliten</strong>.<br>3. Durch <strong>Vergleich mit anderen Navigationssystemen</strong> und der Koppelposition.",
+      "keywords": [
+        "HDOP (horizontal dilution of precision = Satellitenverteilung",
+        "Anzahl der getrackten Satelliten",
+        "Vergleich mit anderen Navigationssystemen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q08",
+      "fragebogen": 4,
+      "number": 8,
+      "question": "Welche AIS-Daten werden von Schiffen aus der Berufsschifffahrt gesendet?",
+      "answer": "– Statische Daten: ID, Rufzeichen, Länge und Breite des Schiffes u. a. – Dynamische Daten (i. w. Sensordaten): UTC, Position, Heading, Kurs und Fahrt über Grund, ggf. Rate-of-turn, Fahrtstatus (z. B. Maschinenfahrzeug mit Fahrt durchs Wasser, Ankerlieger, manövrierbehindertes Fahrzeug. – Reisebezogene Daten: Tiefgang, Zielort (Destination), ETA u. a.",
+      "answer_html": "– <strong>Statische Daten: ID, Rufzeichen, Länge und Breite des Schiffes</strong> u. a. – <strong>Dynamische Daten (i. w. Sensordaten)</strong>: UTC, <strong>Position, Heading, Kurs und Fahrt über Grund</strong>, ggf. Rate-of-turn, Fahrtstatus (z. B. Maschinenfahrzeug mit Fahrt durchs Wasser, Ankerlieger, manövrierbehindertes Fahrzeug. – <strong>Reisebezogene Daten</strong>: Tiefgang, Zielort (Destination), ETA u. a.",
+      "keywords": [
+        "Statische Daten: ID, Rufzeichen, Länge und Breite des Schiffes",
+        "Dynamische Daten (i. w. Sensordaten)",
+        "Position, Heading, Kurs und Fahrt über Grund",
+        "Reisebezogene Daten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q09",
+      "fragebogen": 4,
+      "number": 9,
+      "question": "Was beeinflusst die Ablenkung eines Kompasses vorübergehend?",
+      "answer": "Elektronische Geräte (z. B. Radio, Handy), magnetisierte Gegenstände (z. B. Werkzeug, Peilkompass) und Gleichstromleitungen in der Nähe des Kompasses.",
+      "answer_html": "<strong>Elektronische Geräte</strong> (z. B. Radio, Handy), <strong>magnetisierte Gegenstände</strong> (z. B. Werkzeug, Peilkompass) und <strong>Gleichstromleitungen</strong> in der Nähe des Kompasses.",
+      "keywords": [
+        "Elektronische Geräte",
+        "magnetisierte Gegenstände",
+        "Gleichstromleitungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q10",
+      "fragebogen": 4,
+      "number": 10,
+      "question": "Welche Grundregeln für das Verhalten im Verkehr verlangen die KVR, die ein Schiffsführer zu berücksichtigen hat, auch wenn keine konkrete Regel anwendbar ist?",
+      "answer": "Die KVR befreien nicht von den Folgen, die durch unzureichende Einhaltung der KVR oder unzureichende Vorsichtsmaßnahmen entstehen, d. h., allgemeine seemännische Praxis oder besondere Umstände des Falles können über die Mindestanforderungen der KVR hinausgehende Maßnahmen erfordern.",
+      "answer_html": "Die KVR befreien nicht von den Folgen, die durch unzureichende Einhaltung der KVR oder unzureichende <strong>Vorsichtsmaßnahmen</strong> entstehen, d. h., <strong>allgemeine seemännische Praxis</strong> oder <strong>besondere Umstände des Falles</strong> können über die Mindestanforderungen der KVR hinausgehende Maßnahmen erfordern.",
+      "keywords": [
+        "Vorsichtsmaßnahmen",
+        "allgemeine seemännische Praxis",
+        "besondere Umstände des Falles"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q11",
+      "fragebogen": 4,
+      "number": 11,
+      "question": "Man hört bei Nebel folgendes Schallsignal mit der Pfeife – • • (lang-kurz-kurz), unmittelbar gefolgt von – • • • (lang-kurz-kurz-kurz) etwa jede Minute. Worum handelt es sich dabei?",
+      "answer": "Es ist das Schallsignal eines Schleppverbandes in Fahrt (schleppendes Fahrzeug lang-kurz-kurz; Anhang langkurz-kurz-kurz).",
+      "answer_html": "Es ist das Schallsignal eines <strong>Schleppverbandes</strong> in Fahrt (<strong>schleppendes Fahrzeug lang-kurz-kurz</strong>; <strong>Anhang langkurz-kurz-kurz</strong>).",
+      "keywords": [
+        "Schleppverbandes",
+        "schleppendes Fahrzeug lang-kurz-kurz",
+        "Anhang langkurz-kurz-kurz"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q12",
+      "fragebogen": 4,
+      "number": 12,
+      "question": "Die Lichteranordnung eines Fahrzeugs ändert sich plötzlich in Was schließen Sie daraus?",
+      "answer": "Ein manövrierunfähiges Fahrzeug ohne Fahrt durchs Wasser (FdW) hat FdW aufgenommen, da man jetzt auch das Bb.-Seitenlicht sieht.",
+      "answer_html": "Ein <strong>manövrierunfähiges</strong> Fahrzeug <strong>ohne Fahrt durchs Wasser</strong> (FdW) hat <strong>FdW aufgenommen</strong>, da man jetzt auch das Bb.-Seitenlicht sieht.",
+      "keywords": [
+        "manövrierunfähiges",
+        "ohne Fahrt durchs Wasser",
+        "FdW aufgenommen"
+      ],
+      "question_images": [
+        "fb04-q12-q1.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q13",
+      "fragebogen": 4,
+      "number": 13,
+      "question": "Erläutern Sie den Begriff „Vorfahrt beachten“.",
+      "answer": "„Vorfahrt beachten“ begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schifffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!).",
+      "answer_html": "„Vorfahrt beachten“ begründet eine <strong>Wartepflicht</strong>. Wer die Vorfahrt zu beachten hat, muss <strong>rechtzeitig</strong> durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die <strong>Schifffahrt im Fahrwasser nicht beeinträchtigt</strong> wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!).",
+      "keywords": [
+        "Wartepflicht",
+        "rechtzeitig",
+        "Schifffahrt im Fahrwasser nicht beeinträchtigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q14",
+      "fragebogen": 4,
+      "number": 14,
+      "question": "Welche besonderen Bestimmungen gelten auf dem Nord-Ostsee-Kanal (NOK) für Sportfahrzeuge beim Schleppen?",
+      "answer": "1. Ein motorbetriebenes Sportfahrzeug darf nur ein Sportfahrzeug schleppen. 2. Das geschleppte Sportfahrzeug darf nur eine Höchstlänge von weniger als 15 m haben. 3. Die Mindestgeschwindigkeit beim Schleppen muss 9 km/h betragen.",
+      "answer_html": "1. Ein motorbetriebenes Sportfahrzeug darf <strong>nur ein Sportfahrzeug</strong> schleppen.<br>2. Das geschleppte Sportfahrzeug darf nur eine <strong>Höchstlänge von weniger als 15 m</strong> haben.<br>3. Die <strong>Mindestgeschwindigkeit</strong> beim Schleppen muss <strong>9 km/h</strong> betragen.",
+      "keywords": [
+        "nur ein Sportfahrzeug",
+        "Höchstlänge von weniger als 15 m",
+        "Mindestgeschwindigkeit",
+        "9 km/h"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q15",
+      "fragebogen": 4,
+      "number": 15,
+      "question": "In welcher Vorschrift ist geregelt, welche Angaben der Bundesstelle für Seeunfalluntersuchung bei einem schaden- oder gefahrverursachenden Vorkommnis (Seeunfall) gemeldet werden müssen? Wer ist verantwortlich für die Meldung?",
+      "answer": "Geregelt in der „Verordnung über die Sicherung der Seefahrt“. Verantwortlich für die Meldung sind der Schiffsführer oder bei dessen Verhinderung ein anderes Besatzungsmitglied bzw. ggf. auch der Betreiber des Schiffes, falls keine der vorgenannten Personen dazu in der Lage ist.",
+      "answer_html": "Geregelt in der „<strong>Verordnung über die Sicherung der Seefahrt</strong>“. Verantwortlich für die Meldung sind der <strong>Schiffsführer oder bei dessen Verhinderung ein anderes Besatzungsmitglied</strong> bzw. <strong>ggf. auch der Betreiber des Schiffes</strong>, falls keine der vorgenannten Personen dazu in der Lage ist.",
+      "keywords": [
+        "Verordnung über die Sicherung der Seefahrt",
+        "Schiffsführer oder bei dessen Verhinderung ein anderes Besatzungsmitglied",
+        "ggf. auch der Betreiber des Schiffes"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q16",
+      "fragebogen": 4,
+      "number": 16,
+      "question": "Woraus können Sie Informationen über Entsorgungsmöglichkeiten in deutschen Sportboothäfen entnehmen?",
+      "answer": "Aus der Broschüre „Entsorgungsmöglichkeiten für Öl, Schiffsmüll und Schiffsabwässer – eine Übersicht für Sport- und Kleinschifffahrt“ des BSH.",
+      "answer_html": "Aus der <strong>Broschüre „Entsorgungsmöglichkeiten</strong> für Öl, Schiffsmüll und Schiffsabwässer – eine Übersicht für Sport- und Kleinschifffahrt“ des <strong>BSH</strong>.",
+      "keywords": [
+        "Broschüre „Entsorgungsmöglichkeiten",
+        "BSH"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q17",
+      "fragebogen": 4,
+      "number": 17,
+      "question": "Welche Verlagerungsgeschwindigkeiten haben Tiefdruckgebiete: 1. schnelle, 2. mittlere, 3. langsame?",
+      "answer": "1. Schnelle: 30 bis 50 kn. 2. Mittlere: 15 bis 30 kn. 3. Langsame:bis 15 kn.",
+      "answer_html": "1. Schnelle: <strong>30 bis 50 kn</strong>.<br>2. Mittlere: <strong>15 bis 30 kn</strong>.<br>3. Langsame:bis <strong>15 kn</strong>.",
+      "keywords": [
+        "30 bis 50 kn",
+        "15 bis 30 kn",
+        "15 kn"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q18",
+      "fragebogen": 4,
+      "number": 18,
+      "question": "Welche Wellenhöhe wird bei der Angabe des Seegangs in Seewetterberichten verwendet?",
+      "answer": "Die kennzeichnende (charakteristische) Wellenhöhe.",
+      "answer_html": "Die <strong>kennzeichnende (charakteristische) Wellenhöhe</strong>.",
+      "keywords": [
+        "kennzeichnende (charakteristische) Wellenhöhe"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q19",
+      "fragebogen": 4,
+      "number": 19,
+      "question": "Welche Windverhältnisse erwarten Sie in der Nähe von Steilküsten 1. bei auflandigem und 2. bei ablandigem Wind?",
+      "answer": "1. Der Wind wird durch Küstenführung zum Teil beschleunigt, wenn er nahezu auflandig oder parallel zur Küste weht. 2. Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet werden.",
+      "answer_html": "1. Der Wind wird durch Küstenführung zum Teil <strong>beschleunigt</strong>, wenn er nahezu auflandig oder parallel zur Küste weht.<br>2. Weht der Wind ablandig, muss <strong>örtlich mit umlaufenden Winden</strong> und <strong>erhöhter Böigkeit (Fallwinden)</strong> gerechnet werden.",
+      "keywords": [
+        "beschleunigt",
+        "örtlich mit umlaufenden Winden",
+        "erhöhter Böigkeit (Fallwinden)"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q20",
+      "fragebogen": 4,
+      "number": 20,
+      "question": "1. Was verstehen Sie unter einer Kreuzsee? 2. Geben Sie 3 Beispiele an, wo mit Kreuzsee zu rechnen ist.",
+      "answer": "1. Windsee und Dünung laufen aus unterschiedlichen Richtungen heran. 2. Kurz vor und bei dem Durchzug einer Kaltfront oder eines Trog es sowie in der Nähe des Tiefkerns.",
+      "answer_html": "1. <strong>Windsee und Dünung</strong> laufen aus unterschiedlichen Richtungen heran.<br>2. Kurz vor und bei dem Durchzug einer <strong>Kaltfront</strong> oder eines <strong>Trog</strong> es sowie in der Nähe des <strong>Tiefkerns</strong>.",
+      "keywords": [
+        "Windsee und Dünung",
+        "Kaltfront",
+        "Trog",
+        "Tiefkerns"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q21",
+      "fragebogen": 4,
+      "number": 21,
+      "question": "1. Wie bestimmen Sie an Bord die Windstärke, wenn keine Windmessanlage vorhanden ist? 2. Wie bestimmen Sie an Bord die Windrichtung,wenn keine Windmessanlage vorhanden ist?",
+      "answer": "1. Die Windstärke wird geschätzt mit Hilfe der Beaufortskala in Anlehnung an das Seegangsbild. 2. Die Windrichtung wird anhand der Verlagerung der Wellenkämme geschätzt.",
+      "answer_html": "1. Die Windstärke wird geschätzt mit Hilfe der <strong>Beaufortskala</strong> in Anlehnung an das <strong>Seegangsbild</strong>.<br>2. Die Windrichtung wird anhand der Verlagerung der <strong>Wellenkämme</strong> geschätzt.",
+      "keywords": [
+        "Beaufortskala",
+        "Seegangsbild",
+        "Wellenkämme"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q22",
+      "fragebogen": 4,
+      "number": 22,
+      "question": "Warum soll man das Schlagen eines Segels vermeiden, vor allem bei stärkerem Wind?",
+      "answer": "Um Beschädigungen zu vermeiden.",
+      "answer_html": "Um <strong>Beschädigungen zu vermeiden</strong>.",
+      "keywords": [
+        "Beschädigungen zu vermeiden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q23",
+      "fragebogen": 4,
+      "number": 23,
+      "question": "Was versteht man unter der „Stabilität“ eines Schiffes?",
+      "answer": "Unter Stabilität eines Schiffes versteht man seine Eigenschaft, in aufrechter Lage zu schwimmen und sich aus einer Krängung wieder aufzurichten.",
+      "answer_html": "Unter Stabilität eines Schiffes versteht man seine Eigenschaft, <strong>in aufrechter Lage zu schwimmen</strong> und sich aus einer Krängung <strong>wieder aufzurichten</strong>.",
+      "keywords": [
+        "in aufrechter Lage zu schwimmen",
+        "wieder aufzurichten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q24",
+      "fragebogen": 4,
+      "number": 24,
+      "question": "Sie segeln am Wind, Krängung und Ruderdruck nehmen stark zu. 1. Wie bezeichnet man das Verhalten des Bootes? 2. Mit welchen Mitteln können Sie die Krängung und den Ruderdruck vermindern?",
+      "answer": "1. Luvgierigkeit. 2. Traveller nach Lee setzen und/oder Großschot (etwas) fieren, Großsegel reffen.",
+      "answer_html": "1. <strong>Luvgierigkeit</strong>.<br>2. <strong>Traveller nach Lee</strong> setzen und/oder <strong>Großschot</strong> (etwas) <strong>fieren</strong>, <strong>Großsegel reffen</strong>.",
+      "keywords": [
+        "Luvgierigkeit",
+        "Traveller nach Lee",
+        "Großschot",
+        "fieren",
+        "Großsegel reffen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q25",
+      "fragebogen": 4,
+      "number": 25,
+      "question": "Wie können Sie einen Dieselmotor abstellen, wenn die vorgesehene Abstellvorrichtung defekt ist?",
+      "answer": "1. Kraftstoffzufuhr unterbrechen. 2. Verschließen des Luftansaugrohres/der Luftansaugrohre.",
+      "answer_html": "1. <strong>Kraftstoffzufuhr unterbrechen</strong>.<br>2. <strong>Verschließen</strong> des Luftansaugrohres/der <strong>Luftansaugrohre</strong>.",
+      "keywords": [
+        "Kraftstoffzufuhr unterbrechen",
+        "Verschließen",
+        "Luftansaugrohre"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q26",
+      "fragebogen": 4,
+      "number": 26,
+      "question": "Mit welchen 4 Angaben werden Propeller auf Yachten beschrieben?",
+      "answer": "Anzahl der Flügel, Größe ihrer Fläche, Durchmesser und Steigung.",
+      "answer_html": "<strong>Anzahl der Flügel, Größe ihrer Fläche, Durchmesser</strong> und <strong>Steigung</strong>.",
+      "keywords": [
+        "Anzahl der Flügel, Größe ihrer Fläche, Durchmesser",
+        "Steigung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q27",
+      "fragebogen": 4,
+      "number": 27,
+      "question": "Was ist an Land beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten?",
+      "answer": "Umweltschutzbestimmungen beachten, d. h., das Schiff nur auf einem entsprechend ausgerüsteten Reinigungsplatz abspritzen und Wasser und Schmutz auffangen, also nicht in die Kanalisation leiten.",
+      "answer_html": "<strong>Umweltschutzbestimmungen</strong> beachten, d. h., das Schiff nur auf einem entsprechend ausgerüsteten <strong>Reinigungsplatz</strong> abspritzen und <strong>Wasser und Schmutz auffangen</strong>, also nicht in die Kanalisation leiten.",
+      "keywords": [
+        "Umweltschutzbestimmungen",
+        "Reinigungsplatz",
+        "Wasser und Schmutz auffangen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q28",
+      "fragebogen": 4,
+      "number": 28,
+      "question": "Von welchen Faktoren ist die Länge eines Nahezu-Aufschießers zu einer im Wasser treibenden Person abhängig?",
+      "answer": "Geschwindigkeit, Wind, Seegang, Strömung und Form und Gewicht des Bootes.",
+      "answer_html": "<strong>Geschwindigkeit, Wind, Seegang, Strömung</strong> und <strong>Form</strong> und <strong>Gewicht</strong> des Bootes.",
+      "keywords": [
+        "Geschwindigkeit, Wind, Seegang, Strömung",
+        "Form",
+        "Gewicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q29",
+      "fragebogen": 4,
+      "number": 29,
+      "question": "Welche grundsätzliche Verhaltensweise sollte beachtet und welche Maßnahmen sollten ergriffen werden, wenn Ihr Schiff in Seenot kommt?",
+      "answer": "1. Ruhe bewahren und überlegt handeln. 2. Notalarm abgeben, ggf. Radartransponder einschalten. 3. Rettungsfloß klarmachen. 4. Rettungsweste und Sicherheitsgurt anlegen. 5. So lange wie möglich an Bord bleiben. 6. Wärmende Kleidung anziehen.",
+      "answer_html": "1. <strong>Ruhe bewahren</strong> und überlegt handeln.<br>2. <strong>Notalarm</strong> abgeben, ggf. Radartransponder einschalten.<br>3. <strong>Rettungsfloß</strong> klarmachen.<br>4. <strong>Rettungsweste</strong> und <strong>Sicherheitsgurt</strong> anlegen.<br>5. <strong>So lange wie möglich an Bord bleiben</strong>.<br>6. <strong>Wärmende Kleidung</strong> anziehen.",
+      "keywords": [
+        "Ruhe bewahren",
+        "Notalarm",
+        "Rettungsfloß",
+        "Rettungsweste",
+        "Sicherheitsgurt",
+        "So lange wie möglich an Bord bleiben",
+        "Wärmende Kleidung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb04-q30",
+      "fragebogen": 4,
+      "number": 30,
+      "question": "Mit welchen Stoppstrecken und Stoppzeiten müssen Sie bei großen Schiffen in voller Fahrt rechnen und wovon hängen sie ab?",
+      "answer": "Abhängig von Schiffstyp und -größe, Beladungszustand und Ausgangsgeschwindigkeit ist mit der 8- bis 12fachen Schiffslänge und bis zu 8 bis 12 Minuten Dauer (z. B. ein 300 m langes Containerschiff voll abgeladen mit 24 kn: Stoppstrecke ca. 2 sm, Stoppzeit ca. 12 Minuten) zu rechnen.",
+      "answer_html": "<strong>Abhängig von Schiffstyp</strong> und <strong>-größe, Beladungszustand und Ausgangsgeschwindigkeit</strong> ist mit der <strong>8- bis 12fachen Schiffslänge</strong> und bis zu <strong>8 bis 12 Minuten Dauer</strong> (z. B. ein 300 m langes Containerschiff voll abgeladen mit 24 kn: Stoppstrecke ca. 2 sm, Stoppzeit ca. 12 Minuten) zu rechnen.",
+      "keywords": [
+        "Abhängig von Schiffstyp",
+        "-größe, Beladungszustand und Ausgangsgeschwindigkeit",
+        "8- bis 12fachen Schiffslänge",
+        "8 bis 12 Minuten Dauer"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

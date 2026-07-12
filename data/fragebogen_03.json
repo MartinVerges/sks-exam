@@ -1,0 +1,459 @@
+{
+  "fragebogen": 3,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb03-q01",
+      "fragebogen": 3,
+      "number": 1,
+      "question": "Warum muss in der GPS-Navigation das jeweilige Kartendatum unbedingt berücksichtigt werden?",
+      "answer": "Weil sich das von GPS verwendete Bezugssystem WGS 84 (World Geodetic System 1984) von anderen verwendeten Bezugssystemen (Kartendatum) unterscheiden kann.",
+      "answer_html": "Weil sich das von <strong>GPS verwendete Bezugssystem WGS 84</strong> (World Geodetic System 1984) von anderen verwendeten Bezugssystemen (<strong>Kartendatum</strong>) unterscheiden kann.",
+      "keywords": [
+        "GPS verwendete Bezugssystem WGS 84",
+        "Kartendatum"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q02",
+      "fragebogen": 3,
+      "number": 2,
+      "question": "Was ist ein Torfeuer?",
+      "answer": "Es besteht aus zwei Feuern gleicher Höhe, gleicher Lichtstärke und gleicher Kennung, die zu beiden Seiten der Fahrwasserachse einander genau gegenüber (rechtwinklig zur Fahrwasserachse) und von der Fahrwasserachse gleich weit entfernt angeordnet sind.",
+      "answer_html": "Es besteht aus <strong>zwei Feuern</strong> gleicher Höhe, gleicher Lichtstärke und gleicher <strong>Kennung</strong>, die zu beiden Seiten der Fahrwasserachse einander genau <strong>gegenüber</strong> (rechtwinklig zur Fahrwasserachse) und von der Fahrwasserachse gleich weit entfernt angeordnet sind.",
+      "keywords": [
+        "zwei Feuern",
+        "Kennung",
+        "gegenüber"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q03",
+      "fragebogen": 3,
+      "number": 3,
+      "question": "Zählen Sie die am häufigsten vorkommenden Ereignisse und Maßnahmen auf, über die die Bekanntmachungen für Seefahrer (BfS) unterrichten.",
+      "answer": "1. Änderungen an Befeuerung, Betonnung und Landmarken, 2. veränderte Wassertiefen, 3. Wracke, Schifffahrtshindernisse, Rohrleitungen usw., 4. Bauarbeiten, Baggerarbeiten, militärische Übungen und damit zusammenhängende Sperrungen oder Behinderungen.",
+      "answer_html": "1. <strong>Änderungen an Befeuerung, Betonnung</strong> und Landmarken,<br>2. veränderte <strong>Wassertiefen</strong>,<br>3. Wracke, Schifffahrts<strong>hindernisse</strong>, Rohrleitungen usw.,<br>4. <strong>Bauarbeiten, Baggerarbeiten, militärische Übungen</strong> und damit zusammenhängende <strong>Sperrungen oder Behinderungen</strong>.",
+      "keywords": [
+        "Änderungen an Befeuerung, Betonnung",
+        "Wassertiefen",
+        "hindernisse",
+        "Bauarbeiten, Baggerarbeiten, militärische Übungen",
+        "Sperrungen oder Behinderungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q04",
+      "fragebogen": 3,
+      "number": 4,
+      "question": "Was müssen Sie beachten, wenn Sie die mit Loggen ermittelte Fahrt z. B. für das Arbeiten in Seekarten berücksichtigen wollen?",
+      "answer": "Die üblichen Logmethoden liefern ausschließlich die „Fahrt durchs Wasser (FdW)“. Um die „Fahrt über Grund (FüG)“ zu ermitteln, müssen Stromrichtung und Stromgeschwindigkeit berücksichtigt werden.",
+      "answer_html": "Die üblichen Logmethoden liefern ausschließlich die „<strong>Fahrt durchs Wasser</strong> (FdW)“. Um die „<strong>Fahrt über Grund</strong> (FüG)“ zu ermitteln, müssen <strong>Strom</strong>richtung und Stromgeschwindigkeit berücksichtigt werden.",
+      "keywords": [
+        "Fahrt durchs Wasser",
+        "Fahrt über Grund",
+        "Strom"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q05",
+      "fragebogen": 3,
+      "number": 5,
+      "question": "Warum sind regelmäßige Kompasskontrollen erforderlich?",
+      "answer": "Zur Überprüfung der Funktionsfähigkeit des Kompasses und der Werte in der Ablenkungstabelle.",
+      "answer_html": "Zur Überprüfung der <strong>Funktionsfähigkeit des Kompasses</strong> und der Werte in der <strong>Ablenkungstabelle</strong>.",
+      "keywords": [
+        "Funktionsfähigkeit des Kompasses",
+        "Ablenkungstabelle"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q06",
+      "fragebogen": 3,
+      "number": 6,
+      "question": "Warum findet man z. B. bei Bezugsorten in der Nordsee bzw. im Englischen Kanal zeitweise nur ein Hoch- bzw. Niedrigwasser pro Tag?",
+      "answer": "Die Umlaufzeit des Mondes um die Erde dauert im Mittel 24 h 50 min (Mondtag) gegenüber dem Sonnentag (= 24 h). Deshalb „rutscht“ das letzte HW oder NW zeitweise in den nächsten Tag.",
+      "answer_html": "Die <strong>Umlaufzeit des Mondes</strong> um die Erde dauert im Mittel 24 h 50 min (Mondtag) gegenüber dem Sonnentag (= 24 h). Deshalb <strong>„rutscht“ das letzte HW oder NW zeitweise in den nächsten Tag</strong>.",
+      "keywords": [
+        "Umlaufzeit des Mondes",
+        "„rutscht“ das letzte HW oder NW zeitweise in den nächsten Tag"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q07",
+      "fragebogen": 3,
+      "number": 7,
+      "question": "Nennen Sie drei wichtige Vorzüge von GPS.",
+      "answer": "1. GPS arbeitet weltweit. 2. Die Positionsanzeige ist jederzeit verfügbar. 3. Der Positionsfehler ist gering.",
+      "answer_html": "1. GPS arbeitet <strong>weltweit</strong>.<br>2. Die Positionsanzeige ist <strong>jederzeit</strong> verfügbar.<br>3. Der <strong>Positionsfehler ist gering</strong>.",
+      "keywords": [
+        "weltweit",
+        "jederzeit",
+        "Positionsfehler ist gering"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q08",
+      "fragebogen": 3,
+      "number": 8,
+      "question": "Welche Reichweite hat ein AIS-Bordgerät und wovon ist sie abhängig?",
+      "answer": "Die Reichweite und Ausbreitungsbedingungen entsprechen denen von UKW. Bei Handelsschiffen kann man von 20 bis 30 sm ausgehen. Die Reichweite ist abhängig von der Antennenhöhe.",
+      "answer_html": "Die Reichweite und Ausbreitungsbedingungen entsprechen denen von <strong>UKW</strong>. Bei Handelsschiffen kann man von <strong>20 bis 30 sm</strong> ausgehen. Die Reichweite ist abhängig von der <strong>Antennenhöhe</strong>.",
+      "keywords": [
+        "UKW",
+        "20 bis 30 sm",
+        "Antennenhöhe"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q09",
+      "fragebogen": 3,
+      "number": 9,
+      "question": "Wie kann die Reichweite eines AIS-Bordgerätes landseitig erhöht werden und wie wirken sich dabei Hindernisse (z. B. Berge) aus?",
+      "answer": "Unter bestimmten Umständen kann die Reichweite heraufgesetzt werden (z. B. mit Hilfe von „Relaisstationen“), wobei ggf. auch abschattende Hindernisse umgangen werden können.",
+      "answer_html": "Unter bestimmten Umständen kann die Reichweite heraufgesetzt werden (z. B. mit Hilfe von „<strong>Relaisstationen</strong>“), wobei ggf. auch abschattende Hindernisse <strong>umgangen</strong> werden können.",
+      "keywords": [
+        "Relaisstationen",
+        "umgangen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q10",
+      "fragebogen": 3,
+      "number": 10,
+      "question": "Die KVR regeln u. a. das Verhalten der Schiffsführungen bei Kollisionsgefahr. Was ist im Rahmen der Verantwortlichkeit bei der Auslegung und Befolgung der KVR zu berücksichtigen?",
+      "answer": "Bei der Auslegung und Befolgung der KVR sind stets alle Gefahren der Schifffahrt und des Zusammenstoßes sowie alle besonderen Umstände einschließlich Behinderungen der betroffenen Fahrzeuge gebührend zu berücksichtigen, die zum Abwenden unmittelbarer Gefahr ggf. auch ein Abweichen von diesen Regeln erfordern können (z. B. Abweichen von der Kurshaltepflicht, wenn der Ausweichpflichtige nicht angemessen handelt).",
+      "answer_html": "Bei der Auslegung und Befolgung der KVR sind stets <strong>alle Gefahren der Schifffahrt und des Zusammenstoßes</strong> sowie <strong>alle besonderen Umstände</strong> einschließlich Behinderungen der betroffenen Fahrzeuge gebührend zu berücksichtigen, die zum <strong>Abwenden unmittelbarer Gefahr</strong> ggf. auch ein <strong>Abweichen von diesen Regeln erfordern können</strong> (z. B. Abweichen von der Kurshaltepflicht, wenn der Ausweichpflichtige nicht angemessen handelt).",
+      "keywords": [
+        "alle Gefahren der Schifffahrt und des Zusammenstoßes",
+        "alle besonderen Umstände",
+        "Abwenden unmittelbarer Gefahr",
+        "Abweichen von diesen Regeln erfordern können"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q11",
+      "fragebogen": 3,
+      "number": 11,
+      "question": "Sie sehen am Tage ein Fahrzeug, augenscheinlich kürzer als 50 m, mit dem Sichtzeichen „schwarzer Rhombus“, dahinter in gleichbleibendem Abstand ein weiteres Fahrzeug mit dem gleichen Signalkörper. 1. Worum handelt es sich? 2. Wie sind die Fahrzeuge bei Nacht gekennzeichnet?",
+      "answer": "1. Es handelt sich um einen Schleppverband länger als 200 m (Heck des Schleppers – Heck des Anhangs). 2. Der Schlepper führt nachts drei weiße Topplichter senkrecht übereinander, Seitenlichter, Hecklicht und das gelbe Schlepplicht über dem Hecklicht. Der Anhang führt Seitenlichter und Hecklicht.",
+      "answer_html": "1. Es handelt sich um einen <strong>Schleppverband länger als 200 m</strong> (Heck des Schleppers – Heck des Anhangs).<br>2. Der Schlepper führt <strong>nachts drei weiße Topplichter</strong> senkrecht übereinander, <strong>Seitenlichter, Hecklicht und das gelbe Schlepplicht</strong> über dem Hecklicht. Der Anhang führt <strong>Seitenlichter und Hecklicht</strong>.",
+      "keywords": [
+        "Schleppverband länger als 200 m",
+        "nachts drei weiße Topplichter",
+        "Seitenlichter, Hecklicht und das gelbe Schlepplicht",
+        "Seitenlichter und Hecklicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q12",
+      "fragebogen": 3,
+      "number": 12,
+      "question": "Was bestimmen die KVR über das Ausguckhalten?",
+      "answer": "Es muss jederzeit durch Sehen und Hören sowie durch jedes andere verfügbare Mittel gehöriger Ausguck gehalten werden, der einen vollständigen Überblick über die Lage und die Möglichkeit der Gefahr eines Zusammenstoßes gibt.",
+      "answer_html": "Es muss <strong>jederzeit</strong> durch <strong>Sehen</strong> und <strong>Hören</strong> sowie durch <strong>jedes andere verfügbare Mittel</strong> gehöriger Ausguck gehalten werden, der einen <strong>vollständigen Überblick über die Lage</strong> und die Möglichkeit der Gefahr eines Zusammenstoßes gibt.",
+      "keywords": [
+        "jederzeit",
+        "Sehen",
+        "Hören",
+        "jedes andere verfügbare Mittel",
+        "vollständigen Überblick über die Lage"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q13",
+      "fragebogen": 3,
+      "number": 13,
+      "question": "Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes Fahrzeug direkt auf sich zukommen. Welche Maßnahmen hat die Motoryacht zu ergreifen?",
+      "answer": "Ein Fahrzeug von weniger als 12 m Länge, das die zwei roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen: 1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z. B. über UKWSprechfunk oder durch ein Schallsignal oder das Lichtsignal lang-kurz-kurz. 2. Bei weiterer Annäherung das andere Fahrzeug mit einer starken Handlampe anleuchten und so auf sich aufmerksam machen. 3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann. 4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“. 5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).",
+      "answer_html": "Ein Fahrzeug von weniger als 12 m Länge, <strong>das die zwei roten Rundumlichter senkrecht übereinander nicht führt</strong>, muss folgende Maßnahmen ergreifen: 1. Durch <strong>jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist</strong>, z. B. über UKWSprechfunk oder durch ein Schallsignal oder das Lichtsignal lang-kurz-kurz.<br>2. Bei weiterer Annäherung das andere Fahrzeug mit einer <strong>starken Handlampe anleuchten</strong> und so auf sich aufmerksam machen.<br>3. Führen eines <strong>weißen Rundumlichtes</strong>, das mit keinem anderen Licht verwechselt werden kann.<br>4. Abfeuern eines Signals <strong>„weißer Stern“ oder „Blitz-Knall“</strong>.<br>5. Sofort bei Eintritt der Manövrierunfähigkeit <strong>Verkehrszentrale informieren</strong> (wenn vorhanden).",
+      "keywords": [
+        "das die zwei roten Rundumlichter senkrecht übereinander nicht führt",
+        "jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist",
+        "starken Handlampe anleuchten",
+        "weißen Rundumlichtes",
+        "„weißer Stern“ oder „Blitz-Knall“",
+        "Verkehrszentrale informieren"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q14",
+      "fragebogen": 3,
+      "number": 14,
+      "question": "Auf der Elbe hören Sie nachts vor sich von einem Fahrzeug, das zusätzlich zu seinen Fahrtlichtern ein rotes Rundumlicht führt, fortwährend das Schallsignal kurz-lang. Um welches Schallsignal handelt es sich, wann ist es zu geben und wie verhalten Sie sich?",
+      "answer": "Es handelt sich um das Bleib-weg-Signal, das von einem Fahrzeug gegeben wird, bei dem bestimmte gefährliche Güter oder radioaktive Stoffe frei werden oder drohen frei zu werden oder es besteht Explosionsgefahr. Man hat sich mit seinem Fahrzeug möglichst weit von dem anderen Fahrzeug zu entfernen (sicherer Abstand) und darf keine elektrischen Schalter bedienen. Kein offenes Feuer.",
+      "answer_html": "Es handelt sich um das <strong>Bleib-weg-Signal</strong>, das von einem Fahrzeug gegeben wird, bei dem bestimmte <strong>gefährliche Güter oder radioaktive Stoffe</strong> frei werden oder drohen frei zu werden oder es besteht <strong>Explosionsgefahr</strong>. Man hat sich mit seinem Fahrzeug <strong>möglichst weit von dem anderen Fahrzeug zu entfernen</strong> (sicherer Abstand) und darf <strong>keine elektrischen Schalter</strong> bedienen. <strong>Kein offenes Feuer</strong>.",
+      "keywords": [
+        "Bleib-weg-Signal",
+        "gefährliche Güter oder radioaktive Stoffe",
+        "Explosionsgefahr",
+        "möglichst weit von dem anderen Fahrzeug zu entfernen",
+        "keine elektrischen Schalter",
+        "Kein offenes Feuer"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q15",
+      "fragebogen": 3,
+      "number": 15,
+      "question": "Was versteht man unter dem Begriff „Basislinie“ und wo finden Sie diese?",
+      "answer": "Als Basislinie bezeichnet man die Grenze zwischen den inneren Gewässern (eines Staates) und dem Küstenmeer. Basislinien sind in Seekarten eingezeichnet.",
+      "answer_html": "Als Basislinie bezeichnet man die <strong>Grenze zwischen den inneren Gewässern</strong> (eines Staates) und dem <strong>Küstenmeer</strong>. Basislinien sind in <strong>Seekarten</strong> eingezeichnet.",
+      "keywords": [
+        "Grenze zwischen den inneren Gewässern",
+        "Küstenmeer",
+        "Seekarten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q16",
+      "fragebogen": 3,
+      "number": 16,
+      "question": "Wie ist auf Sportfahrzeugen mit ölhaltigem Bilgenwasser zu verfahren, wenn die Bedingungen, unter denen nach MARPOL das Lenzen zulässig ist, nicht eingehalten werden können?",
+      "answer": "Es muss im Hafen entsorgt werden.",
+      "answer_html": "Es muss <strong>im Hafen entsorgt</strong> werden.",
+      "keywords": [
+        "im Hafen entsorgt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q17",
+      "fragebogen": 3,
+      "number": 17,
+      "question": "Welche Gefahren kann ein Gewitter mit sich bringen?",
+      "answer": "1. Böen bis Orkanstärke, 2. plötzliche Winddrehungen, 3. Regen- oder Hagelschauer mit zum Teil starker Sichtminderung, 4. Blitzschlag.",
+      "answer_html": "1. <strong>Böen</strong> bis Orkanstärke,<br>2. plötzliche <strong>Winddrehungen</strong>,<br>3. <strong>Regen- oder Hagelschauer</strong> mit zum Teil starker Sichtminderung,<br>4. <strong>Blitz</strong>schlag.",
+      "keywords": [
+        "Böen",
+        "Winddrehungen",
+        "Regen- oder Hagelschauer",
+        "Blitz"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q18",
+      "fragebogen": 3,
+      "number": 18,
+      "question": "Was lässt sich aus der Darstellung der Isobaren in einer Wetterkarte erkennen?",
+      "answer": "Windrichtung und Druckgefälle; je enger sie liegen, desto größer ist das Druckgefälle und desto stärker ist der Wind.",
+      "answer_html": "<strong>Windrichtung</strong> und <strong>Druckgefälle</strong>; je enger sie liegen, desto größer ist das Druckgefälle und desto stärker ist der Wind.",
+      "keywords": [
+        "Windrichtung",
+        "Druckgefälle"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q19",
+      "fragebogen": 3,
+      "number": 19,
+      "question": "Welche lokalen Effekte, die das vorherrschende Windfeld stark verändern, können in Seewetterberichten nur eingeschränkt berücksichtigt werden?",
+      "answer": "U. a. Land-/Seewind-Zirkulation, Düsen- und Kapeffekte.",
+      "answer_html": "U. a. <strong>Land-/Seewind</strong>-Zirkulation, <strong>Düsen- und Kap</strong>effekte.",
+      "keywords": [
+        "Land-/Seewind",
+        "Düsen- und Kap"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q20",
+      "fragebogen": 3,
+      "number": 20,
+      "question": "Sie hören am Ende eines Seewetterberichts die Stationsmeldungen. Was sagen Windrichtung und Windgeschwindigkeit gegenüber den Verhältnissen auf See aus?",
+      "answer": "Durch die Umgebung der Wetterstation kann die Windrichtung verfälscht werden. Die Windgeschwindigkeit ist meist reduziert, in Einzelfällen auch erhöht.",
+      "answer_html": "Durch die Umgebung der Wetterstation kann die <strong>Windrichtung verfälscht</strong> werden. Die <strong>Windgeschwindigkeit ist meist reduziert</strong>, in Einzelfällen auch erhöht.",
+      "keywords": [
+        "Windrichtung verfälscht",
+        "Windgeschwindigkeit ist meist reduziert"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q21",
+      "fragebogen": 3,
+      "number": 21,
+      "question": "1. Wie entsteht Warmwassernebel? 2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?",
+      "answer": "1. Kalte Luft strömt über warmes Wasser. Durch Verdunstung an der Wasseroberfläche kommt es bei hoher Differenz zwischen der Luft- und Wassertemperatur zur Feuchtesättigung. 2. Überwiegend im Herbst.",
+      "answer_html": "1. <strong>Kalte Luft strömt über warmes Wasser</strong>. Durch Verdunstung an der Wasseroberfläche kommt es bei hoher Differenz zwischen der Luft- und Wassertemperatur zur <strong>Feuchtesättigung</strong>.<br>2. Überwiegend im <strong>Herbst</strong>.",
+      "keywords": [
+        "Kalte Luft strömt über warmes Wasser",
+        "Feuchtesättigung",
+        "Herbst"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q22",
+      "fragebogen": 3,
+      "number": 22,
+      "question": "Warum ist Flüssiggas (Propan, Butan) an Bord einer Yacht besonders gefährlich?",
+      "answer": "Es ist schwerer als Luft, sinkt nach unten und bildet mit Luft ein explosives Gemisch; es kann sich im Schiffsinneren (z. B. in der Bilge) sammeln.",
+      "answer_html": "Es ist <strong>schwerer als Luft</strong>, sinkt nach unten und bildet <strong>mit Luft ein explosives Gemisch</strong>; es kann sich im Schiffsinneren (z. B. <strong>in der Bilge</strong>) sammeln.",
+      "keywords": [
+        "schwerer als Luft",
+        "mit Luft ein explosives Gemisch",
+        "in der Bilge"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q23",
+      "fragebogen": 3,
+      "number": 23,
+      "question": "Wovon hängt eine in ruhigem Wasser vorhandene Stabilität zusätzlich in schwerem Wetter ab?",
+      "answer": "Die Stabilität in schwerem Wetter hängt zusätzlich von Wind und Seegang, besonders von brechenden Wellen ab.",
+      "answer_html": "Die Stabilität in schwerem Wetter hängt zusätzlich von <strong>Wind und Seegang</strong>, besonders von <strong>brechenden Wellen</strong> ab.",
+      "keywords": [
+        "Wind und Seegang",
+        "brechenden Wellen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q24",
+      "fragebogen": 3,
+      "number": 24,
+      "question": "Erklären Sie mit Hilfe eines Vektorparallelogramms aus „wahrem Wind (wW)“, „Fahrtwind (Fw)“ und „scheinbarem Wind (sW)“, warum beim Einfallen einer Bö (Windzunahme) der „scheinbare Wind“ raumt. Welcher Vorteil ergibt sich dadurch beim Kreuzen? (Zeichnung!)",
+      "answer": "Verhältnisse vor Einfall der Bö Verhältnisse bei Einfall der Bö: Der „scheinbare Wind“ fällt etwas achterlicher ein, er „raumt“, und das Segelboot kann etwas höher an den „wahren Wind“ gehen.",
+      "answer_html": "Verhältnisse vor Einfall der Bö Verhältnisse bei Einfall der Bö: Der „scheinbare Wind“ fällt etwas achterlicher ein, er „raumt“, und das Segelboot kann etwas höher an den „wahren Wind“ gehen.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": [
+        "fb03-q24-a1.png"
+      ]
+    },
+    {
+      "id": "fb03-q25",
+      "fragebogen": 3,
+      "number": 25,
+      "question": "Wozu dient das Wendegetriebe eines Motors?",
+      "answer": "1. Zum Ein- und Auskuppeln des Propellers, 2. zum Umsteuern des Propellers auf Rückwärtsfahrt, 3. zur Drehzahluntersetzung.",
+      "answer_html": "1. Zum <strong>Ein- und Auskuppeln</strong> des Propellers,<br>2. zum Umsteuern des Propellers auf <strong>Rückwärts</strong>fahrt,<br>3. zur Drehzahl<strong>untersetzung</strong>.",
+      "keywords": [
+        "Ein- und Auskuppeln",
+        "Rückwärts",
+        "untersetzung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q26",
+      "fragebogen": 3,
+      "number": 26,
+      "question": "Wie können Sie mit Hilfe von zwei Fendern und einem Fenderbrett Ihr Boot festmachen, wenn die Ergänzen Sie die Skizze mit Leinen.",
+      "answer": "",
+      "answer_html": "",
+      "keywords": [],
+      "question_images": [
+        "fb03-q26-q1.png"
+      ],
+      "answer_images": [
+        "fb03-q26-a1.png"
+      ]
+    },
+    {
+      "id": "fb03-q27",
+      "fragebogen": 3,
+      "number": 27,
+      "question": "Wie können Sie im freien Seeraum auf einer Segelyacht einen Sturm abwettern?",
+      "answer": "1. Durch Beiliegen; Lenzen vor Topp und Takel, dabei Leinen achteraus schleppen; Liegen vor Treibanker oder 2. unter Sturmbesegelung aktiv segelnd und nach Möglichkeit brechende Seen aussteuernd.",
+      "answer_html": "1. Durch <strong>Beiliegen; Lenzen vor Topp und Takel</strong>, dabei Leinen achteraus schleppen; Liegen vor <strong>Treibanker</strong> oder<br>2. unter Sturmbesegelung <strong>aktiv segelnd</strong> und nach Möglichkeit brechende Seen aussteuernd.",
+      "keywords": [
+        "Beiliegen; Lenzen vor Topp und Takel",
+        "Treibanker",
+        "aktiv segelnd"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q28",
+      "fragebogen": 3,
+      "number": 28,
+      "question": "Welche Feuerlöscheinrichtungen sollten an Bord vorhanden sein?",
+      "answer": "1. Feuerlöscher (ABC-Pulverlöscher und eventuell CO2-Löscher), 2. Pütz zum Löschen von Bränden fester Stoffe, 3. Feuer löschdecke, 4. Löschdurchlass für geschlossene Motorräume, der das Löschen von Bränden mit CO2-Löschern ohne Sauerstoffzutritt ermöglicht.",
+      "answer_html": "1. <strong>Feuerlöscher (ABC-Pulverlöscher und eventuell CO2-Löscher),</strong><br><strong>2. Pütz</strong> zum Löschen von Bränden fester Stoffe,<br>3. Feuer <strong>löschdecke</strong>,<br>4. <strong>Löschdurchlass für geschlossene Motorräume</strong>, der das Löschen von Bränden mit CO2-Löschern ohne Sauerstoffzutritt ermöglicht.",
+      "keywords": [
+        "Feuerlöscher (ABC-Pulverlöscher und eventuell CO2-Löscher)",
+        "2. Pütz",
+        "löschdecke",
+        "Löschdurchlass für geschlossene Motorräume"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q29",
+      "fragebogen": 3,
+      "number": 29,
+      "question": "Wann dürfen Notzeichen gegeben werden?",
+      "answer": "Nach Feststellung des Notfalles auf Anordnung des Schiffsführers; bei unmittelbarer Gefahr für das Schiff oder die Besatzung, die ohne fremde Hilfe nicht überwunden werden kann.",
+      "answer_html": "Nach Feststellung des Notfalles auf <strong>Anordnung des Schiffsführers</strong>; bei <strong>unmittelbarer Gefahr für das Schiff oder die Besatzung, die ohne fremde Hilfe nicht</strong> überwunden werden kann.",
+      "keywords": [
+        "Anordnung des Schiffsführers",
+        "unmittelbarer Gefahr für das Schiff oder die Besatzung, die ohne fremde Hilfe nicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb03-q30",
+      "fragebogen": 3,
+      "number": 30,
+      "question": "Was müssen Sie bedenken, wenn ein großes Schiff auf Ihr Sportboot zukommt?",
+      "answer": "1. Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken), 2. u. U. eingeschränkte Sicht des anderen Fahrzeugs, insbesondere nach voraus, 3. Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet, 4. Beeinträchtigung durch Bugwellen des großen Schiffes, 5. mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung.",
+      "answer_html": "1. Andere <strong>Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken)</strong>,<br>2. u. U. <strong>eingeschränkte Sicht</strong> des anderen Fahrzeugs, insbesondere nach voraus,<br>3. Möglichkeit des Übersehenwerdens, weil man sich im <strong>Radarschatten</strong> befindet,<br>4. Beeinträchtigung durch <strong>Bugwellen</strong> des großen Schiffes,<br>5. mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch <strong>Windabdeckung</strong>.",
+      "keywords": [
+        "Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken)",
+        "eingeschränkte Sicht",
+        "Radarschatten",
+        "Bugwellen",
+        "Windabdeckung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

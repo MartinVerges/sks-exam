@@ -1,0 +1,461 @@
+{
+  "fragebogen": 12,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb12-q01",
+      "fragebogen": 12,
+      "number": 1,
+      "question": "Was bedeutet der Stempel auf der britischen Seekarte: Corrected up to N.T.M. 3595 1998?",
+      "answer": "Seekarte ist berichtigt bis zur Mitteilung Nr. 3595 der Admiralty Notices to Mariners (N.T.M.) in 1998.",
+      "answer_html": "Seekarte ist <strong>berichtigt bis</strong> zur <strong>Mitteilung Nr. 3595</strong> der Admiralty Notices to Mariners <strong>(N.T.M.) in 1998</strong>.",
+      "keywords": [
+        "berichtigt bis",
+        "Mitteilung Nr. 3595",
+        "(N.T.M.) in 1998"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q02",
+      "fragebogen": 12,
+      "number": 2,
+      "question": "In welchem Quadranten liegt der rote Warnsektor eines Leitfeuers mit der Angabe rot 030°–042°? (Begründung!)",
+      "answer": "Im Südwest- Quadranten. Angegeben sind die Peilungen zum Leuchtfeuer.",
+      "answer_html": "Im <strong>Südwest-</strong> Quadranten. Angegeben sind die <strong>Peilungen zum</strong> Leuchtfeuer.",
+      "keywords": [
+        "Südwest-",
+        "Peilungen zum"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q03",
+      "fragebogen": 12,
+      "number": 3,
+      "question": "Wo sind die in Seekarten verwendeten Symbole und Abkürzungen erklärt?",
+      "answer": "In der Karte 1/INT 1 des BSH.",
+      "answer_html": "In der <strong>Karte 1/INT 1</strong> des BSH.",
+      "keywords": [
+        "Karte 1/INT 1"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q04",
+      "fragebogen": 12,
+      "number": 4,
+      "question": "Welche Fahrt zeigen GPS-Geräte an?",
+      "answer": "Die Fahrt über Grund (FüG).",
+      "answer_html": "Die Fahrt über Grund (<strong>FüG</strong>).",
+      "keywords": [
+        "FüG"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q05",
+      "fragebogen": 12,
+      "number": 5,
+      "question": "Warum muss für jedes Fahrzeug eine eigene Ablenkungstabelle (Steuertafel) erstellt werden?",
+      "answer": "Die Ablenkungstabelle kann auf jedem Schiff andere Werte haben.",
+      "answer_html": "Die Ablenkungstabelle <strong>kann auf jedem</strong> Schiff <strong>andere Werte</strong> haben.",
+      "keywords": [
+        "kann auf jedem",
+        "andere Werte"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q06",
+      "fragebogen": 12,
+      "number": 6,
+      "question": "Was ist die Kartentiefe?",
+      "answer": "Die Kartentiefe (KT) ist die auf Kartennull bezogene Wassertiefe. Kartentiefe ist Wassertiefe abzüglich Höhe der Gezeit. (KT = WT - HdG)",
+      "answer_html": "Die Kartentiefe (KT) ist die <strong>auf Kartennull bezogene</strong> Wassertiefe. Kartentiefe ist Wassertiefe abzüglich Höhe der Gezeit. (<strong>KT = WT - HdG</strong>)",
+      "keywords": [
+        "auf Kartennull bezogene",
+        "KT = WT - HdG"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q07",
+      "fragebogen": 12,
+      "number": 7,
+      "question": "Welchen Einfluss kann der Wind auf die Gezeiten haben?",
+      "answer": "Der Wind kann Strömungen und Wasserstandsänderungen hervorrufen, die zu den Gezeitenströmen und den Gezeiten hinzutreten.",
+      "answer_html": "Der Wind <strong>kann Strömungen und Wasserstandsänderungen</strong> hervorrufen, die <strong>zu den Gezeitenströmen und den Gezeiten</strong> hinzutreten.",
+      "keywords": [
+        "kann Strömungen und Wasserstandsänderungen",
+        "zu den Gezeitenströmen und den Gezeiten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q08",
+      "fragebogen": 12,
+      "number": 8,
+      "question": "Welche Aufgaben hat AIS?",
+      "answer": "Alle ausgerüsteten Schiffe senden automatisch (also ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen Abständen ihre Identität und einen schiffsbezogenen Datensatz. Außerdem können bei Bedarf sicherheitsrelevante Nachrichten („safety related messages“) von Bord oder von Landstationen gesendet werden.",
+      "answer_html": "Alle ausgerüsteten Schiffe senden <strong>automatisch</strong> (also ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen Abständen <strong>ihre Identität und einen schiffsbezogenen Datensatz</strong>. Außerdem können bei Bedarf <strong>sicherheitsrelevante Nachrichten („safety related messages“)</strong> von Bord oder von Landstationen gesendet werden.",
+      "keywords": [
+        "automatisch",
+        "ihre Identität und einen schiffsbezogenen Datensatz",
+        "sicherheitsrelevante Nachrichten („safety related messages“)"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q09",
+      "fragebogen": 12,
+      "number": 9,
+      "question": "Was beeinflusst die Ablenkung eines Kompasses dauerhaft?",
+      "answer": "Veränderung des magnetischen Zustandes an Bord, z. B. Einbauten und Lageänderung von Ausrüstungsgegenständen.",
+      "answer_html": "Veränderung des <strong>magnetischen Zustandes</strong> an Bord, z. B. <strong>Einbauten</strong> und Lageänderung von <strong>Ausrüstungsgegenständen</strong>.",
+      "keywords": [
+        "magnetischen Zustandes",
+        "Einbauten",
+        "Ausrüstungsgegenständen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q10",
+      "fragebogen": 12,
+      "number": 10,
+      "question": "Was ist ein „manövrierbehindertes Fahrzeug“?",
+      "answer": "Manövrierbehindert ist ein Fahrzeug, das durch die Art seines Einsatzes behindert ist (z. B. Bagger, Kabelleger), regelgerecht zu manövrieren, und daher einem anderen Fahrzeug nicht ausweichen kann.",
+      "answer_html": "Manövrierbehindert ist ein Fahrzeug, das <strong>durch die Art seines Einsatzes behindert</strong> ist (z. B. Bagger, Kabelleger), <strong>regelgerecht zu manövrieren</strong>, und daher einem anderen Fahrzeug <strong>nicht ausweichen kann</strong>.",
+      "keywords": [
+        "durch die Art seines Einsatzes behindert",
+        "regelgerecht zu manövrieren",
+        "nicht ausweichen kann"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q11",
+      "fragebogen": 12,
+      "number": 11,
+      "question": "Wie ist die Gefahr eines Zusammenstoßes sicher erkennbar?",
+      "answer": "Wenn die Kompasspeilung zu einem anderen Fahrzeug steht und sie sich einander nähern.",
+      "answer_html": "Wenn die <strong>Kompasspeilung</strong> zu einem anderen Fahrzeug <strong>steht</strong> und sie <strong>sich einander nähern</strong>.",
+      "keywords": [
+        "Kompasspeilung",
+        "steht",
+        "sich einander nähern"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q12",
+      "fragebogen": 12,
+      "number": 12,
+      "question": "1. Wie muss sich ein Sportfahrzeug gegenüber einem tiefgangbehinderten Fahrzeug verhalten? 2. Schlagen Sie entsprechende Maßnahmen/Manöver vor.",
+      "answer": "1. Das Sportfahrzeug muss vermeiden, die sichere Durchfahrt eines tiefgangbehinderten Fahrzeugs zu behindern. 2. Dieses kann durch eine frühzeitige Kursänderung, Geschwindigkeitsänderung oder beides geschehen.",
+      "answer_html": "1. Das Sportfahrzeug <strong>muss vermeiden</strong>, die <strong>sichere Durchfahrt</strong> eines tiefgangbehinderten Fahrzeugs <strong>zu behindern</strong>.<br>2. Dieses kann durch eine <strong>frühzeitige Kursänderung, Geschwindigkeitsänderung</strong> oder beides geschehen.",
+      "keywords": [
+        "muss vermeiden",
+        "sichere Durchfahrt",
+        "zu behindern",
+        "frühzeitige Kursänderung, Geschwindigkeitsänderung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q13",
+      "fragebogen": 12,
+      "number": 13,
+      "question": "Welche verkehrsrechtliche Verantwortung hat der Schiffsführer?",
+      "answer": "1. Befolgung der Vorschriften im Verkehr, u. a. KVR, SeeSchStrO. 2. Ausrüstung/Einrichtung seines Fahrzeugs zum Führen und Zeigen von Lichtern und Signalkörpern und Geben von Schallsignalen.",
+      "answer_html": "1. Befolgung der <strong>Vorschriften</strong> im Verkehr, u. a. <strong>KVR, SeeSchStrO</strong>.<br>2. Ausrüstung/Einrichtung seines Fahrzeugs zum <strong>Führen und Zeigen von Lichtern und Signalkörpern</strong> und <strong>Geben von Schallsignalen</strong>.",
+      "keywords": [
+        "Vorschriften",
+        "KVR, SeeSchStrO",
+        "Führen und Zeigen von Lichtern und Signalkörpern",
+        "Geben von Schallsignalen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q14",
+      "fragebogen": 12,
+      "number": 14,
+      "question": "Wie hat sich ein in das Fahrwasser einlaufendes Fahrzeug gegenüber im Fahrwasser fahrenden Fahrzeugen zu verhalten?",
+      "answer": "Es muss die Vorfahrt der Fahrzeuge im Fahrwasser beachten, d. h., es muss warten, bis das Fahrwasser frei ist. Es muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass es warten wird.",
+      "answer_html": "Es muss die <strong>Vorfahrt</strong> der Fahrzeuge im Fahrwasser <strong>beachten</strong>, d. h., es muss <strong>warten, bis das Fahrwasser frei</strong> ist. Es muss <strong>rechtzeitig</strong> durch sein Fahrverhalten <strong>erkennen lassen</strong>, dass es <strong>warten wird</strong>.",
+      "keywords": [
+        "Vorfahrt",
+        "beachten",
+        "warten, bis das Fahrwasser frei",
+        "rechtzeitig",
+        "erkennen lassen",
+        "warten wird"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q15",
+      "fragebogen": 12,
+      "number": 15,
+      "question": "Beim Passieren von Cuxhaven sichten Sie, elbabwärts segelnd, an Ihrer Stb.-Seite die Tonne 32a. Um was für eine Tonne handelt es sich, welche Bezeichnung hat die nächste Tonne an der gleichen Seite?",
+      "answer": "Es handelt sich um eine Backbordfahrwassertonne; die nächste Tonne hat die Aufschrift 32.",
+      "answer_html": "Es handelt sich um eine <strong>Backbordfahrwassertonne</strong>; die nächste Tonne hat die Aufschrift <strong>32</strong>.",
+      "keywords": [
+        "Backbordfahrwassertonne",
+        "32"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q16",
+      "fragebogen": 12,
+      "number": 16,
+      "question": "Welche Befahrensregelungen gelten für die Schutzzonen I in den Nationalparks im Deutschen Wattenmeer außerhalb der speziellen Schutzgebiete?",
+      "answer": "Das Verlassen der Fahrwasser zwischen 3 h nach Hochwasser und 3 h vor dem folgenden Hochwasser ist untersagt. In der übrigen Zeit beträgt für Sportfahrzeuge die Höchstgeschwindigkeit außerhalb des Fahrwassers 8 kn und generell im Fahrwasser 12 kn.",
+      "answer_html": "Das Verlassen der Fahrwasser <strong>zwischen 3 h nach Hochwasser</strong> und <strong>3 h vor dem folgenden Hochwasser ist untersagt</strong>. In der übrigen Zeit beträgt für Sportfahrzeuge die <strong>Höchstgeschwindigkeit außerhalb</strong> des Fahrwassers <strong>8 kn</strong> und generell <strong>im</strong> Fahrwasser <strong>12 kn</strong>.",
+      "keywords": [
+        "zwischen 3 h nach Hochwasser",
+        "3 h vor dem folgenden Hochwasser ist untersagt",
+        "Höchstgeschwindigkeit außerhalb",
+        "8 kn",
+        "im",
+        "12 kn"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q17",
+      "fragebogen": 12,
+      "number": 17,
+      "question": "Wann entstehen besonders starke Gewitter?",
+      "answer": "Besonders zum Ende einer hochsommerlichen Schönwetterperiode im Zusammenhang mit Kaltfronten.",
+      "answer_html": "Besonders zum <strong>Ende einer hochsommerlichen Schönwetterperiode</strong> im Zusammenhang mit <strong>Kaltfronten</strong>.",
+      "keywords": [
+        "Ende einer hochsommerlichen Schönwetterperiode",
+        "Kaltfronten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q18",
+      "fragebogen": 12,
+      "number": 18,
+      "question": "Wie verhält sich der Wind in Bodennähe auf der Nordhalbkugel zwischen Hoch- und Tiefdruckgebieten?",
+      "answer": "Er weht rechtsherum aus dem Hochdruckzentrum heraus und linksherum in den Tief druckkern hinein.",
+      "answer_html": "Er weht <strong>rechtsherum aus</strong> dem <strong>Hochdruck</strong>zentrum heraus und <strong>linksherum in</strong> den <strong>Tief</strong> druckkern <strong>hinein</strong>.",
+      "keywords": [
+        "rechtsherum aus",
+        "Hochdruck",
+        "linksherum in",
+        "Tief",
+        "hinein"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q19",
+      "fragebogen": 12,
+      "number": 19,
+      "question": "Wo bilden sich Tröge um ein Tiefdruckgebiet?",
+      "answer": "Auf der Rückseite von Tief druckgebieten in hochreichender Kaltluft. Ein Trog folgt typischerweise einer Kaltfront.",
+      "answer_html": "Auf der <strong>Rückseite</strong> von <strong>Tief</strong> druckgebieten in hochreichender Kaltluft. Ein Trog <strong>folgt</strong> typischerweise <strong>einer Kaltfront</strong>.",
+      "keywords": [
+        "Rückseite",
+        "Tief",
+        "folgt",
+        "einer Kaltfront"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q20",
+      "fragebogen": 12,
+      "number": 20,
+      "question": "1. Wann werden Starkwindwarnungen verbreitet? 2. Welche Bezeichnung hat die Starkwindwarnung im internationalen Sprachgebrauch?",
+      "answer": "1. Bei erwarteten oder noch andauernden Windstärken zwischen 6 und 7 Bft. 2. Near-gale warning.",
+      "answer_html": "1. Bei erwarteten oder noch andauernden Windstärken zwischen <strong>6 und 7 Bft</strong>.<br>2. <strong>Near-gale warning</strong>.",
+      "keywords": [
+        "6 und 7 Bft",
+        "Near-gale warning"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q21",
+      "fragebogen": 12,
+      "number": 21,
+      "question": "1. Wie entsteht Strahlungsnebel? 2. Wo ist diese Nebelart anzutreffen?",
+      "answer": "1. Nach Sonnenuntergang kann sich bei klarem Himmel die bodennahe Luftschicht über Land unter den Taupunkt abkühlen. 2. Besonders auf Flüssen und engen Durchfahrten, außerdem durch seewärtige Windverdriftung in Küstennähe.",
+      "answer_html": "1. <strong>Nach Sonnenuntergang</strong> kann sich <strong>bei klarem Himmel</strong> die <strong>bodennahe Luftschicht über Land unter den Taupunkt</strong> abkühlen.<br>2. Besonders <strong>auf Flüssen</strong> und <strong>engen Durchfahrten</strong>, außerdem durch seewärtige <strong>Windverdriftung in Küstennähe</strong>.",
+      "keywords": [
+        "Nach Sonnenuntergang",
+        "bei klarem Himmel",
+        "bodennahe Luftschicht über Land unter den Taupunkt",
+        "auf Flüssen",
+        "engen Durchfahrten",
+        "Windverdriftung in Küstennähe"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q22",
+      "fragebogen": 12,
+      "number": 22,
+      "question": "Welchen Vorteil hat die Sandwichbauweise gegenüber der Massivbauweise bei GFK-Yachten (GFK = glasfaserverstärkter Kunststoff)?",
+      "answer": "Große Steifheit, Verwindungsfestigkeit, geringes Gewicht, gute Isolierung.",
+      "answer_html": "Große <strong>Steifheit</strong>, <strong>Verwindungsfestigkeit</strong>, <strong>geringes Gewicht</strong>, gute <strong>Isolierung</strong>.",
+      "keywords": [
+        "Steifheit",
+        "Verwindungsfestigkeit",
+        "geringes Gewicht",
+        "Isolierung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q23",
+      "fragebogen": 12,
+      "number": 23,
+      "question": "Was sollte auf jeder Yacht außer Festmacherleinen, Fallen und Schoten an Tauwerk vorhanden sein?",
+      "answer": "Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine.",
+      "answer_html": "<strong>Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine</strong>.",
+      "keywords": [
+        "Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q24",
+      "fragebogen": 12,
+      "number": 24,
+      "question": "Welche Funktion hat ein Unterliekstrecker und wie kann mit dem Unterliekstrecker der Trimm des Großsegels beeinflusst werden?",
+      "answer": "Er reguliert die Spannung des Unterlieks. Je nach Zugkraft wird der untere Teil des Großsegels flacher oder bauchiger.",
+      "answer_html": "Er reguliert die <strong>Spannung</strong> des <strong>Unterlieks</strong>. Je nach Zugkraft wird der untere Teil des <strong>Großsegels flacher oder bauchiger</strong>.",
+      "keywords": [
+        "Spannung",
+        "Unterlieks",
+        "Großsegels flacher oder bauchiger"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q25",
+      "fragebogen": 12,
+      "number": 25,
+      "question": "Wozu dienen „Opferanoden“ und wann sollten sie ausgewechselt werden?",
+      "answer": "Sie dienen dem Schutz gegen Schäden durch Elektrolyse. Verbrauchte Anoden müssen nach einer Saison ersetzt werden, nicht erst wenn sie verbraucht sind.",
+      "answer_html": "Sie dienen dem <strong>Schutz gegen</strong> Schäden durch <strong>Elektrolyse</strong>. Verbrauchte <strong>Anoden</strong> müssen <strong>nach einer Saison ersetzt</strong> werden, nicht erst wenn sie verbraucht sind.",
+      "keywords": [
+        "Schutz gegen",
+        "Elektrolyse",
+        "Anoden",
+        "nach einer Saison ersetzt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q26",
+      "fragebogen": 12,
+      "number": 26,
+      "question": "Was müssen Sie hinsichtlich der Festigkeit bedenken, wenn Sie Leinen zusammenknoten?",
+      "answer": "Beim Knoten können Festigkeitsverluste bis zu 50 % auftreten.",
+      "answer_html": "Beim Knoten können <strong>Festigkeitsverluste bis zu 50 %</strong> auftreten.",
+      "keywords": [
+        "Festigkeitsverluste bis zu 50 %"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q27",
+      "fragebogen": 12,
+      "number": 27,
+      "question": "Sie übernehmen in einem Hafen eine Ihnen unbekannte Yacht. Wie machen Sie sich zu Reisebeginn mit den Segeleigenschaften vertraut?",
+      "answer": "Ich fahre diverse Manöver – Wende, Halse, Q-Wende, verschiedene Rettungsmanöver – mit unterschiedlicher Geschwindigkeit und Besegelung.",
+      "answer_html": "Ich fahre diverse Manöver – <strong>Wende, Halse, Q-Wende</strong>, verschiedene <strong>Rettungsmanöver</strong> – mit <strong>unterschiedlicher Geschwindigkeit und Besegelung</strong>.",
+      "keywords": [
+        "Wende, Halse, Q-Wende",
+        "Rettungsmanöver",
+        "unterschiedlicher Geschwindigkeit und Besegelung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q28",
+      "fragebogen": 12,
+      "number": 28,
+      "question": "Was gehört u. a. zur Sicherheitsausrüstung z. B. einer 10-m-Yacht? Nennen Sie mindestens 6 Ausrüstungsgegenstände.",
+      "answer": "1. Lenzpumpen und Pützen, 2. Lecksicherungsmaterial, 3. Feuerlöscher, 4. Werkzeug und Ersatzteile, 5. Seenotsignalmittel, 6. Handlampen, 7. Funkeinrichtung, 8. Anker, 9. Erste-Hilfe-Ausrüstung, 10. Radarreflektor und 11. Rettungsmittel.",
+      "answer_html": "1. Lenzpumpen und Pützen,<br>2. Lecksicherungsmaterial,<br>3. Feuerlöscher,<br>4. Werkzeug und Ersatzteile,<br>5. Seenotsignalmittel,<br>6. Handlampen,<br>7. Funkeinrichtung,<br>8. Anker,<br>9. Erste-Hilfe-Ausrüstung,<br>10. Radarreflektor und<br>11. Rettungsmittel.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q29",
+      "fragebogen": 12,
+      "number": 29,
+      "question": "Erklären Sie die Handhabung der Hubschrauberrettungsschlinge im Einsatz!",
+      "answer": "1. Bei offener Rettungsschlinge: zuerst den Karabinerhaken einpicken. 2. Mit dem Kopf und beiden Armen in die Rettungsschlinge einsteigen. 3. Die Arme müssen nach unten gedrückt werden und die Hände sind zu schließen. 4. Das Windenseil muss frei hängen, es darf nicht an Bord befestigt werden.",
+      "answer_html": "1. Bei offener Rettungsschlinge: zuerst den <strong>Karabinerhaken einpicken</strong>.<br>2. Mit dem <strong>Kopf</strong> und <strong>beiden Armen in die Rettungsschlinge</strong> einsteigen.<br>3. Die <strong>Arme</strong> müssen <strong>nach unten</strong> gedrückt werden und die <strong>Hände</strong> sind zu <strong>schließen</strong>.<br>4. Das <strong>Windenseil</strong> muss <strong>frei hängen</strong>, es darf <strong>nicht</strong> an Bord <strong>befestigt</strong> werden.",
+      "keywords": [
+        "Karabinerhaken einpicken",
+        "Kopf",
+        "beiden Armen in die Rettungsschlinge",
+        "Arme",
+        "nach unten",
+        "Hände",
+        "schließen",
+        "Windenseil",
+        "frei hängen",
+        "nicht",
+        "befestigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb12-q30",
+      "fragebogen": 12,
+      "number": 30,
+      "question": "Welcher Ankergrund ist für die üblichen Leichtgewichtsanker 1. gut geeignet? 2. mäßig geeignet? 3. ungeeignet?",
+      "answer": "1. Sand, Schlick, weicher Ton und Lehm, 2. harter Ton und Lehm, 3. steinige, verkrautete und stark schlammige Böden.",
+      "answer_html": "1. Sand, Schlick, <strong>weicher</strong> Ton und Lehm,<br>2. <strong>harter</strong> Ton und Lehm,<br>3. <strong>steinige, verkrautete und stark schlammige</strong> Böden.",
+      "keywords": [
+        "weicher",
+        "harter",
+        "steinige, verkrautete und stark schlammige"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

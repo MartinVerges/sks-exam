@@ -1,0 +1,449 @@
+{
+  "fragebogen": 15,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb15-q01",
+      "fragebogen": 15,
+      "number": 1,
+      "question": "Wo finden Sie Angaben über die Merkmale der Schifffahrtszeichen?",
+      "answer": "1. In den Leuchtfeuerverzeichnissen bzw. in der List of Lights sowie auszugsweise in den Seekarten. 2. In der Karte 1/INT 1 des BSH. 3. Schwimmende Schifffahrtszeichen zusätzlich in der Anlage I zur SeeSchStrO (z. B. Tonnen des Lateral- bzw. Kardinalsystems).",
+      "answer_html": "1. In den <strong>Leuchtfeuerverzeichnissen</strong> bzw. in der <strong>List of Lights</strong> sowie auszugsweise in den <strong>Seekarten</strong>.<br>2. In der <strong>Karte 1/INT 1</strong> des BSH.<br>3. Schwimmende Schifffahrtszeichen zusätzlich in der <strong>Anlage I zur SeeSchStrO</strong> (z. B. Tonnen des Lateral- bzw. Kardinalsystems).",
+      "keywords": [
+        "Leuchtfeuerverzeichnissen",
+        "List of Lights",
+        "Seekarten",
+        "Karte 1/INT 1",
+        "Anlage I zur SeeSchStrO"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q02",
+      "fragebogen": 15,
+      "number": 2,
+      "question": "Wie müssen sich Tragweite und Sichtweite zueinander verhalten, damit das Verfahren zur Ortsbestimmung „Feuer in der Kimm“ angewandt werden kann?",
+      "answer": "Die Tragweite muss mindestens gleich der Sichtweite sein. ≈",
+      "answer_html": "Die <strong>Tragweite muss mindestens gleich</strong> der <strong>Sichtweite</strong> sein. <strong>≈</strong>",
+      "keywords": [
+        "Tragweite muss mindestens gleich",
+        "Sichtweite",
+        "≈"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q03",
+      "fragebogen": 15,
+      "number": 3,
+      "question": "Nach welcher Faustregel können Sie m/s in Knoten umrechnen?",
+      "answer": "Kn 2 x m/s",
+      "answer_html": "<strong>Kn 2 x m/s</strong>",
+      "keywords": [
+        "Kn 2 x m/s"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q04",
+      "fragebogen": 15,
+      "number": 4,
+      "question": "Nennen Sie die Winkel zwischen den Nordrichtungen rechtweisend Nord (rwN), missweisend Nord (mwN) und Magnetkompass-Nord (MgN).",
+      "answer": "1. Mw: Missweisung ist der Winkel von rwN nach mwN. 2. Abl: Ablenkung (Abl) oder Deviation (Dev) ist der Winkel von mwN nach MgN.",
+      "answer_html": "1. Mw: Missweisung ist der Winkel von <strong>rwN nach mwN</strong>.<br>2. Abl: Ablenkung (Abl) oder Deviation (Dev) ist der Winkel von <strong>mwN nach MgN</strong>.",
+      "keywords": [
+        "rwN nach mwN",
+        "mwN nach MgN"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q05",
+      "fragebogen": 15,
+      "number": 5,
+      "question": "Welche Farbe haben Feuer auf Sonderzeichen, wenn vorhanden?",
+      "answer": "Farbe gelb",
+      "answer_html": "Farbe <strong>gelb</strong>",
+      "keywords": [
+        "gelb"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q06",
+      "fragebogen": 15,
+      "number": 6,
+      "question": "Warum ist es in Tidengewässern wichtig, die Uhrzeit einer Lotung festzuhalten?",
+      "answer": "Um anhand der Gezeitentafel feststellen zu können, ob das Wasser steigt oder fällt.",
+      "answer_html": "Um anhand der <strong>Gezeitentafel</strong> feststellen zu können, ob das Wasser <strong>steigt</strong> oder <strong>fällt</strong>.",
+      "keywords": [
+        "Gezeitentafel",
+        "steigt",
+        "fällt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q07",
+      "fragebogen": 15,
+      "number": 7,
+      "question": "Was ist ein Wegpunkt?",
+      "answer": "Geographische Koordinaten eines anzusteuernden Punktes.",
+      "answer_html": "Geographische <strong>Koordinaten</strong> eines <strong>anzusteuernden Punktes</strong>.",
+      "keywords": [
+        "Koordinaten",
+        "anzusteuernden Punktes"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q08",
+      "fragebogen": 15,
+      "number": 8,
+      "question": "Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von Radargeräten „verschwinden“?",
+      "answer": "1. Durch Seegang und/oder Niederschlag, 2. durch falsche Bedienung, 3. durch zu große Entfernung, 4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up).",
+      "answer_html": "1. Durch <strong>Seegang und/oder Niederschlag</strong>,<br>2. durch <strong>falsche Bedienung</strong>,<br>3. durch zu <strong>große Entfernung</strong>,<br>4. durch <strong>Gieren</strong> des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up).",
+      "keywords": [
+        "Seegang und/oder Niederschlag",
+        "falsche Bedienung",
+        "große Entfernung",
+        "Gieren"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q09",
+      "fragebogen": 15,
+      "number": 9,
+      "question": "Wie ist die Genauigkeit von AIS-Daten zu beurteilen (Position und manuell eingegebene Daten)?",
+      "answer": "– Position: Mit AIS wird zusätzlich zur GPS-Position eines Schiffes die Information übertragen, ob es sich um einen GPS- oder DGPS-Ort handelt. Ist die GPS-Position eines Schiffes falsch, wird diese falsche Position auf allen anderen Schiffen angezeigt. – Manuell eingegebene Daten: Es muss damit gerechnet werden, dass Zielort, Tiefgang, Fahrtstatus u. a. falsch sind, wenn sie – z. B. aus Nachlässigkeit – nicht von der Schiffsführung aufdatiert werden.",
+      "answer_html": "– Position: Mit AIS wird zusätzlich zur GPS-Position eines Schiffes <strong>die Information übertragen, ob es sich um einen GPS- oder DGPS-Ort</strong> handelt. <strong>Ist die GPS-Position eines Schiffes falsch</strong>, wird diese falsche Position auf allen anderen Schiffen angezeigt. – Manuell eingegebene Daten: Es muss damit gerechnet werden, dass Zielort, Tiefgang, Fahrtstatus u. a. falsch sind, wenn sie – z. B. aus Nachlässigkeit – <strong>nicht von der Schiffsführung aufdatiert werden</strong>.",
+      "keywords": [
+        "die Information übertragen, ob es sich um einen GPS- oder DGPS-Ort",
+        "Ist die GPS-Position eines Schiffes falsch",
+        "nicht von der Schiffsführung aufdatiert werden"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q10",
+      "fragebogen": 15,
+      "number": 10,
+      "question": "Wie müssen Sie Ihr Fahrzeug unter Segel bei Tage und bei Nacht kennzeichnen, wenn Sie gleichzeitig mit Maschinenkraft fahren?",
+      "answer": "1. Bei Nacht Lichterführung eines Maschinenfahrzeugs entsprechender Größe, 2. bei Tage einen Kegel – Spitze unten – im Vorschiff gut sichtbar.",
+      "answer_html": "1. Bei Nacht <strong>Lichterführung</strong> eines Maschinenfahrzeugs entsprechender Größe,<br>2. bei Tage einen <strong>Kegel – Spitze unten –</strong> im Vorschiff gut sichtbar.",
+      "keywords": [
+        "Lichterführung",
+        "Kegel – Spitze unten –"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q11",
+      "fragebogen": 15,
+      "number": 11,
+      "question": "Sie segeln mit Wind von Backbord und sehen nachts in Luv ein einzelnes grünes Licht, das in stehender Peilung näher kommt. 1. Was ist das für ein Licht? 2. Wer muss ausweichen? (Begründung!)",
+      "answer": "1. Das Licht ist das Steuerbordlicht eines Segelfahrzeugs in Fahrt. 2. Ihr Fahrzeug muss als leewärtiges Fahrzeug ausweichen, weil Sie (mit Wind von Backbord segelnd) nicht erkennen können, von welcher Seite das andere Fahrzeug den Wind hat.",
+      "answer_html": "1. Das Licht ist das <strong>Steuerbordlicht eines Segelfahrzeugs</strong> in Fahrt.<br>2. Ihr Fahrzeug muss als leewärtiges Fahrzeug <strong>ausweichen</strong>, weil Sie (mit <strong>Wind von Backbord</strong> segelnd) nicht erkennen können, von welcher Seite das andere Fahrzeug den Wind hat.",
+      "keywords": [
+        "Steuerbordlicht eines Segelfahrzeugs",
+        "ausweichen",
+        "Wind von Backbord"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q12",
+      "fragebogen": 15,
+      "number": 12,
+      "question": "Auf einer Motoryacht A sieht man nachts etwa querab an Stb. ein einzelnes weißes Licht in (nahezu) stehender Kompasspeilung. Näher kommend erkennt man unterhalb des weißen Lichtes und etwas rechts (Fahrzeug B). 1. Worum handelt es sich? 2. Was müssen jeweils beide Fahrzeuge tun? (Begründung!)",
+      "answer": "1. Topplicht und später Bb.-Seitenlicht eines Maschinenfahrzeuges B von weniger als 50 m Länge in Fahrt. 2. A muss ausweichen, weil es B an seiner Stb.- Seite hat. A muss das Signal „ein kurzer Ton“ geben. 3. B muss Kurs und Geschwindigkeit beibehalten.",
+      "answer_html": "1. <strong>Topplicht</strong> und später <strong>Bb.-Seitenlicht</strong> eines <strong>Maschinenfahrzeuges</strong> B von weniger als 50 m Länge in Fahrt.<br>2. <strong>A muss ausweichen</strong>, weil es B an seiner Stb.- Seite hat. A muss das Signal „ein kurzer Ton“ geben.<br>3. B muss <strong>Kurs und Geschwindigkeit</strong> beibehalten.",
+      "keywords": [
+        "Topplicht",
+        "Bb.-Seitenlicht",
+        "Maschinenfahrzeuges",
+        "A muss ausweichen",
+        "Kurs und Geschwindigkeit"
+      ],
+      "question_images": [
+        "fb15-q12-q1.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q13",
+      "fragebogen": 15,
+      "number": 13,
+      "question": "Wann ist von einem Fahrzeug auf einer Seeschifffahrtsstraße das „allgemeine Gefahr- und Warnsignal“ zu geben und wie lautet es?",
+      "answer": "Gefährdet ein Fahrzeug ein anderes Fahrzeug oder wird es durch dieses selbst gefährdet, hat es, soweit möglich, rechtzeitig das Schallsignal zu geben: ein langer Ton, vier kurze Töne; ein langer Ton, vier kurze Töne.",
+      "answer_html": "<strong>Gefährdet ein Fahrzeug ein anderes Fahrzeug</strong> oder wird es durch dieses <strong>selbst gefährdet</strong>, hat es, soweit möglich, <strong>rechtzeitig</strong> das <strong>Schallsignal</strong> zu geben: <strong>ein langer</strong> Ton, <strong>vier kurze</strong> Töne; ein langer Ton, vier kurze Töne.",
+      "keywords": [
+        "Gefährdet ein Fahrzeug ein anderes Fahrzeug",
+        "selbst gefährdet",
+        "rechtzeitig",
+        "Schallsignal",
+        "ein langer",
+        "vier kurze"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q14",
+      "fragebogen": 15,
+      "number": 14,
+      "question": "Wie müssen sich Segelfahrzeuge verhalten, die, dem Fahrwasserverlauf folgend, sich auf (nahezu) entgegengesetzten Kursen begegnen?",
+      "answer": "Jedes Fahrzeug muss nach Steuerbord ausweichen.",
+      "answer_html": "<strong>Jedes Fahrzeug muss nach Steuerbord ausweichen.</strong>",
+      "keywords": [
+        "Jedes Fahrzeug muss nach Steuerbord ausweichen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q15",
+      "fragebogen": 15,
+      "number": 15,
+      "question": "Was ist das Schiffszertifikat, wer stellt es aus, ab welcher Schiffslänge ist es vorgeschrieben?",
+      "answer": "Das Schiffszertifikat ist der Nachweis, dass ein Schiff im Seeschiffsregister eingetragen ist. Ausgestellt wird es vom Registergericht. Vorgeschrieben ist es ab 15 m Rumpflänge.",
+      "answer_html": "Das Schiffszertifikat ist der Nachweis, dass ein Schiff <strong>im Seeschiffsregister eingetragen</strong> ist. Ausgestellt wird es vom Registergericht. <strong>Vorgeschrieben</strong> ist es <strong>ab 15 m Rumpflänge</strong>.",
+      "keywords": [
+        "im Seeschiffsregister eingetragen",
+        "Vorgeschrieben",
+        "ab 15 m Rumpflänge"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q16",
+      "fragebogen": 15,
+      "number": 16,
+      "question": "Was sind Seeämter und was sind ihre Aufgaben?",
+      "answer": "Seeämter sind bei den Wasser- und Schifffahrtsdirektionen Nord und Nordwest gebildete Untersuchungsausschüsse zur Untersuchung der Frage, ob gegenüber einem Verfahrensbeteiligten ein Fahrverbot ausgesprochen oder ein Befähigungszeugnis bzw. ein amtlicher Führer-schein der Sportschifffahrt entzogen werden muss.",
+      "answer_html": "Seeämter sind bei den Wasser- und Schifffahrtsdirektionen Nord und Nordwest gebildete Untersuchungsausschüsse zur Untersuchung der Frage, ob gegenüber einem Verfahrensbeteiligten ein Fahrverbot ausgesprochen oder ein Befähigungszeugnis bzw. ein amtlicher Führer-schein der Sportschifffahrt entzogen werden muss.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q17",
+      "fragebogen": 15,
+      "number": 17,
+      "question": "Woran erkennt man bei Wolkenbildung eine kräftige Gewitterentwicklung?",
+      "answer": "Am Cumulonimbus, wenn er in großer Höhe einen ambossförmigen Schirm hat.",
+      "answer_html": "Am <strong>Cumulonimbus</strong>, wenn er in großer Höhe einen <strong>ambossförmigen Schirm</strong> hat.",
+      "keywords": [
+        "Cumulonimbus",
+        "ambossförmigen Schirm"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q18",
+      "fragebogen": 15,
+      "number": 18,
+      "question": "Um welche Arten von Fronten handelt es sich in der",
+      "answer": "1. Okklusionsfront (Tiefausläufer). 2.Warmfront. 3. Kaltfront.",
+      "answer_html": "1. Okklusionsfront (Tiefausläufer). 2.Warmfront.<br>3. Kaltfront.",
+      "keywords": [],
+      "question_images": [
+        "fb15-q18-q1.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q19",
+      "fragebogen": 15,
+      "number": 19,
+      "question": "Was ist mit dem Zusatz „Schauerböen“ bei der Windvorhersage verbunden?",
+      "answer": "Besonders während der Passage und auf der Rückseite von Kaltfronten treten in der näheren Umgebung von Schauern Böen auf, die den Mittelwind um 2 Bft überschreiten können.",
+      "answer_html": "Besonders während der <strong>Passage</strong> und auf der <strong>Rückseite</strong> von <strong>Kaltfronten</strong> treten in der näheren Umgebung von Schauern Böen auf, die den Mittelwind um 2 Bft überschreiten können.",
+      "keywords": [
+        "Passage",
+        "Rückseite",
+        "Kaltfronten"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q20",
+      "fragebogen": 15,
+      "number": 20,
+      "question": "Mit welchen Windverhältnissen müssen Sierechnen, wenn Sie im Hafen liegen und der Wind ablandig weht?",
+      "answer": "Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen nicht den Verhältnissen auf der freien See.",
+      "answer_html": "Die <strong>im Hafen</strong> vorherrschenden Windgeschwindigkeiten <strong>entsprechen nicht</strong> den Verhältnissen auf <strong>der freien See</strong>.",
+      "keywords": [
+        "im Hafen",
+        "entsprechen nicht",
+        "der freien See"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q21",
+      "fragebogen": 15,
+      "number": 21,
+      "question": "Welche Windgeschwindigkeit zeigt das Anemometer an, wenn das Fahrzeug Fahrt durchs Wasser macht?",
+      "answer": "Die scheinbare Windgeschwindigkeit.",
+      "answer_html": "Die <strong>scheinbare Wind</strong>geschwindigkeit.",
+      "keywords": [
+        "scheinbare Wind"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q22",
+      "fragebogen": 15,
+      "number": 22,
+      "question": "Was ist ein Trysegel und wie wird es gefahren?",
+      "answer": "Ein Schwerwettersegel, das anstelle des Großsegels mit losem Unterliek gefahren wird.",
+      "answer_html": "Ein <strong>Schwerwettersegel</strong>, das anstelle des <strong>Großsegels</strong> mit <strong>losem Unterliek</strong> gefahren wird.",
+      "keywords": [
+        "Schwerwettersegel",
+        "Großsegels",
+        "losem Unterliek"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q23",
+      "fragebogen": 15,
+      "number": 23,
+      "question": "Welche 4 Bedienelemente besitzt ein mit Handpumpe betriebenes Bord-WC auf einer Yacht?",
+      "answer": "1. Seeventil und Spülwasserschlauch (Seewasser), 2. Handpumpe für Toilettenspülung, 3. Hebel zur Unterbrechung der Seewasserzufuhr (Handpumpe dient dann nur noch zum Abpumpen), 4. Abwasserschlauch (via Fäkalientank) zum Seeventil.",
+      "answer_html": "1. <strong>Seeventil und Spülwasserschlauch</strong> (Seewasser),<br>2. <strong>Handpumpe</strong> für Toilettenspülung,<br>3. <strong>Hebel</strong> zur Unterbrechung der Seewasserzufuhr (Handpumpe dient dann nur noch zum Abpumpen),<br>4. <strong>Abwasserschlauch</strong> (via Fäkalientank) zum <strong>Seeventil</strong>.",
+      "keywords": [
+        "Seeventil und Spülwasserschlauch",
+        "Handpumpe",
+        "Hebel",
+        "Abwasserschlauch",
+        "Seeventil"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q24",
+      "fragebogen": 15,
+      "number": 24,
+      "question": "Das Achterliek Ihres Vorsegels killt. Was ist die Ursache?",
+      "answer": "Der Holepunkt der Schot liegt zu weit achtern.",
+      "answer_html": "Der <strong>Holepunkt</strong> der <strong>Schot</strong> liegt <strong>zu weit achtern</strong>.",
+      "keywords": [
+        "Holepunkt",
+        "Schot",
+        "zu weit achtern"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q25",
+      "fragebogen": 15,
+      "number": 25,
+      "question": "Der Motor Ihres Bootes bleibt beim Einkuppeln stehen. Nennen Sie mögliche Ursachen.",
+      "answer": "1. Propellerwelle durch Tauwerk o. Ä. blockiert, 2. Schwerlauf des Getriebes wegen defekter Zahnräder, Lagerschaden, dicken Öls oder 3. verbogene Propellerwelle.",
+      "answer_html": "1. Propellerwelle durch <strong>Tauwerk o. Ä. blockiert</strong>,<br>2. Schwerlauf des Getriebes wegen <strong>defekter Zahnräder, Lagerschaden, dicken Öls</strong> oder<br>3. <strong>verbogene Propellerwelle</strong>.",
+      "keywords": [
+        "Tauwerk o. Ä. blockiert",
+        "defekter Zahnräder, Lagerschaden, dicken Öls",
+        "verbogene Propellerwelle"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q26",
+      "fragebogen": 15,
+      "number": 26,
+      "question": "Was tun Sie, wenn Ihr Großsegel unter der untersten Lattentasche einreißt?",
+      "answer": "1. Untere Latte entfernen. 2. Segel bis über den Riss reffen.",
+      "answer_html": "1. Untere <strong>Latte entfernen</strong>.<br>2. Segel bis <strong>über den Riss reffen</strong>.",
+      "keywords": [
+        "Latte entfernen",
+        "über den Riss reffen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q27",
+      "fragebogen": 15,
+      "number": 27,
+      "question": "Was erreicht man mit dem Ausbringen eines Treibankers bei schwerer See?",
+      "answer": "Man hält bei richtiger Leinenlänge den Bug im Wind und verringert die Driftgeschwindigkeit.",
+      "answer_html": "Man hält bei richtiger Leinenlänge den <strong>Bug im Wind</strong> und <strong>verringert</strong> die <strong>Driftgeschwindigkeit</strong>.",
+      "keywords": [
+        "Bug im Wind",
+        "verringert",
+        "Driftgeschwindigkeit"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q28",
+      "fragebogen": 15,
+      "number": 28,
+      "question": "Was ist auf Deck einer Yacht ein Strecktau (auch Laufleine genannt) und wozu dient es?",
+      "answer": "Ein neben der Fußreling verlaufender Draht, Gurt oder eine starke Leine zwischen Cockpit und Vorschiff straff gespannt zum Einpicken der Sicherheitsleine (Lifebelt).",
+      "answer_html": "Ein neben der Fußreling verlaufender <strong>Draht</strong>, <strong>Gurt</strong> oder eine starke <strong>Leine zwischen Cockpit und Vorschiff</strong> straff gespannt zum Einpicken der Sicherheitsleine (Lifebelt).",
+      "keywords": [
+        "Draht",
+        "Gurt",
+        "Leine zwischen Cockpit und Vorschiff"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q29",
+      "fragebogen": 15,
+      "number": 29,
+      "question": "Was tun Sie, wenn Ihr Schiff leck-geschlagen ist und das Wasser im Schiff trotz aller Maßnahmen weiter steigt?",
+      "answer": "1. Notzeichen geben, Funkmeldung abgeben, ggf. Radartransponder einschalten. 2. Verlassen des Bootes vorbereiten, Rettungswesten anlegen, Rettungsfloß klarmachen. 3.Wenn möglich, ruhiges Flachwasser anlaufen und Schiff auf Grund setzen.",
+      "answer_html": "1. <strong>Notzeichen</strong> geben, Funkmeldung abgeben, ggf. Radartransponder einschalten.<br>2. <strong>Verlassen</strong> des Bootes <strong>vorbereiten</strong>, <strong>Rettungswesten</strong> anlegen, <strong>Rettungsfloß</strong> klarmachen. 3.Wenn möglich, ruhiges <strong>Flachwasser</strong> anlaufen und <strong>Schiff auf Grund</strong> setzen.",
+      "keywords": [
+        "Notzeichen",
+        "Verlassen",
+        "vorbereiten",
+        "Rettungswesten",
+        "Rettungsfloß",
+        "Flachwasser",
+        "Schiff auf Grund"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb15-q30",
+      "fragebogen": 15,
+      "number": 30,
+      "question": "Nennen Sie 3 Ankertypen, die vom Germanischen Lloyd als Anker mit hoher Haltekraft anerkannt sind.",
+      "answer": "Bruce-Anker, CQR-Anker, Danforth-Anker, D’Hone-Anker.",
+      "answer_html": "Bruce-Anker, CQR-Anker, Danforth-Anker, D’Hone-Anker.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}

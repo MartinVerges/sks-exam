@@ -1,0 +1,455 @@
+{
+  "fragebogen": 11,
+  "count": 30,
+  "questions": [
+    {
+      "id": "fb11-q01",
+      "fragebogen": 11,
+      "number": 1,
+      "question": "Woran erkennen Sie, bis wann eine britische Seekarte „amtlich“ berichtigt ist?",
+      "answer": "Am Berichtigungsstempel auf der Rückseite der Seekarte.",
+      "answer_html": "Am <strong>Berichtigungsstempel auf der Rückseite</strong> der Seekarte.",
+      "keywords": [
+        "Berichtigungsstempel auf der Rückseite"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q02",
+      "fragebogen": 11,
+      "number": 2,
+      "question": "Wie werden Richtungsangaben in nautischen Veröffentlichungen gemacht?",
+      "answer": "1. Rechtweisend in Grad, 2. im Uhrzeigersinn (rechtsherum) zählend.",
+      "answer_html": "1. <strong>Rechtweisend in Grad</strong>,<br>2. <strong>im Uhrzeigersinn</strong> (rechtsherum) zählend.",
+      "keywords": [
+        "Rechtweisend in Grad",
+        "im Uhrzeigersinn"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q03",
+      "fragebogen": 11,
+      "number": 3,
+      "question": "Wo findet man Tabellen zur Ermittlung des Abstandes eines Feuers in der Kimm?",
+      "answer": "In deutschen und britischen Leuchtfeuerverzeichnissen.",
+      "answer_html": "In deutschen und britischen <strong>Leuchtfeuerverzeichnissen</strong>.",
+      "keywords": [
+        "Leuchtfeuerverzeichnissen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q04",
+      "fragebogen": 11,
+      "number": 4,
+      "question": "Welche Fahrt zeigen GPS-Geräte an?",
+      "answer": "Die Fahrt über Grund (FüG).",
+      "answer_html": "Die Fahrt über Grund (<strong>FüG</strong>).",
+      "keywords": [
+        "FüG"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q05",
+      "fragebogen": 11,
+      "number": 5,
+      "question": "Wo finden Sie die erforderlichen Werte der Missweisung? Worauf ist dabei zu achten?",
+      "answer": "1. Die Missweisung findet sich in der Seekarte eingedruckt für ein bestimmtes Jahr. 2. Dieser Wert muss mit der ebenfalls in der Seekarte angegebenen jährlichen Änderung auf das Jahr der Benutzung berichtigt werden.",
+      "answer_html": "1. Die <strong>Missweisung</strong> findet sich <strong>in der Seekarte</strong> eingedruckt für <strong>ein bestimmtes Jahr</strong>.<br>2. Dieser Wert muss mit der ebenfalls in der Seekarte angegebenen <strong>jährlichen Änderung</strong> auf das Jahr der Benutzung <strong>berichtigt</strong> werden.",
+      "keywords": [
+        "Missweisung",
+        "in der Seekarte",
+        "ein bestimmtes Jahr",
+        "jährlichen Änderung",
+        "berichtigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q06",
+      "fragebogen": 11,
+      "number": 6,
+      "question": "Worauf beziehen sich die Tiefenangaben in Seekarten in den deutschen Gewässern der Ost- und Nordsee?",
+      "answer": "Auf Kartennull (KN).",
+      "answer_html": "Auf <strong>Kartennull</strong> (KN).",
+      "keywords": [
+        "Kartennull"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q07",
+      "fragebogen": 11,
+      "number": 7,
+      "question": "Was ist ein Pegel?",
+      "answer": "Eine Skala zur Anzeige des Wasserstandes.",
+      "answer_html": "Eine <strong>Skala</strong> zur Anzeige <strong>des Wasserstandes</strong>.",
+      "keywords": [
+        "Skala",
+        "des Wasserstandes"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q08",
+      "fragebogen": 11,
+      "number": 8,
+      "question": "Was ist das Grundprinzip von GPS?",
+      "answer": "Durch Laufzeitmessungen von GPS- Signalen vom Satelliten zum Empfänger und damit durch Abstandsmessungen zu den Satelliten wird die Ortsbestimmung ermöglicht.",
+      "answer_html": "Durch Lauf<strong>zeitmessungen von</strong> GPS- <strong>Signalen vom Satelliten zum Empfänger</strong> und damit durch <strong>Abstandsmessungen</strong> zu den Satelliten wird die Ortsbestimmung ermöglicht.",
+      "keywords": [
+        "zeitmessungen von",
+        "Signalen vom Satelliten zum Empfänger",
+        "Abstandsmessungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q09",
+      "fragebogen": 11,
+      "number": 9,
+      "question": "Was bedeutet der Begriff AIS auf See?",
+      "answer": "AIS bezeichnet das automatische Identifizierungssystem (Automatic Identification System).",
+      "answer_html": "AIS bezeichnet das <strong>automatische Identifizierungssystem</strong> (Automatic Identification System).",
+      "keywords": [
+        "automatische Identifizierungssystem"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q10",
+      "fragebogen": 11,
+      "number": 10,
+      "question": "Was ist ein „manövrierunfähiges Fahrzeug“?",
+      "answer": "Manövrierunfähig ist ein Fahrzeug, das wegen außergewöhnlicher Umstände (z. B. Ruderbruch) nicht regelgerecht manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann.",
+      "answer_html": "Manövrierunfähig ist ein Fahrzeug, das <strong>wegen außergewöhnlicher Umstände</strong> (z. B. Ruderbruch) <strong>nicht regelgerecht manövrieren</strong> und daher einem anderen Fahrzeug <strong>nicht ausweichen</strong> kann.",
+      "keywords": [
+        "wegen außergewöhnlicher Umstände",
+        "nicht regelgerecht manövrieren",
+        "nicht ausweichen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q11",
+      "fragebogen": 11,
+      "number": 11,
+      "question": "Wie muss man sich verhalten, wenn man gezwungen ist, ein Verkehrstrennungsgebiet zu queren?",
+      "answer": "Kielrichtung (rwK) muss möglichst rechtwinklig zur allgemeinen Verkehrsrichtung zeigen.",
+      "answer_html": "<strong>Kielrichtung</strong> (rwK) muss möglichst <strong>rechtwinklig zur allgemeinen Verkehrsrichtung</strong> zeigen.",
+      "keywords": [
+        "Kielrichtung",
+        "rechtwinklig zur allgemeinen Verkehrsrichtung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q12",
+      "fragebogen": 11,
+      "number": 12,
+      "question": "Welcher Zeitpunkt ist im freien Seeraum entscheidend für die Verantwortlichkeit (hier = Ausweichpflicht!) der Fahrzeuge untereinander?",
+      "answer": "Der Augenblick des ersten Insichtkommens. Eine spätere Änderung der Lage der Fahrzeuge zueinander verändert nicht die Verantwortlichkeit.",
+      "answer_html": "Der Augenblick des <strong>ersten Insichtkommens</strong>. Eine <strong>spätere Änderung</strong> der Lage der Fahrzeuge zueinander <strong>verändert nicht</strong> die Verantwortlichkeit.",
+      "keywords": [
+        "ersten Insichtkommens",
+        "spätere Änderung",
+        "verändert nicht"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q13",
+      "fragebogen": 11,
+      "number": 13,
+      "question": "Was fordern die Grundregeln für das Verhalten im Verkehr?",
+      "answer": "Jeder Verkehrsteilnehmer 1. muss die Sicherheit und Leichtigkeit des Verkehrs gewährleisten, 2. darf andere (nicht nur Verkehrsteilnehmer!) nicht schädigen, gefährden oder mehr als unvermeidbar behindern oder belästigen.",
+      "answer_html": "Jeder Verkehrsteilnehmer<br>1. muss die <strong>Sicherheit und Leichtigkeit</strong> des Verkehrs gewährleisten,<br>2. darf <strong>andere</strong> (nicht nur Verkehrsteilnehmer!) <strong>nicht schädigen, gefährden</strong> oder mehr als unvermeidbar <strong>behindern oder belästigen</strong>.",
+      "keywords": [
+        "Sicherheit und Leichtigkeit",
+        "andere",
+        "nicht schädigen, gefährden",
+        "behindern oder belästigen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q14",
+      "fragebogen": 11,
+      "number": 14,
+      "question": "Welche speziellen Fahrregeln haben Sportfahrzeuge im Nord-Ostsee-Kanal (NOK) einzuhalten?",
+      "answer": "1. Das Segeln ist auf dem NOK verboten. 2. Sportfahrzeuge mit Maschinenantrieb dürfen zusätzlich die Segel setzen. 3. Ein motorbetriebenes Sport fahrzeug darf nur ein Sportfahrzeug schleppen.",
+      "answer_html": "1. Das <strong>Segeln ist</strong> auf dem NOK <strong>verboten</strong>.<br>2. Sportfahrzeuge <strong>mit Maschinenantrieb dürfen zusätzlich</strong> die <strong>Segel setzen</strong>.<br>3. Ein motorbetriebenes <strong>Sport</strong> fahrzeug darf <strong>nur</strong> ein <strong>Sport</strong>fahrzeug <strong>schleppen</strong>.",
+      "keywords": [
+        "Segeln ist",
+        "verboten",
+        "mit Maschinenantrieb dürfen zusätzlich",
+        "Segel setzen",
+        "Sport",
+        "nur",
+        "schleppen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q15",
+      "fragebogen": 11,
+      "number": 15,
+      "question": "Was bedeutet „Queren eines Fahrwassers“ im Sinne der SeeSchStrO",
+      "answer": "Queren bedeutet deutliches Abweichen vom Fahrwasserverlauf, nach allgemeiner Verkehrsmeinung mehr als 10°(z. B. Kreuzen eines Segelfahrzeuges über die gesamte oder auch nur teilweise Fahrwasserbreite).",
+      "answer_html": "Queren bedeutet <strong>deutliches Abweichen</strong> vom Fahrwasserverlauf, nach allgemeiner Verkehrsmeinung <strong>mehr als 10°</strong>(z. B. Kreuzen eines Segelfahrzeuges über die <strong>gesamte oder</strong> auch <strong>nur teilweise</strong> Fahrwasserbreite).",
+      "keywords": [
+        "deutliches Abweichen",
+        "mehr als 10°",
+        "gesamte oder",
+        "nur teilweise"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q16",
+      "fragebogen": 11,
+      "number": 16,
+      "question": "Welche behördlichen Veröffentlichungen für Wassersportler geben Ihnen rechtliche Informationen und Hinweise über das Verhalten auf Seeschifffahrtsstraßen?",
+      "answer": "„Sicherheit auf dem Wasser, Leitfaden für Wassersportler“. „Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler“.",
+      "answer_html": "„Sicherheit auf dem Wasser, Leitfaden für Wassersportler“. „Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler“.",
+      "keywords": [],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q17",
+      "fragebogen": 11,
+      "number": 17,
+      "question": "1. In welcher Maßeinheit wird die Windstärke angegeben? 2. In welchen Maßeinheiten wird die Windgeschwindigkeit angegeben?",
+      "answer": "1. Nach der Beaufortskala (Bft). 2. In kn, m/s und km/h.",
+      "answer_html": "1. Nach der Beaufortskala (<strong>Bft</strong>).<br>2. In <strong>kn</strong>, <strong>m/s</strong> und <strong>km/h</strong>.",
+      "keywords": [
+        "Bft",
+        "kn",
+        "m/s",
+        "km/h"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q18",
+      "fragebogen": 11,
+      "number": 18,
+      "question": "Welche Wolken kündigen oft schon vormittags kräftige Wärmegewitter an?",
+      "answer": "Altocumulus castellanus (mittelhohe türmchenartige Haufenwolken).",
+      "answer_html": "<strong>Altocumulus castellanus</strong> (mittelhohe türmchenartige Haufenwolken).",
+      "keywords": [
+        "Altocumulus castellanus"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q19",
+      "fragebogen": 11,
+      "number": 19,
+      "question": "Mit welchem regionalen Windsystem muss in der Ägäis gerechnet werden?",
+      "answer": "Mit den Etesien/dem Meltemi.",
+      "answer_html": "Mit den Etesien/dem <strong>Meltemi</strong>.",
+      "keywords": [
+        "Meltemi"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q20",
+      "fragebogen": 11,
+      "number": 20,
+      "question": "Wie ist der Aufbau von Seewetterberichten?",
+      "answer": "Hinweise auf Starkwind oder Sturm, Wetterlage, Vorhersagen, Aussichten und Stationsmeldungen.",
+      "answer_html": "Hinweise auf <strong>Starkwind</strong> oder <strong>Sturm</strong>, <strong>Wetterlage</strong>, <strong>Vorhersagen</strong>, <strong>Aussichten</strong> und <strong>Stationsmeldungen</strong>.",
+      "keywords": [
+        "Starkwind",
+        "Sturm",
+        "Wetterlage",
+        "Vorhersagen",
+        "Aussichten",
+        "Stationsmeldungen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q21",
+      "fragebogen": 11,
+      "number": 21,
+      "question": "Wie entsteht Nebel?",
+      "answer": "Zufuhr von Feuchte, Mischung von Luftmassen mit hoher Feuchtigkeit und verschiedener Temperatur, Abkühlung der Luftmasse.",
+      "answer_html": "<strong>Zufuhr von Feuchte</strong>, Mischung von Luftmassen mit hoher Feuchtigkeit und <strong>verschiedener Temperatur</strong>, <strong>Abkühlung</strong> der Luftmasse.",
+      "keywords": [
+        "Zufuhr von Feuchte",
+        "verschiedener Temperatur",
+        "Abkühlung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q22",
+      "fragebogen": 11,
+      "number": 22,
+      "question": "Was versteht man beim GFK-Bootsbau unter Sandwichverfahren (GFK = glasfaserverstärkter Kunststoff)?",
+      "answer": "Zwischen zwei GFK-Schichten wird eine Zwischenlage zur Versteifung einlaminiert, z. B. aus Balsaholz.",
+      "answer_html": "<strong>Zwischen zwei GFK-Schichten</strong> wird eine Zwischenlage <strong>zur Versteifung</strong> einlaminiert, z. B. aus Balsaholz.",
+      "keywords": [
+        "Zwischen zwei GFK-Schichten",
+        "zur Versteifung"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q23",
+      "fragebogen": 11,
+      "number": 23,
+      "question": "Wozu dient der Lenzkorb am Ansaugstutzen einer Lenzpumpe und wie erhalten Sie damit ihre Funktionsfähigkeit?",
+      "answer": "Der Lenzkorb verhindert Verunreinigungen und Verstopfungen der Lenzpumpe. Er muss regelmäßig überprüft und gereinigt werden.",
+      "answer_html": "Der Lenzkorb <strong>verhindert Verunreinigungen</strong> und <strong>Verstopfungen</strong> der Lenzpumpe. Er muss regelmäßig <strong>überprüft</strong> und <strong>gereinigt</strong> werden.",
+      "keywords": [
+        "verhindert Verunreinigungen",
+        "Verstopfungen",
+        "überprüft",
+        "gereinigt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q24",
+      "fragebogen": 11,
+      "number": 24,
+      "question": "Beschreiben Sie in 5 Schritten die Bedienung eines Bord-WC auf einer Yacht.",
+      "answer": "1. Seeventil für Seewasserspülung öffnen, 2. Handpumpe betätigen, sodass das Becken gespült wird und gleichzeitig die Fäkalien abfließen – ausgiebig spülen, 3. Seewasserzufuhr unterbrechen (Hebel umlegen), 4. Becken mit Handpumpe leer pumpen, 5. Seeventile für Zu- und Abfluss schließen.",
+      "answer_html": "1. <strong>Seeventil</strong> für Seewasserspülung <strong>öffnen</strong>,<br>2. <strong>Handpumpe</strong> betätigen, sodass das Becken gespült wird und gleichzeitig die Fäkalien abfließen – ausgiebig spülen,<br>3. Seewasserzufuhr unterbrechen (<strong>Hebel umlegen</strong>),<br>4. <strong>Becken</strong> mit Handpumpe <strong>leer pumpen</strong>,<br>5. <strong>Seeventile</strong> für Zu- und Abfluss <strong>schließen</strong>.",
+      "keywords": [
+        "Seeventil",
+        "öffnen",
+        "Handpumpe",
+        "Hebel umlegen",
+        "Becken",
+        "leer pumpen",
+        "Seeventile",
+        "schließen"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q25",
+      "fragebogen": 11,
+      "number": 25,
+      "question": "Mit welchen 6 Teilen des laufenden und stehenden Guts können Sie ein Großsegel trimmen?",
+      "answer": "Großschot, Traveller, Unterliekstrecker, Cunninghamstrecker, Großfall, Achterliek.",
+      "answer_html": "<strong>Großschot, Traveller, Unterliekstrecker, Cunninghamstrecker, Großfall, Achterliek</strong>.",
+      "keywords": [
+        "Großschot, Traveller, Unterliekstrecker, Cunninghamstrecker, Großfall, Achterliek"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q26",
+      "fragebogen": 11,
+      "number": 26,
+      "question": "Welche Motor-Ersatzteile bzw. Schmierstoffe sollten Sie mindestens an Bord haben?",
+      "answer": "1. Impeller für die Wasserpumpe, 2. Reservekeilriemen, 3. Motorenöl, 4. Dichtungsmaterial.",
+      "answer_html": "<strong>1. Impeller für die Wasserpumpe,</strong><br><strong>2. Reservekeilriemen,</strong><br><strong>3. Motorenöl,</strong><br><strong>4. Dichtungsmaterial.</strong>",
+      "keywords": [
+        "1. Impeller für die Wasserpumpe",
+        "2. Reservekeilriemen",
+        "3. Motorenöl",
+        "4. Dichtungsmaterial"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q27",
+      "fragebogen": 11,
+      "number": 27,
+      "question": "Sie sind mit ihrer Segelyacht auf See. Was veranlassen Sie bei einem Gewitteraufzug?",
+      "answer": "1. Vorsegel rechtzeitig ver kleiner n, 2. Großsegel klar zum Reffen oder Bergen, 3. Schlechtwetter kleidung, Sicherheitsgurte und Rettungswesten anlegen, 4. Position in Karte eintragen.",
+      "answer_html": "1. <strong>Vorsegel</strong> rechtzeitig ver <strong>kleiner</strong> n,<br>2. <strong>Großsegel</strong> klar zum <strong>Reffen oder Bergen</strong>,<br>3. Schlechtwetter <strong>kleidung</strong>, <strong>Sicherheitsgurte</strong> und <strong>Rettungswesten</strong> anlegen,<br>4. <strong>Position in Karte</strong> eintragen.",
+      "keywords": [
+        "Vorsegel",
+        "kleiner",
+        "Großsegel",
+        "Reffen oder Bergen",
+        "kleidung",
+        "Sicherheitsgurte",
+        "Rettungswesten",
+        "Position in Karte"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q28",
+      "fragebogen": 11,
+      "number": 28,
+      "question": "Sie kreuzen bei frischem Wind und mitlaufendem Strom (Wind gegen Strom) nach Luv auf. Welche Auswirkungen hat ein gegen den Wind setzender Strom auf den Seegang?",
+      "answer": "Durch den Strom entsteht eine kurze, steile und kabbelige See.",
+      "answer_html": "Durch den Strom entsteht eine <strong>kurze, steile und kabbelige See</strong>.",
+      "keywords": [
+        "kurze, steile und kabbelige See"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q29",
+      "fragebogen": 11,
+      "number": 29,
+      "question": "Wie wird die ständige Funktionssicherheit eines Feuerlöschers sichergestellt?",
+      "answer": "1. Durch Einhaltung des vorgeschriebenen Prüftermins, ersichtlich aus der Prüfplakette. 2. Der Feuerlöscher muss vor Feuchtigkeit und Korrosion geschützt werden.",
+      "answer_html": "1. Durch Einhaltung des <strong>vorgeschriebenen Prüftermins</strong>, ersichtlich aus der <strong>Prüfplakette</strong>.<br>2. Der Feuerlöscher muss <strong>vor Feuchtigkeit und Korrosion geschützt</strong> werden.",
+      "keywords": [
+        "vorgeschriebenen Prüftermins",
+        "Prüfplakette",
+        "vor Feuchtigkeit und Korrosion geschützt"
+      ],
+      "question_images": [],
+      "answer_images": []
+    },
+    {
+      "id": "fb11-q30",
+      "fragebogen": 11,
+      "number": 30,
+      "question": "Wozu dient ein Reitgewicht (Gleitgewicht, Ankergewicht) beim Ankern?",
+      "answer": "Es soll die Ankertrosse auf den Grund ziehen, damit der Anker nicht durch einen zu steilen Winkel aus dem Grund gebrochen wird. Es wirkt ruckdämpfend.",
+      "answer_html": "Es soll die <strong>Ankertrosse auf den Grund ziehen</strong>, damit der Anker <strong>nicht durch</strong> einen <strong>zu steilen Winkel aus dem Grund gebrochen</strong> wird. Es wirkt <strong>ruckdämpfend</strong>.",
+      "keywords": [
+        "Ankertrosse auf den Grund ziehen",
+        "nicht durch",
+        "zu steilen Winkel aus dem Grund gebrochen",
+        "ruckdämpfend"
+      ],
+      "question_images": [],
+      "answer_images": []
+    }
+  ]
+}
