@@ -192,10 +192,19 @@ input:focus, select:focus, label.field textarea:focus { outline:2px solid var(--
 .stat .lbl { font-size:11px; color: var(--muted); text-transform:uppercase; letter-spacing:.4px; }
 .progress { height:10px; border-radius:999px; background:var(--surface-2); overflow:hidden; margin:6px 0 2px; }
 .progress > i { display:block; height:100%; background:linear-gradient(90deg,var(--brand),var(--brand-2)); }
+/* gestapelter Fortschrittsbalken: gemeistert / gut / schwach, Rest = offen (Track) */
+.stacked { display:flex; height:12px; border-radius:999px; background:var(--surface-2); overflow:hidden; margin:6px 0 2px; }
+.stacked > span { height:100%; }
+.seg-mastered { background:var(--ok); }
+.seg-good { background:var(--brand-2); }
+.seg-weak { background:var(--err); }
+.legend { display:flex; flex-wrap:wrap; gap:10px 16px; margin-top:14px; font-size:12px; color:var(--muted); }
+.legend > span { display:inline-flex; align-items:center; gap:6px; }
+.legend i { width:11px; height:11px; border-radius:3px; display:inline-block; flex:none; }
 .fb-row { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); }
 .fb-row:last-child { border-bottom:none; }
 .fb-row .name { width:120px; font-size:14px; font-weight:600; }
-.fb-row .progress { flex:1; margin:0; }
+.fb-row .progress, .fb-row .stacked { flex:1; margin:0; }
 .fb-row .pct { width:42px; text-align:right; font-size:13px; color:var(--muted); }
 
 .chips { display:flex; flex-wrap:wrap; gap:8px; }

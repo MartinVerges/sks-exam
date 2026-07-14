@@ -209,7 +209,9 @@ async function gradeAnswer(q, userAnswer) {
   });
   if (!res.ok) {
     const t = await res.text().catch(() => '');
-    throw new Error(`Bewertung fehlgeschlagen (${res.status}). ${t.slice(0, 200)}`);
+    const err = new Error(`Bewertung fehlgeschlagen (${res.status}). ${t.slice(0, 200)}`);
+    err.status = res.status;
+    throw err;
   }
   const data = await res.json();
   const msg = data.choices?.[0]?.message || {};
@@ -594,6 +596,25 @@ async function onMic() {
   }
 }
 
+// Transiente Fehler (kurzzeitige OpenAI-Auth-/Rate-/Serverfehler oder Netzwerk-Aussetzer),
+// die ein simples "nochmal versuchen" behebt. 401 ist hier absichtlich dabei: OpenAI liefert
+// gelegentlich sporadische 401 "insufficient permissions", die beim Retry sofort durchgehen.
+function isTransient(status) { return !status || status === 401 || status === 429 || status >= 500; }
+
+// Bewertet mit automatischem Retry bei transienten Fehlern; wirft den Fehler final durch.
+async function gradeAnswerResilient(q, ans, tries = 3) {
+  let last;
+  for (let i = 0; i < tries; i++) {
+    try { return await gradeAnswer(q, ans); }
+    catch (e) {
+      last = e;
+      if (i < tries - 1 && isTransient(e.status)) { await new Promise(r => setTimeout(r, 500 * (i + 1))); continue; }
+      throw e;   // permanenter Fehler (z. B. 400/404) oder letzter Versuch -> anzeigen
+    }
+  }
+  throw last;
+}
+
 async function onSubmit() {
   const ta = $('#answer'); const ans = ta.value.trim();
   if (!ans) { toast('Bitte zuerst eine Antwort eingeben'); return; }
@@ -601,7 +622,7 @@ async function onSubmit() {
   const btn = $('#submitBtn'); btn.disabled = true; const orig = btn.textContent;
   btn.innerHTML = '<span class="spinner"></span> Bewerte …';
   try {
-    const result = await gradeAnswer(currentQ, ans);
+    const result = await gradeAnswerResilient(currentQ, ans);
     applyResult(currentQ.id, result.verdict);
     showModelAnswer(result);
   } catch (e) {
@@ -680,40 +701,56 @@ function showModelAnswer(result) {
   if (settings.autoRead && settings.ttsEnabled) speak(q.answer);
 }
 
+// Zustand einer Frage für die Fortschrittsanzeige.
+function questionCat(id) {
+  const r = progress[id];
+  if (!r || !r.seen) return 'open';                 // noch nie beantwortet
+  if (r.last === 'correct') return r.box >= 4 ? 'mastered' : 'good';
+  return 'weak';                                      // gesehen, zuletzt falsch
+}
+// Zählt die Zustände einer Fragenliste.
+function tallyCats(qs) {
+  const c = { mastered: 0, good: 0, weak: 0, open: 0, total: qs.length };
+  for (const q of qs) c[questionCat(q.id)]++;
+  return c;
+}
+// Gestapelter Balken: gemeistert -> gut -> schwach, Rest bleibt Track (= offen).
+function stackedBar(c) {
+  const w = n => c.total ? (n / c.total * 100) : 0;
+  const seg = (cls, n) => n ? `<span class="${cls}" style="width:${w(n)}%"></span>` : '';
+  return `<div class="stacked">${seg('seg-mastered', c.mastered)}${seg('seg-good', c.good)}${seg('seg-weak', c.weak)}</div>`;
+}
+
 function renderStats() {
   stopExamTimer();
   $('#subtitle').textContent = 'Statistik';
   const total = QUESTIONS.length;
-  const isRight = id => progress[id] && progress[id].last === 'correct';
-  const isMasteredQ = id => progress[id] && progress[id].box >= 4;   // 4× richtig in Folge
-  let seen = 0, right = 0, due = 0, mastered = 0;
-  for (const q of QUESTIONS) {
-    const r = progress[q.id];
-    if (r && r.seen) { seen++; if (r.last === 'correct') { right++; if (r.box >= 4) mastered++; } else due++; }
-  }
-  const pct = total ? Math.round(right / total * 100) : 0;
-  // per-Fragebogen: Anteil zuletzt richtig beantworteter Fragen
+  const c = tallyCats(QUESTIONS);
+  const pct = total ? Math.round((c.mastered + c.good) / total * 100) : 0;   // "richtig" = gemeistert + gut
   const perFb = INDEX.fragebogen.map(f => {
     const qs = QUESTIONS.filter(q => q.fragebogen === f.fragebogen);
-    const r = qs.filter(q => isRight(q.id)).length;
-    return { fb: f.fragebogen, total: qs.length, right: r, pct: Math.round(r / qs.length * 100) };
+    const fc = tallyCats(qs);
+    return { fb: f.fragebogen, cats: fc, pct: fc.total ? Math.round((fc.mastered + fc.good) / fc.total * 100) : 0 };
   });
+  const legend = `
+    <div class="legend">
+      <span><i style="background:var(--ok)"></i>gemeistert (${c.mastered})</span>
+      <span><i style="background:var(--brand-2)"></i>gut (${c.good})</span>
+      <span><i style="background:var(--err)"></i>schwach (${c.weak})</span>
+      <span><i style="background:var(--surface-2);border:1px solid var(--border)"></i>offen (${c.open})</span>
+    </div>`;
   view().innerHTML = `
     <div class="card">
       <h2>Gesamtfortschritt</h2>
-      <div class="progress"><i style="width:${pct}%"></i></div>
-      <div class="small muted">${right} von ${total} Fragen richtig beantwortet (${pct}%) · davon ${mastered} sicher gemeistert (4× richtig)</div>
-      <div class="stat-grid" style="margin-top:14px">
-        <div class="stat"><div class="num">${seen}</div><div class="lbl">gesehen</div></div>
-        <div class="stat"><div class="num" style="color:var(--ok)">${right}</div><div class="lbl">richtig</div></div>
-        <div class="stat"><div class="num" style="color:var(--warn)">${due}</div><div class="lbl">zu üben</div></div>
-      </div>
+      ${stackedBar(c)}
+      <div class="small muted" style="margin-top:6px">${c.mastered + c.good} von ${total} Fragen richtig (${pct}%) · davon ${c.mastered} sicher gemeistert (4× richtig)</div>
+      ${legend}
     </div>
     <div class="card">
       <h2>Nach Fragebogen</h2>
       ${perFb.map(f => `<div class="fb-row">
         <div class="name">Fragebogen ${f.fb}</div>
-        <div class="progress"><i style="width:${f.pct}%"></i></div>
+        ${stackedBar(f.cats)}
         <div class="pct">${f.pct}%</div>
       </div>`).join('')}
     </div>
