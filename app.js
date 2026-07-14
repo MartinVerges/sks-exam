@@ -21,6 +21,7 @@ const DEFAULT_SETTINGS = {
   disableThinking: true,   // wird für api.openai.com automatisch ignoriert (chatExtra); relevant für Qwen3/vLLM
   sttEnabled: true,
   sttModel: 'whisper-1',
+  sttPrompt: '',      // eigene Fachbegriffe (Komma-getrennt) als STT-Kontext
   ttsEnabled: false,
   ttsModel: 'tts-1',
   ttsVoice: 'alloy',
@@ -233,13 +234,131 @@ async function gradeAnswer(q, userAnswer) {
   };
 }
 
-async function transcribe(blob) {
+// Immer mitgesendeter Kern: kurze Orientierungs-/Grundbegriffe, die Whisper oft verhört
+// und die der Längen-Heuristik unten durchrutschen würden.
+const STT_CORE = [
+  'Backbord', 'Steuerbord', 'Luv', 'Lee', 'Bug', 'Heck', 'Kiel', 'Rumpf', 'Pinne', 'Ruder',
+  'Fock', 'Genua', 'Halse', 'Wende', 'reffen', 'anluven', 'abfallen', 'Kimm', 'Bö', 'Tide',
+  'Ebbe', 'Flut', 'KVR', 'Peilung', 'Betonnung', 'Anker', 'Törn',
+];
+
+// Umfassendes Fachglossar aus dem Fragenkatalog (Substring-Match, daher Grundformen –
+// "Steuerbord" trifft auch "Steuerbordseite"/"Steuerbords" usw.). Wird NICHT komplett
+// gesendet, sondern dient als Trefferliste: pro Frage gehen nur die hier bekannten Begriffe
+// mit, die im Fragen-/Antworttext vorkommen (siehe buildSttPrompt).
+const STT_GLOSSARY = [
+  // Navigation & Seekarte
+  'Seekarte', 'Fahrwasser', 'Fahrwasserachse', 'Untiefe', 'Kreuzpeilung', 'Deckpeilung',
+  'Kompasspeilung', 'Standlinie', 'Kurslinie', 'Koppelnavigation', 'Besteckversetzung',
+  'Beschickung', 'Missweisung', 'Deviation', 'Ablenkung', 'Ablenkungstabelle', 'Steuertafel',
+  'Fehlweisung', 'Magnetkompass', 'Kugelkompass', 'Kompassnadel', 'Kartennull', 'Kartentiefe',
+  'Kartendatum', 'Kartenbezugssystem', 'Seehandbuch', 'Leuchtfeuerverzeichnis', 'Erdkrümmung',
+  'Augeshöhe', 'Fehlerkreis', 'Positionsbestimmung', 'Ortsbestimmung', 'Koordinaten', 'Basislinie',
+  'Küstenmeer', 'Hoheitsgewässer', 'Wirtschaftszone', 'Seemeile', 'Kartennullebene',
+  // Betonnung & Feuer
+  'Lateralzeichen', 'Kardinalzeichen', 'Steuerbordtonne', 'Backbordtonne', 'Fasstonne',
+  'Spierentonne', 'Leuchttonne', 'Großtonne', 'Bake', 'Pricke', 'Sonderzeichen', 'Schifffahrtszeichen',
+  'Leuchtfeuer', 'Sektorenfeuer', 'Quermarkenfeuer', 'Oberfeuer', 'Unterfeuer', 'Leitfeuer',
+  'Feuerhöhe', 'Kennung', 'Nenntragweite', 'Tragweite', 'Warnsektor', 'Sektorengrenze',
+  'Befeuerung', 'Radarreflektor', 'Radartransponder', 'Markierungsblitzboje', 'Feuerschiff',
+  // KVR & Verkehr
+  'Kollisionsverhütungsregeln', 'SeeSchStrO', 'Ausweichregel', 'Ausweichpflicht', 'Ausweichmanöver',
+  'Wegerecht', 'Wartepflicht', 'Kurshalter', 'Kurshaltepflicht', 'Vorfahrt', 'Verkehrstrennungsgebiet',
+  'Trennzone', 'Trennlinie', 'Einbahnweg', 'Küstenverkehrszone', 'Verkehrszentrale', 'Passierseite',
+  'Insichtkommen', 'Zusammenstoß', 'Kollisionsgefahr', 'Passierbehinderung',
+  // Lichter, Signale & Fahrzeugarten
+  'Lichterführung', 'Topplicht', 'Hecklicht', 'Seitenlicht', 'Steuerbordlicht', 'Backbordlicht',
+  'Rundumlicht', 'Ankerlicht', 'Schlepplicht', 'Fahrtlichter', 'Schallsignal', 'Nebelsignal',
+  'Signalkörper', 'Glockenschläge', 'Motoryacht', 'Maschinenfahrzeug', 'manövrierbehindert',
+  'manövrierunfähig', 'Segelfahrzeug', 'Sportfahrzeug', 'Minenräumfahrzeug', 'Schleppverband',
+  'Schlepptrosse', 'Tonnenleger', 'Kabelleger', 'Vermessungsfahrzeug', 'Rohrleger',
+  // Segel & Rigg
+  'Großsegel', 'Großbaum', 'Großschot', 'Vorsegel', 'Sturmfock', 'Rollfock', 'Spinnaker', 'Reff',
+  'reffen', 'Reffleine', 'Reffkausch', 'Reffbändsel', 'Unterliek', 'Achterliek', 'Vorliek',
+  'Unterliekstrecker', 'Vorliekstrecker', 'Cunningham', 'Baumniederholer', 'Traveller', 'Holepunkt',
+  'Schothorn', 'Wanten', 'Achterstag', 'Vorstag', 'Abstag', 'Achterstagsspannung', 'Saling',
+  'Takelung', 'Besegelung', 'Segeldruckpunkt', 'Lateralplan', 'Krängung', 'Luvgierigkeit',
+  'anluven', 'abfallen', 'Schwerwettersegel',
+  // Manöver, Ankern & Antrieb
+  'ankern', 'Ankerkette', 'Ankertrosse', 'Ankerleine', 'Ankergrund', 'Ankerplatz', 'Schwojen',
+  'Schwojraum', 'Reitgewicht', 'Treibanker', 'Kettenvorlauf', 'Haltekraft', 'Festmacherleine',
+  'Vorspring', 'Achterspring', 'Vorleine', 'Achterleine', 'Wurfleine', 'Verwarpen', 'Drehkreis',
+  'Stoppstrecke', 'Bugstrahlruder', 'Ruderlage', 'Hartruderlage', 'Querschub', 'Propeller',
+  'Saildrive', 'Impeller', 'Bilgenpumpe', 'Lenzpumpe',
+  // Gezeiten & Strom
+  'Gezeiten', 'Tidenhub', 'Tidengewässer', 'Niedrigwasser', 'Hochwasser', 'Springzeit', 'Nippzeit',
+  'Springtide', 'Nipptide', 'Stromkenterung', 'Gezeitenstrom', 'Gezeitentafel', 'Gezeitenstromatlas',
+  'Gezeitenstromtabelle', 'Stauwasser', 'Wasserstand', 'Kentern',
+  // Wetter
+  'Seewetterbericht', 'Beaufort', 'Beaufortskala', 'Windstärke', 'Böigkeit', 'Kaltfront', 'Warmfront',
+  'Okklusion', 'Okklusionsfront', 'Luftmassengrenze', 'Isobaren', 'Tiefdruckgebiet', 'Hochdruckgebiet',
+  'Bodentief', 'Druckgefälle', 'Taupunkt', 'Taubildung', 'Kondensation', 'Cumulonimbus', 'Altocumulus',
+  'Cirrostratus', 'Haufenwolke', 'Gewitterwolke', 'Düseneffekt', 'Fallwind', 'Seewind', 'Landwind',
+  'Windverdriftung', 'Winddrehung', 'rückdrehend', 'rechtdrehend', 'Anemometer', 'Saharastaub',
+  // Funk & Elektronik
+  'UKW-Seefunk', 'Sprechfunk', 'DSC', 'Rufzeichen', 'MMSI', 'AIS', 'Radar', 'Radarecho',
+  'Radarschatten', 'Seegangsclutter', 'DGPS', 'Satellitennavigation', 'Referenzstation',
+  'Seenotfunkbake', 'Handsprechfunkgerät', 'Jachtfunkdienst', 'Seefunkanlage', 'Küstenfunkstelle',
+  // Sicherheit & Notfall
+  'Seenotsignal', 'Seenotsignalmittel', 'Fallschirmrakete', 'Handfackel', 'Rauchsignal',
+  'Rettungsinsel', 'Rettungsfloß', 'Rettungsweste', 'Lifebelt', 'Sicherheitsgurt', 'Bergegurt',
+  'Karabinerhaken', 'Trittschlinge', 'Rettungsschlinge', 'Rettungstalje', 'Lecksuche', 'Leckstelle',
+  'Feuerlöscher', 'Pulverlöscher', 'Löschdecke', 'Seeventil', 'Überbordfallen', 'Überbordgefallene',
+  // Recht, Umwelt & Dokumente
+  'MARPOL', 'Seeschifffahrtsstraße', 'Binnenwasserstraße', 'Seeschifffahrtsstraßen-Ordnung',
+  'Nachrichten für Seefahrer', 'Bekanntmachungen für Seefahrer', 'Berichtigung', 'Befähigungszeugnis',
+  'Schiffszertifikat', 'Bundesflagge', 'Seeamt', 'Seeunfalluntersuchung', 'Meeresumwelt', 'Schiffsmüll',
+  'Sondergebiet', 'Promille', 'Serviceplakette',
+  // Rumpf & Stabilität
+  'Formschwerpunkt', 'Massenschwerpunkt', 'Gewichtskraft', 'Auftriebskraft', 'Hebelarm', 'Stabilität',
+  'Tiefgang', 'Rumpflänge', 'Beladungszustand', 'Zinkanode', 'Elektrolyse', 'Korrosion',
+  // Sonstiges
+  'Echolot', 'Handlot', 'Lotung', 'Logge', 'Keilriemen',
+];
+
+// Häufige, harmlose Großschreibungen, die die Heuristik NICHT als Fachbegriff werten soll.
+const STT_STOP = new Set(['welche', 'warum', 'nennen', 'beschreiben', 'erklären', 'bedeutung',
+  'maßnahmen', 'möglichkeiten', 'voraussetzungen', 'unterschiede', 'informationen', 'bestimmungen',
+  'veränderungen', 'sicherheit', 'geschwindigkeit', 'entfernung', 'begründung', 'außerhalb']);
+
+// Baut den Whisper-Kontext für EINE Frage:
+//  - Kern (STT_CORE) immer dabei, steht vorn (wird zuerst gekürzt, falls nötig)
+//  - Glossar-Begriffe, die in dieser Frage/Antwort vorkommen, + lange Komposita aus der Antwort
+//    (heuristisch) + eigene Begriffe + Frage-Keywords ans ENDE (Whisper gewichtet das Ende stärker)
+//  - aufs ~224-Token-Budget getrimmt, von vorne, damit das Fragen-spezifische erhalten bleibt.
+function buildSttPrompt(q) {
+  const kws = (q && Array.isArray(q.keywords)) ? q.keywords : [];
+  const custom = (settings.sttPrompt || '').split(',').map(s => s.trim()).filter(Boolean);
+  const hay = ((q && q.question || '') + ' ' + (q && q.answer || '') + ' ' + kws.join(' ')).toLowerCase();
+  const relevant = STT_GLOSSARY.filter(t => hay.includes(t.toLowerCase()));
+  // Lange, großgeschriebene Wörter aus der Antwort (Komposita, die das Glossar evtl. nicht kennt)
+  const fromAnswer = [];
+  const seenLong = new Set();
+  for (const w of ((q && q.answer) || '').match(/[A-ZÄÖÜ][a-zäöüß]{7,}/g) || []) {
+    const k = w.toLowerCase();
+    if (!STT_STOP.has(k) && !seenLong.has(k)) { seenLong.add(k); fromAnswer.push(w); }
+  }
+  const all = [...STT_CORE, ...relevant, ...fromAnswer, ...custom, ...kws];
+  const seen = new Set();
+  const ordered = [];
+  for (let i = all.length - 1; i >= 0; i--) {
+    const k = all[i].toLowerCase();
+    if (!seen.has(k)) { seen.add(k); ordered.unshift(all[i]); }
+  }
+  const prefix = 'Segeln und Seefahrt, SKS-Theorieprüfung. Fachbegriffe: ';
+  const MAX = 560; // Zeichen fürs Term-Segment (bleibt sicher unter 224 Tokens)
+  while (ordered.length && (prefix + ordered.join(', ')).length > MAX) ordered.shift();
+  return prefix + ordered.join(', ') + '.';
+}
+
+async function transcribe(blob, contextQ) {
   const base = apiBase();
   if (!base) throw new Error('Keine API-URL konfiguriert.');
   const fd = new FormData();
   fd.append('file', blob, 'audio.webm');
   fd.append('model', settings.sttModel);
   fd.append('language', 'de');
+  fd.append('prompt', buildSttPrompt(contextQ));
   const res = await fetch(base + '/audio/transcriptions', { method: 'POST', headers: authHeaders(), body: fd });
   if (!res.ok) { const t = await res.text().catch(() => ''); throw new Error(`Transkription fehlgeschlagen (${res.status}). ${t.slice(0, 200)}`); }
   const data = await res.json().catch(() => null);
@@ -392,6 +511,7 @@ function formatAnswerHtml(html) {
 // ---------- Views ----------
 const view = () => $('#view');
 let currentQ = null;
+let activeQuestion = null;   // aktuell angezeigte Frage (Lern- oder Prüfungsmodus) für STT-Kontext
 
 function needsConfig() { return !settings.apiKey || !apiBase(); }
 
@@ -447,6 +567,7 @@ function renderHome() {
   $('#submitBtn').onclick = onSubmit;
   $('#skipBtn').onclick = renderHome;
   $('#revealBtn').onclick = () => showModelAnswer(null);
+  activeQuestion = q;
   $('#micBtn').onclick = onMic;
   if (settings.autoRead && settings.ttsEnabled) speak(q.question);
 }
@@ -464,7 +585,7 @@ async function onMic() {
     btn.innerHTML = '<span class="spinner"></span>';
     try {
       const blob = await stopRecording();
-      const text = await transcribe(blob);
+      const text = await transcribe(blob, activeQuestion);
       const ta = $('#answer');
       ta.value = (ta.value ? ta.value.trim() + ' ' : '') + text;
       ta.focus();
@@ -633,6 +754,9 @@ function renderSettings() {
       <div class="switch"><span>Spracheingabe (Mikrofon → KI-Transkription)</span>
         <label class="toggle"><input type="checkbox" id="sttEnabled" ${settings.sttEnabled ? 'checked' : ''}><span class="slider"></span></label></div>
       <label class="field"><span>STT-Modell</span><input type="text" id="sttModel" value="${esc(settings.sttModel)}" placeholder="whisper-1"></label>
+      <label class="field"><span>Eigene Fachbegriffe (Komma-getrennt)</span>
+        <textarea id="sttPrompt" rows="2" placeholder="z. B. Quermarkenfeuer, Kardinaltonne, Nipptide">${esc(settings.sttPrompt)}</textarea></label>
+      <div class="small muted" style="margin-top:4px">Hilft der Spracherkennung bei Bootsbegriffen. Die Schlüsselwörter der aktuellen Frage werden automatisch ergänzt.</div>
       <div class="switch"><span>Vorlesen (KI-Stimme, TTS)</span>
         <label class="toggle"><input type="checkbox" id="ttsEnabled" ${settings.ttsEnabled ? 'checked' : ''}><span class="slider"></span></label></div>
       <label class="field"><span>TTS-Modell</span><input type="text" id="ttsModel" value="${esc(settings.ttsModel)}" placeholder="tts-1"></label>
@@ -666,6 +790,7 @@ function renderSettings() {
     settings.disableThinking = $('#disableThinking').checked;
     settings.sttEnabled = $('#sttEnabled').checked;
     settings.sttModel = $('#sttModel').value.trim() || 'whisper-1';
+    settings.sttPrompt = $('#sttPrompt').value.trim();
     settings.ttsEnabled = $('#ttsEnabled').checked;
     settings.ttsModel = $('#ttsModel').value.trim() || 'tts-1';
     settings.ttsVoice = $('#ttsVoice').value.trim() || 'alloy';
@@ -674,7 +799,7 @@ function renderSettings() {
     saveSettings(settings);
   };
   // live speichern
-  $$('#view input, #view select').forEach(el => el.addEventListener('change', collect));
+  $$('#view input, #view select, #view textarea').forEach(el => el.addEventListener('change', collect));
 
   // Fragebogen-Chips
   $$('#view .chip').forEach(chip => chip.onclick = () => {
@@ -816,6 +941,7 @@ function renderExamQuestion() {
 
   const saveCur = () => { exam.answers[qid] = $('#answer').value; saveExam(); };
   $('#answer').addEventListener('input', () => { exam.answers[qid] = $('#answer').value; });
+  activeQuestion = q;
   $('#micBtn').onclick = onMic;
   $('#prevBtn').onclick = () => { saveCur(); if (exam.index > 0) { exam.index--; saveExam(); renderExamQuestion(); } };
   $('#nextBtn').onclick = () => { saveCur(); if (exam.index < total - 1) { exam.index++; saveExam(); renderExamQuestion(); } else renderExamSubmitPrompt(); };

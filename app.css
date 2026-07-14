@@ -171,11 +171,12 @@ textarea.answer:focus { outline: 2px solid var(--brand-2); border-color: var(--b
 /* Forms */
 label.field { display:block; margin-bottom:12px; }
 label.field span { display:block; font-size:13px; font-weight:600; margin-bottom:5px; color: var(--muted); }
-input[type=text], input[type=password], input[type=url], select {
+input[type=text], input[type=password], input[type=url], select, label.field textarea {
   width:100%; padding:11px 12px; border-radius:10px; border:1px solid var(--border);
   background: var(--surface); color: var(--text); font-size:15px;
 }
-input:focus, select:focus { outline:2px solid var(--brand-2); border-color:var(--brand-2); }
+label.field textarea { resize:vertical; font-family:inherit; line-height:1.4; }
+input:focus, select:focus, label.field textarea:focus { outline:2px solid var(--brand-2); border-color:var(--brand-2); }
 .switch { display:flex; align-items:center; justify-content:space-between; padding:10px 0; }
 .toggle { position:relative; width:48px; height:28px; }
 .toggle input { opacity:0; width:0; height:0; }
